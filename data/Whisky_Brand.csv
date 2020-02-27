@@ -1,0 +1,4881 @@
+Brand_ID,Brand,Country,Whiskies,Votes,Rating,Brand_Ranking
+1,"""GF""",Scotland,3,3,91.42,B
+2,"""L""",Scotland,1,1,83.67,D
+3,"""zari"" on top",Scotland,1,NA,NA,G
+4,'S Peaty,Scotland,11,5,86.81,C
+5,'t Koelschip,Netherlands,8,6,33.45,G
+6,(ri)1,United States,3,3,71.13,F
+7,100 Pipers,Scotland,33,11,72.72,F
+8,100% Islay Selection,Scotland,5,4,86.36,C
+9,106 Sample Room,Scotland,1,NA,NA,G
+10,10th Mountain,United States,2,NA,NA,G
+11,11Wells,United States,6,1,76,E
+12,12 (B) Squadron,Scotland,2,1,86,C
+13,150th Tomintoul Highland Games,Scotland,1,NA,NA,G
+14,1512 Spirits,United States,8,3,80.27,D
+15,1770,Scotland,1,NA,NA,G
+16,1792,United States,16,10,86.78,C
+17,1794 Maryland,United States,1,NA,NA,G
+18,1812 Maryland,United States,1,NA,NA,G
+19,1815 - 13 Sterne,Switzerland,2,1,80,D
+20,1835,United States,2,NA,NA,G
+21,1836,Scotland,6,4,85.78,C
+22,1907,Bhutan,1,NA,NA,G
+23,1936,Canada,1,1,80,D
+24,2 Gingers,Ireland,1,1,76.27,E
+25,2003 X 2013,Scotland,1,1,85.6,C
+26,2005 X 2015,Scotland,1,1,86.62,C
+27,21 Brands,United States,1,NA,NA,G
+28,2bar,United States,3,3,73.67,F
+29,2nd Chance,United States,3,2,79.94,E
+30,3 Howls,United States,3,NA,NA,G
+31,3 Isles,Scotland,1,1,75,E
+32,3020,Switzerland,1,1,77,E
+33,3D,Scotland,1,1,82.25,D
+34,5 Gulden,Austria,1,NA,NA,G
+35,50 Years' Celebration,Scotland,1,NA,NA,G
+36,500 Year Malt,Scotland,2,2,89,C
+37,5th and Harrison,Scotland,1,1,87.67,C
+38,6th Avenue,United States,1,NA,NA,G
+39,8:00 PM,India,2,1,62,G
+40,8 Seconds,Canada,2,1,68,G
+41,80 20,Scotland,1,NA,NA,G
+42,808,Scotland,2,1,74,F
+43,A Confidential Distillery in Speyside,Scotland,1,1,87,C
+44,A Distillery in Ireland,Ireland,3,3,87.08,C
+45,A Distillery in Orkney,Scotland,4,2,87.61,C
+46,A Distillery in Speyside,Scotland,1,1,89,C
+47,A Distillery in Tennessee,United States,1,1,87,C
+48,A Dream Of Scotland,Scotland,21,17,86.75,C
+49,A Drop of the Irish,Ireland,29,21,84.09,D
+50,A Local Islay,Scotland,1,1,81.67,D
+51,A Northern Islay Distillery,Scotland,2,2,89.17,C
+52,A Rare Find,Scotland,2,2,91.67,B
+53,A Real Scotch Whisky,Scotland,1,NA,NA,G
+54,A Secret Highland Still,Scotland,1,NA,NA,G
+55,A Single Shot,Scotland,1,NA,NA,G
+56,A Speyside Distillery,Scotland,11,10,86.73,C
+57,A Speyside Malt,Scotland,1,1,88,C
+58,A Speyside Single Malt,Scotland,3,3,90.41,B
+59,A Splendid Speyside Surprise,Scotland,1,1,85,C
+60,A Very Special Speyside,Scotland,1,1,86,C
+61,A'echter Mölltaler,Austria,1,1,89,C
+62,A. D. Laws,United States,10,3,83.33,D
+63,A. J. Cummins,United States,1,NA,NA,G
+64,A. Pichi's,Italy,1,NA,NA,G
+65,A.H. Hirsch,United States,16,7,91.16,B
+66,AA. Browell & Co.,Scotland,1,NA,NA,G
+67,Aass & Egge,Norway,1,1,76.67,E
+68,Abe Lincoln's,United States,1,NA,NA,G
+69,Aberdeen Angus,Argentina,1,1,55,G
+70,Aberdeen Angus Merial,Scotland,1,NA,NA,G
+71,Aberdeen Football Club,Scotland,3,NA,NA,G
+72,Aberfeldy,Scotland,269,203,83.54,D
+73,Abergeldie,Scotland,1,NA,NA,G
+74,Aberlogie,Scotland,2,2,90,B
+75,Aberlour,Scotland,777,611,85.12,C
+76,Aberlour Glenlivet,Scotland,2,1,85.5,C
+77,Abhainn Dearg,Scotland,19,17,66.13,G
+78,Abrachan,Scotland,3,3,80.22,D
+79,Abraham Bowman,United States,13,11,82.48,D
+80,Addisons,Scotland,1,NA,NA,G
+81,Adelscott,Scotland,1,1,81,D
+82,Aden Arms Hotel,Scotland,1,NA,NA,G
+83,Adirondack,United States,3,NA,NA,G
+84,Adnams,United Kingdom,8,7,73.94,F
+85,Advent Scot,Scotland,1,1,76.5,E
+86,Ae Fond Kiss,Scotland,1,NA,NA,G
+87,Aecht Schlenkerla,Germany,1,1,61,G
+88,AEppelTreow,United States,1,NA,NA,G
+89,Aflodals,Sweden,2,1,88,C
+90,Afrika Safari,United Kingdom,1,NA,NA,G
+91,After Dark,India,1,NA,NA,G
+92,Against the Grain,Scotland,7,6,83.11,D
+93,Agárdi,Hungary,1,1,80.67,D
+94,Aged Malt Spirit,France,1,1,42.5,G
+95,Aichinger,Austria,5,5,74.76,F
+96,Aikman's,Scotland,2,NA,NA,G
+97,Ailein Mor,Scotland,2,2,82,D
+98,Ailsa Bay,Scotland,2,2,80.75,D
+99,Ainslie's,Scotland,32,12,82.35,D
+100,Airman Whiskey,United States,2,NA,NA,G
+101,Alainn,Scotland,1,1,92,B
+102,Alambik,Netherlands,3,2,76.32,E
+103,Alaska Outlaw,United States,1,1,55,G
+104,Alastair's,Scotland,2,NA,NA,G
+105,Albany,Scotland,1,NA,NA,G
+106,Albany Castle,Scotland,1,NA,NA,G
+107,Alberta,Canada,12,8,81.05,D
+108,Albertson,Scotland,2,NA,NA,G
+109,Alde Gott,Germany,1,NA,NA,G
+110,Alderman's,Scotland,1,NA,NA,G
+111,Aldunie Dufftown Malt,Scotland,1,1,85,C
+112,Alex Ferguson & Co.,Scotland,1,NA,NA,G
+113,Alex Perino's,United States,1,NA,NA,G
+114,Alexander Dunn,Scotland,1,NA,NA,G
+115,Alexander Muir's,Scotland,1,NA,NA,G
+116,ALF 69,Scotland,1,NA,NA,G
+117,Alibi,United States,2,1,50,G
+118,Alistair Cunningham's,Scotland,1,1,88,C
+119,Alley 6,United States,1,NA,NA,G
+120,Allgäu Brown,Germany,1,NA,NA,G
+121,Allgäu-Whisky,Germany,4,2,63.17,G
+122,Allied Distillers,Scotland,1,NA,NA,G
+123,Allman & Co.,Ireland,1,NA,NA,G
+124,Allman's,Ireland,2,NA,NA,G
+125,Alloway Legend,Scotland,1,NA,NA,G
+126,Allt-a-Bhainne,Scotland,263,198,82.39,D
+127,Alpenwhisky,Austria,11,4,84.33,D
+128,Alt Enderle,Germany,17,14,83.66,D
+129,Altore,France,2,2,64.63,G
+130,Always Mellow,Scotland,1,1,68.5,G
+131,Amador,United States,2,2,83.59,D
+132,Ambassador,Scotland,29,10,83.69,D
+133,Amber Glen,Scotland,2,NA,NA,G
+134,Amber Gold,United States,1,NA,NA,G
+135,Ambiente,,1,1,59,G
+136,America,United States,2,NA,NA,G
+137,American,United States,4,NA,NA,G
+138,American Barrels,United States,1,NA,NA,G
+139,American Cowboy,United States,4,NA,NA,G
+140,American Medicinal Spirits,United States,6,1,89.5,C
+141,American Sour Mash,United States,1,1,81,D
+142,American Star,United States,1,NA,NA,G
+143,American Whiskey,United States,1,1,83,D
+144,Ammertaler,Germany,1,NA,NA,G
+145,Amrita,India,3,3,82.06,D
+146,Amrut,India,314,262,85.04,C
+147,An Cnoc,Scotland,84,75,84,D
+148,An Iconic Speyside,Scotland,7,5,85.03,C
+149,An Iconic Speyside Distillery,Scotland,6,3,86.96,C
+150,An Islay Distillery,Scotland,4,4,87.46,C
+151,Anam an Islay,Scotland,1,1,86.6,C
+152,Ancestor,Scotland,14,5,87.1,C
+153,Anchor Bay,Scotland,1,NA,NA,G
+154,Anchorage,United States,1,NA,NA,G
+155,Ancient Age,United States,23,5,82.15,D
+156,Ancient Clan,Scotland,1,NA,NA,G
+157,Ancient Memories,Scotland,1,NA,NA,G
+158,Ancient Old Kentucky,United States,1,NA,NA,G
+159,Anderson Club,United States,4,NA,NA,G
+160,Anderson's,Scotland,2,NA,NA,G
+161,Andrew Usher & Co,Scotland,1,NA,NA,G
+162,Andy MacDuff,Scotland,2,1,78,E
+163,Andy Player,Philippines,1,1,38,G
+164,Angel's Dream,Scotland,2,2,81,D
+165,Angel's Envy,United States,23,13,83.41,D
+166,Angels and Devils,Scotland,1,1,76,E
+167,Angels' Nectar,Scotland,4,2,81.27,D
+168,Angus Dundee,Scotland,5,2,89.25,C
+169,Angus Mc.Neil,Scotland,1,NA,NA,G
+170,Angus McKay,Scotland,9,3,80.08,D
+171,Anima,Netherlands,2,1,65,G
+172,Ankara,Turkey,5,3,67.67,G
+173,Ann Deoch,Scotland,1,NA,NA,G
+174,Anniversary,,2,NA,NA,G
+175,Anniversary Malt,Scotland,2,2,85.89,C
+176,Anon.,Scotland,2,2,88.02,C
+177,Anonymas,Scotland,1,1,91.25,B
+178,Anonymous,Scotland,1,1,86,C
+179,Anonymous Speyside Distillery,Scotland,1,NA,NA,G
+180,Antediluvian,,1,NA,NA,G
+181,Antique,,22,2,85.5,C
+182,Antique Liqueur,Scotland,1,NA,NA,G
+183,Antiquity,India,2,1,67.25,G
+184,Aosiman,,1,NA,NA,G
+185,Apple Valley Inn,United States,1,NA,NA,G
+186,Arbikie,Scotland,1,NA,NA,G
+187,Arbroath FC,Scotland,2,NA,NA,G
+188,Arcadia,Scotland,1,NA,NA,G
+189,Arcanum,Scotland,2,2,84.75,D
+190,Archer's,Scotland,8,3,83.58,D
+191,Archie Rose,Australia,1,NA,NA,G
+192,Arctic Velvet,Scotland,1,1,78,E
+193,ARD-MORE,Scotland,2,1,87.95,C
+194,Ardbeg,Scotland,1557,1327,88.92,C
+195,Ardenistle,Scotland,1,1,84.67,D
+196,Ardlair,Scotland,4,2,84.59,D
+197,Ardlussa,Scotland,1,NA,NA,G
+198,Ardmore,Scotland,692,523,84.93,D
+199,Ardnamurchan,Scotland,12,7,80.62,D
+200,Ardnave,Scotland,4,3,70.67,F
+201,Argyll,Scotland,9,3,84.33,D
+202,Argyll Malt,Scotland,1,1,85,C
+203,Aristocrat,India,1,NA,NA,G
+204,Armor,Scotland,2,2,88.34,C
+205,Armorik,France,52,48,81.84,D
+206,Arran,Scotland,1441,1132,85.05,C
+207,Arthur Bell & Sons,Scotland,1,1,78,E
+208,As We Get It,Scotland,32,31,83.35,D
+209,Ascona Whisky,Switzerland,5,5,82.28,D
+210,Ascot House,Scotland,3,NA,NA,G
+211,ASDA,Scotland,5,4,74.31,F
+212,Asheville Distilling Co.,United States,2,NA,NA,G
+213,Askaig,Scotland,5,1,88,C
+214,Astor,Scotland,1,NA,NA,G
+215,àsuka,Scotland,1,NA,NA,G
+216,ASW,United States,2,NA,NA,G
+217,Asyla,Scotland,11,7,81.84,D
+218,Atherton,United States,2,NA,NA,G
+219,Atholl Distilleries,Scotland,1,NA,NA,G
+220,Atholl Highlander,Scotland,2,NA,NA,G
+221,Auchenhame,Scotland,2,NA,NA,G
+222,Auchentoshan,Scotland,835,614,83.85,D
+223,Auchindoun,Scotland,7,6,83.42,D
+224,Auchnagie,Scotland,10,7,79.48,E
+225,Auchroisk,Scotland,327,231,84.25,D
+226,Auchtermuchty,Scotland,1,NA,NA,G
+227,Audny,Norway,3,3,64.61,G
+228,August 17th,Belgium,2,1,60.33,G
+229,Auguste Mattei,France,1,NA,NA,G
+230,Augustus Barnett,Scotland,2,NA,NA,G
+231,Auld Acquaintance,Scotland,3,NA,NA,G
+232,Auld Acrimony,Scotland,1,1,79,E
+233,Auld Armoury,Scotland,1,NA,NA,G
+234,Auld Blended,Scotland,2,2,88.92,C
+235,Auld Curlers,Scotland,2,NA,NA,G
+236,Auld Edinburgh,Scotland,5,3,84.67,D
+237,Auld Grey Toon,Scotland,1,NA,NA,G
+238,Auld Licht,Scotland,1,NA,NA,G
+239,Auld Malcolm,Canada,2,NA,NA,G
+240,Auld Niblick,Scotland,1,NA,NA,G
+241,Auld Petrie,Scotland,1,NA,NA,G
+242,Auld Reekie,Scotland,4,3,80.85,D
+243,Auld Scottie,Scotland,4,NA,NA,G
+244,Auld Shepp,Scotland,1,NA,NA,G
+245,Auld Stag,Egypt,1,1,52,G
+246,Aultmore,Scotland,516,368,84.87,D
+247,Aureum 1865,Germany,21,19,79.23,E
+248,Austrasier,Germany,5,2,84,D
+249,Autenrieder,Germany,1,1,76,E
+250,Averna,Italy,1,NA,NA,G
+251,Averys,Ireland,5,NA,NA,G
+252,Avonside,Scotland,16,5,87.56,C
+253,Avro Shackleton,Scotland,1,NA,NA,G
+254,AWA,France,22,13,79.26,E
+255,Ayrer's,Germany,37,29,82.21,D
+256,Ayreshire,Scotland,2,1,83.13,D
+257,Ayrshire,Scotland,36,34,86.51,C
+258,Az-Granata,Azerbaijan,2,NA,NA,G
+259,B&B,Scotland,3,NA,NA,G
+260,B. J. Holladay,United States,1,NA,NA,G
+261,B.P.R.,United States,1,NA,NA,G
+262,Baal Weiyade,Scotland,1,NA,NA,G
+263,BAAS,Germany,4,4,74.46,F
+264,Babcock,Scotland,1,NA,NA,G
+265,Baby - Brook,Luxembourg,2,2,83.5,D
+266,Bachelor,India,1,NA,NA,G
+267,bachgau-Destille,Germany,5,1,65,G
+268,Back The Bairns,Scotland,2,NA,NA,G
+269,Backbone Bourbon,United States,12,4,81,D
+270,Baden Whisky,Germany,1,1,68,G
+271,Badger,Scotland,1,1,96,A
+272,Bagpiper,India,2,2,52.25,G
+273,Baileys,Ireland,1,NA,NA,G
+274,Baillie's,Scotland,1,NA,NA,G
+275,Bain's,South Africa,4,4,79.37,E
+276,Bainbridge,United States,2,NA,NA,G
+277,Baird's,Scotland,3,1,79.86,E
+278,Baker,Scotland,2,NA,NA,G
+279,Baker's,United States,7,7,73.35,F
+280,Bakery Hill,Australia,11,9,81.7,D
+281,Balblair,Scotland,399,322,85.89,C
+282,Balcarron,Scotland,2,2,87,C
+283,Balcones,United States,55,47,80.11,D
+284,Balfour's,Scotland,3,NA,NA,G
+285,Balgownie,Scotland,2,1,81,D
+286,Ballaglass,Scotland,1,NA,NA,G
+287,Ballantine's,Scotland,189,96,80.2,D
+288,Ballantyne Stewarts,Scotland,1,NA,NA,G
+289,Ballechin,Scotland,109,93,85.08,C
+290,Ballindalloch,Scotland,18,16,89.15,C
+291,Ballindalloch Castle,Scotland,6,2,85.04,C
+292,Ballochmyle,Scotland,2,NA,NA,G
+293,Bally Delicious,Scotland,1,1,86.33,C
+294,Ballygeary,Ireland,1,NA,NA,G
+295,Ballykeefe Distillery,Ireland,1,1,84,D
+296,Ballylough,Ireland,1,NA,NA,G
+297,Balmenach,Scotland,364,249,84.92,D
+298,Balmoral,Scotland,4,2,83.5,D
+299,Balmoral Castle,Scotland,1,NA,NA,G
+300,Balnagown,Scotland,1,1,75,E
+301,Balnellan,Scotland,2,2,73.5,F
+302,Baltach,Germany,4,3,81.08,D
+303,Baltimore Club,United States,1,NA,NA,G
+304,Balvenie,Scotland,1577,884,86.43,C
+305,Bán Poitín,Ireland,2,1,65,G
+306,Banach,Scotland,1,NA,NA,G
+307,Banff,Scotland,153,126,88.08,C
+308,Bank Note,Scotland,9,4,81.13,D
+309,Banker's Club,United States,2,NA,NA,G
+310,Bankers and Brokers,United States,2,NA,NA,G
+311,Bannockburn,Scotland,1,NA,NA,G
+312,Bar,Japan,1,NA,NA,G
+313,Baraille Uisge-Bheatha,Scotland,1,NA,NA,G
+314,Barbieri,Italy,1,NA,NA,G
+315,Barclay's,United States,11,1,85,C
+316,Barclays,Scotland,7,NA,NA,G
+317,Bard's Town,United States,6,NA,NA,G
+318,Bare Knuckle,United States,3,NA,NA,G
+319,Bårelegs,Scotland,1,1,83,D
+320,Bären Whisky 1831,Germany,1,NA,NA,G
+321,Barkley's,Scotland,1,NA,NA,G
+322,Baron de Camenie,France,3,3,77.33,E
+323,Barondale,United States,1,NA,NA,G
+324,Barr an Uisce,Ireland,3,2,83.33,D
+325,Barrel 5,Scotland,3,2,82.75,D
+326,Barrel Hitch,United States,2,NA,NA,G
+327,Barrell Bourbon,United States,32,14,86.04,C
+328,Barrell Rye,United States,2,NA,NA,G
+329,Barrell Whiskey,United States,5,3,85.75,C
+330,Barrett's,United States,3,NA,NA,G
+331,Barrogill,Scotland,1,1,76.67,E
+332,Barstruie,Scotland,1,1,88.5,C
+333,Bartels,Scotland,3,NA,NA,G
+334,Barterhouse,United States,2,2,88.5,C
+335,Barton,United States,11,4,85.63,C
+336,Barton's Canadian,Canada,2,NA,NA,G
+337,Basil Hayden's,United States,11,11,79.68,E
+338,Basil Woodd & Sons,Scotland,1,NA,NA,G
+339,Bass River,United States,1,NA,NA,G
+340,Bastille 1789,France,3,2,70.72,F
+341,Batch No. 12,United States,1,NA,NA,G
+342,Batchers',United States,4,NA,NA,G
+343,Batshit Mental Ideas,England,1,1,89.5,C
+344,Battle of the Blends,,2,2,82.5,D
+345,Bavarian Moonshine,Germany,1,NA,NA,G
+346,Baxter's,Scotland,4,NA,NA,G
+347,Bayside,Scotland,1,NA,NA,G
+348,BC,Canada,1,NA,NA,G
+349,Bealach Ruadh,Scotland,2,2,87.5,C
+350,Beam's,United States,23,6,82,D
+351,Beam's Choice,United States,52,4,81.88,D
+352,BeanBall,United States,4,2,85,C
+353,Beardmore,,1,1,90,B
+354,Beasty Bunny,Scotland,1,1,89.1,C
+355,Beathan,Scotland,2,2,81.5,D
+356,Beau Nash,Scotland,1,NA,NA,G
+357,Bedtime Bourbon,United States,1,NA,NA,G
+358,Beek,Netherlands,2,1,79.13,E
+359,Begbies,Scotland,6,1,80,D
+360,Beinaigen,Scotland,2,2,82,D
+361,Beinn Dubh,Scotland,9,4,82.91,D
+362,Beinn Mhor,Scotland,1,NA,NA,G
+363,Békési Manufaktúra,Hungary,3,2,57.34,G
+364,Belgrove,Australia,3,1,86,C
+365,Bell's,Scotland,178,62,77.51,E
+366,Belle Epoque,Australia,1,1,74,F
+367,Belle Meade Bourbon,United States,11,4,87.92,C
+368,Belle of Kentucky,United States,4,NA,NA,G
+369,Belle of Marion,United States,1,NA,NA,G
+370,Bellevoye,France,5,3,73.56,F
+371,Bellows & Company,United States,9,1,89,C
+372,Belmont,United States,3,NA,NA,G
+373,Beltane,Scotland,3,1,91,B
+374,Ben Aigen,Scotland,1,1,72,F
+375,Ben Alder,Scotland,6,2,69.67,G
+376,Ben Aros,Scotland,1,NA,NA,G
+377,Ben Bracken,Scotland,21,21,77.59,E
+378,Ben Cally,Scotland,1,1,86,C
+379,Ben Cranefly,Scotland,6,1,75,E
+380,Ben Gnat,Scotland,12,3,81.33,D
+381,Ben Gullion,Scotland,2,NA,NA,G
+382,Ben Ledi,Scotland,1,NA,NA,G
+383,Ben Lorn,Scotland,1,NA,NA,G
+384,Ben Macdhui,Scotland,1,NA,NA,G
+385,Ben Mhor,Scotland,2,2,86.4,C
+386,Ben Morven,Scotland,1,NA,NA,G
+387,Ben Nevis,Scotland,895,744,86.31,C
+388,Ben Roland,Scotland,2,1,68.5,G
+389,Ben Royal,Scotland,1,1,91,B
+390,Ben Wyvis,Scotland,18,10,89.2,C
+391,Ben's Blend,Scotland,1,1,92,B
+392,Ben's Castle,Scotland,1,1,87,C
+393,Benachie,Scotland,2,NA,NA,G
+394,Benchmark,United States,13,1,80,D
+395,Bender's,United States,1,NA,NA,G
+396,Benderloch,Scotland,1,NA,NA,G
+397,Bene Vobis,Scotland,3,NA,NA,G
+398,Beneagles,Scotland,25,1,57,G
+399,Benfica,,1,NA,NA,G
+400,Benloyal,Scotland,4,NA,NA,G
+401,Benmore,Scotland,17,4,78.5,E
+402,BenRiach,Scotland,1071,908,86.18,C
+403,Benrinnes,Scotland,701,488,85.03,C
+404,Benromach,Scotland,305,252,85.19,C
+405,Bent's,Ireland,1,NA,NA,G
+406,Benveg,Scotland,1,NA,NA,G
+407,Bercloux,France,6,3,62.67,G
+408,Beren,Scotland,1,NA,NA,G
+409,Berentzen,Germany,1,NA,NA,G
+410,Berghoff,United States,3,NA,NA,G
+411,Berkshire,United States,4,2,82,D
+412,Bern's,Scotland,2,NA,NA,G
+413,Bernheim Original,United States,7,5,80.35,D
+414,Berry's All Malt,Scotland,4,2,88.46,C
+415,Berry's Best,Scotland,6,4,80.5,D
+416,Bertram's,Scotland,2,NA,NA,G
+417,Berwick Blend,Scotland,1,NA,NA,G
+418,Best,Scotland,1,NA,NA,G
+419,Best Mate,Scotland,1,NA,NA,G
+420,Bhutan Mist,Bhutan,1,NA,NA,G
+421,Bib & Tucker,United States,11,8,84.4,D
+422,Bicentenary,Scotland,1,NA,NA,G
+423,Biercée,Belgium,1,1,52,G
+424,Bieri Brennerei Bauernhof,Switzerland,2,2,83.38,D
+425,"Big ""T""",Scotland,10,3,79.58,E
+426,Big Ass,United States,1,1,79,E
+427,Big Ben,Scotland,3,NA,NA,G
+428,Big Bottom,United States,15,8,82.38,D
+429,Big Boy,Scotland,4,NA,NA,G
+430,Big Peat,Scotland,77,62,85.26,C
+431,Bij Thijs Finest,Scotland,1,1,86,C
+432,Bill Wesley,United States,1,NA,NA,G
+433,Biltmore,Scotland,4,NA,NA,G
+434,Bird Dog,United States,4,3,64.63,G
+435,Bischof's,Germany,1,1,46,G
+436,Bischoff,Germany,1,1,79,E
+437,Bishop's,Scotland,1,NA,NA,G
+438,Bishop's Oak,,1,NA,NA,G
+439,Bison Ridge,Canada,2,2,66.5,G
+440,Bisset's,Scotland,4,NA,NA,G
+441,Bivrost,Scotland,2,1,86,C
+442,Black & White,Scotland,62,26,81.36,D
+443,Black Barrel,Scotland,1,NA,NA,G
+444,Black Bottle,Scotland,27,17,78.1,E
+445,Black Bull,Scotland,24,20,83.93,D
+446,Black Burn,Scotland,2,2,75.63,E
+447,Black Button,United States,1,NA,NA,G
+448,Black Canyon,United States,1,NA,NA,G
+449,Black Cock,Scotland,1,NA,NA,G
+450,Black Colt,Scotland,1,NA,NA,G
+451,Black Crow,United States,1,1,74,F
+452,Black Cuillin,Scotland,1,NA,NA,G
+453,Black Dirt,United States,18,1,79,E
+454,Black Douglas,Scotland,2,NA,NA,G
+455,Black Feather,United States,1,NA,NA,G
+456,Black Forest,Germany,22,18,76.53,E
+457,Black Gate,Australia,5,NA,NA,G
+458,Black Gold,United States,2,NA,NA,G
+459,Black Heron,United States,2,NA,NA,G
+460,Black Horse,Germany,1,1,73.5,F
+461,Black House,Scotland,1,NA,NA,G
+462,Black Islay Devil,Scotland,4,4,87.94,C
+463,Black Jack,Scotland,14,7,81.42,D
+464,Black Label,Scotland,1,1,79,E
+465,Black Line,Scotland,1,NA,NA,G
+466,Black Loch Dhu,Scotland,1,1,81,D
+467,Black Maple Hill,United States,13,7,86.75,C
+468,Black Moor,Scotland,1,NA,NA,G
+469,Black Mount,Canada,1,1,77.67,E
+470,Black Mountain,France,4,3,76.96,E
+471,Black Post,Scotland,3,NA,NA,G
+472,Black Powder,United States,2,NA,NA,G
+473,Black Prince,Scotland,8,1,79,E
+474,Black Ram,Bulgaria,4,2,60.5,G
+475,Black Ribbon,Scotland,4,4,77.38,E
+476,Black Ridge,United States,1,NA,NA,G
+477,Black Rock,Ireland,4,4,86.23,C
+478,Black Rock,Scotland,1,1,84.33,D
+479,Black Royale,Indonesia,1,NA,NA,G
+480,Black Saddle,United States,1,1,78.5,E
+481,Black Scott,Scotland,3,1,52,G
+482,Black Shield,Scotland,1,NA,NA,G
+483,Black Snake,Scotland,33,25,84.08,D
+484,Black Swan,Scotland,3,1,78,E
+485,Black Sword,Scotland,1,NA,NA,G
+486,Black Tartan,Scotland,1,1,85.5,C
+487,Black Velvet,Canada,18,8,64.59,G
+488,Black-Wood,Germany,2,1,68,G
+489,Blackface,Scotland,2,2,81.87,D
+490,Blackheath,Scotland,1,NA,NA,G
+491,Blackstone,,15,12,73.6,F
+492,Blackwater Distillery,Ireland,2,1,87.83,C
+493,Blackwood,Ireland,5,4,63,G
+494,Blackwoods,Canada,1,1,33.5,G
+495,Blade and Bow,United States,3,2,83.42,D
+496,Bladnoch,Scotland,710,455,84.72,D
+497,Blainrow,Scotland,1,1,78,E
+498,Blair Athol,Scotland,479,368,85.15,C
+499,Blair Macritchie,Scotland,4,NA,NA,G
+500,Blairfindy,Scotland,42,27,87.64,C
+501,Blairfindy Moor,Scotland,1,1,87.2,C
+502,Blairmhor,Scotland,9,4,77.26,E
+503,Blanco Basura,United States,1,NA,NA,G
+504,Blanton's,United States,497,217,84.47,D
+505,Blarney Stone,Ireland,1,1,69,G
+506,Blaue Maus,Germany,23,10,67.03,G
+507,Blend 285,Thailand,1,1,75,E
+508,Blend Malt,Scotland,2,2,84.18,D
+509,Blend No. 888,Scotland,1,1,78.33,E
+510,Blend Scotch Whisky,Scotland,2,1,85.67,C
+511,Blended Grain,Scotland,2,NA,NA,G
+512,Blended Malt,Scotland,23,20,84.67,D
+513,Blended Malt Scotch Whisky,Scotland,48,39,85.16,C
+514,Blended Malt Whisky,Scotland,4,3,81.83,D
+515,Blended Reserve Andrew,Scotland,1,NA,NA,G
+516,Blended Scotch,Scotland,1,1,89,C
+517,Blended Scotch Whisky,Scotland,31,24,85.91,C
+518,Blended Whisky,,1,NA,NA,G
+519,Bliesgau,Germany,2,1,86.33,C
+520,Blood Oath,United States,4,3,86.6,C
+521,Bloodline,United States,1,NA,NA,G
+522,Blue Flame Spirits,United States,2,NA,NA,G
+523,Blue Hanger,Scotland,12,9,85.61,C
+524,Blue Heritage,India,NA,NA,NA,G
+525,Blue Hill,United States,3,NA,NA,G
+526,Blue Hills,United States,1,NA,NA,G
+527,Blue Monkey,United Kingdom,NA,NA,NA,G
+528,Blue Moon,Scotland,1,NA,NA,G
+529,Blue Spirits,United States,4,NA,NA,G
+530,Blue Star,United States,1,NA,NA,G
+531,Blue State,United States,2,NA,NA,G
+532,Board's Verdict,India,1,NA,NA,G
+533,Böckl,Austria,4,3,69,G
+534,Bodach - Aislig,Scotland,2,1,87.64,C
+535,Bodding Lokn,Austria,4,2,84.25,D
+536,Bofet,Germany,1,1,87,C
+537,Bohemian Club,Scotland,1,NA,NA,G
+538,Boldizar,Germany,1,1,72,F
+539,Bombastic Betty,Scotland,1,1,84.83,D
+540,Bomberger's,United States,2,1,87,C
+541,Bond & Lillard,United States,1,NA,NA,G
+542,Bond 7,Kenya,3,1,70,F
+543,Bonded Beam,United States,3,1,88,C
+544,Bonnie and Clyde,Scotland,2,NA,NA,G
+545,Bonnie Banks,Scotland,NA,NA,NA,G
+546,Bonnie Charlie,United Kingdom,NA,NA,NA,G
+547,Bonnie Clyde,Scotland,3,3,82.17,D
+548,Bonnie's,Scotland,1,NA,NA,G
+549,Booker's,United States,94,64,86.15,C
+550,Booker's Rye,United States,1,1,90.43,B
+551,Boondocks,United States,1,NA,NA,G
+552,Boone's Knoll,United States,2,1,85,C
+553,Bootlegger,United States,2,NA,NA,G
+554,Border,United States,1,NA,NA,G
+555,Borders,Scotland,2,2,77,E
+556,Bosch-Edelbrand,Germany,4,2,69.65,G
+557,Boston Club,Japan,3,1,83,D
+558,Bottoms-Up,Scotland,1,NA,NA,G
+559,Bounty Hunter,United States,2,1,91.5,B
+560,Bourbon 30,United States,1,NA,NA,G
+561,Bourbon Brook,United States,1,NA,NA,G
+562,Bourbon de Luxe,United States,5,1,81,D
+563,Bourbon Royal,United States,1,NA,NA,G
+564,Bourbon Rubenesque,United States,1,NA,NA,G
+565,Bourbon Supreme,United States,6,3,84.5,D
+566,Bourbon Valley,United States,4,NA,NA,G
+567,Bourbon Whiskey,United States,3,2,80.75,D
+568,Bow Street Distillery,Ireland,2,2,92.21,B
+569,Bowen's,United States,3,2,85.5,C
+570,Bower Hill,United States,4,2,82.5,D
+571,Bowman Brothers,United States,2,2,83.75,D
+572,Bowmore,Scotland,2679,2041,86.95,C
+573,Box,Sweden,99,69,83.18,D
+574,Boyne,Ireland,5,5,84.77,D
+575,BPVM,,1,1,86,C
+576,Braeckman Distillers,Belgium,1,1,88.27,C
+577,Braemar,Scotland,10,NA,NA,G
+578,Braemar Bunkers,Scotland,3,NA,NA,G
+579,Braemoray,Scotland,3,1,88,C
+580,Braes of Glenlivet,Scotland,129,100,85.4,C
+581,Braeval,Scotland,178,127,83.68,D
+582,Brandy Cask,Scotland,2,1,85.25,C
+583,Braon Peat,Scotland,8,7,87.02,C
+584,Brash Monkey,United States,1,NA,NA,G
+585,Brauerei Falken,Switzerland,8,7,79.95,E
+586,Brauerei Monstein,Switzerland,22,7,70.21,F
+587,Braunstein,Denmark,33,27,79.65,E
+588,Braymoray,Scotland,1,NA,NA,G
+589,Breaker,United States,3,1,86,C
+590,Breath of Islay,Scotland,14,14,86.94,C
+591,Breath of Speyside,Scotland,12,11,87.63,C
+592,Breath of the Highlands,Scotland,3,3,88.8,C
+593,Breath of the Isles,Scotland,8,8,85.74,C
+594,Breckenridge,United States,5,2,83.03,D
+595,Breichin,Scotland,1,1,82.5,D
+596,Breizh,France,2,2,76.75,E
+597,Brenne,France,5,3,68.47,G
+598,Brennerei Brehmer-Knauer,Germany,1,NA,NA,G
+599,Brennerei Kramer,Switzerland,6,3,78.78,E
+600,Brennerei Ludwig Faber,Germany,1,1,38.67,G
+601,Brennerei Martin Meier,Germany,3,2,64.17,G
+602,Breuckelen,United States,4,3,67.83,G
+603,Briagha Norah,Scotland,1,NA,NA,G
+604,Brickway,United States,1,NA,NA,G
+605,Bridge of Allan,Scotland,1,NA,NA,G
+606,Bridge of Avon,Scotland,3,3,88.54,C
+607,Brig o' Banff,Scotland,2,NA,NA,G
+608,Brigantia,Germany,9,8,79.91,E
+609,Brigg's,Scotland,1,1,78.5,E
+610,Bristol Vat,Scotland,2,NA,NA,G
+611,Britannia,Scotland,7,3,76.67,E
+612,Broadbent,United States,1,NA,NA,G
+613,Brodgar,Scotland,4,3,86.67,C
+614,Brodick Golf Club,Scotland,1,NA,NA,G
+615,Brodie's,Scotland,1,NA,NA,G
+616,Brogans Legacy,Ireland,2,2,82.25,D
+617,Broger,Austria,12,11,60.81,G
+618,Broken Bell,United States,1,NA,NA,G
+619,Broker's Finest,Scotland,1,1,89.88,C
+620,Brooklandwood,United States,1,NA,NA,G
+621,Brora,Scotland,234,201,89.77,C
+622,Brothers in Arms,Ireland,4,4,82.92,D
+623,Brothership,Ireland,3,NA,NA,G
+624,Brown-Forman's King,United States,1,NA,NA,G
+625,Bruichladdich,Scotland,1655,1281,85.98,C
+626,Brunschwiler Brennerei,Switzerland,6,3,75,E
+627,Brut de Fût,Japan,1,1,85.86,C
+628,Brutus,Scotland,1,NA,NA,G
+629,Brænderiet Limfjorden,Denmark,1,NA,NA,G
+630,Buain Mhoine,Scotland,2,2,42.1,G
+631,buair an diabhail of Islay,Scotland,19,19,87.56,C
+632,Buccaneer,Scotland,1,NA,NA,G
+633,Buchanan's,Scotland,21,10,80.15,D
+634,Bucheggberger,Switzerland,12,4,79.42,E
+635,Büchold Castle,Germany,1,NA,NA,G
+636,Buck,United States,1,1,81,D
+637,Buck Jones,United States,1,NA,NA,G
+638,Buckeye Bourbon,United States,1,NA,NA,G
+639,Buckie Lugger,Scotland,1,NA,NA,G
+640,Buckie Thistle,Scotland,NA,NA,NA,G
+641,Buckwheat,United States,1,1,78,E
+642,Buechibärger Whiskey,Switzerland,9,2,83,D
+643,Buffalo Bill,United States,2,1,79,E
+644,Buffalo Sharp,United States,2,NA,NA,G
+645,Buffalo Trace,United States,167,65,81.42,D
+646,Bull Head,United States,2,1,84,D
+647,Bulleit,United States,25,17,81,D
+648,Bulloch Lade's,Scotland,7,2,78,E
+649,Bully Boy Distillers,United States,4,1,80,D
+650,Bunnahabhain,Scotland,2002,1596,86.4,C
+651,Bunratty,Ireland,7,2,35.63,G
+652,Burberrys',Scotland,9,2,77.5,E
+653,Burgdorfer,Switzerland,8,3,71.83,F
+654,Burgenwhisky,Germany,1,NA,NA,G
+655,Burke & Barry,Scotland,3,1,70,F
+656,Burke's,Ireland,7,4,87.29,C
+657,Burn of Speyside,Scotland,3,3,81.08,D
+658,Burn Stewart,Scotland,4,2,79,E
+659,Bùrn-Taobh,Scotland,1,1,86.71,C
+660,Burns Heritage,Scotland,2,NA,NA,G
+661,Burns Nectar,Scotland,3,1,64,G
+662,Burns Night,Scotland,1,1,84,D
+663,Burnside,Scotland,47,38,86.35,C
+664,Burnside Bourbon,United States,2,2,78.13,E
+665,Bush Pilot's,Canada,1,NA,NA,G
+666,Bushmills,Ireland,229,140,82.74,D
+667,Butcher's,United States,1,1,83,D
+668,Butterfly Temptations,Scotland,1,1,82.5,D
+669,C&J McDonald's,Scotland,7,NA,NA,G
+670,C.E.O.,Canada,1,NA,NA,G
+671,Cabin Fever,United States,1,1,72,F
+672,Cabin Still,United States,9,4,78.69,E
+673,Cabrach,Scotland,1,NA,NA,G
+674,Cache Creek,United States,1,NA,NA,G
+675,Caermory,Scotland,3,2,85.67,C
+676,Café Z,Germany,1,1,86.5,C
+677,Cailleach,Scotland,5,4,83.63,D
+678,Cairn Guish,Scotland,1,1,88,C
+679,Cairngorm Whisky Centre,Scotland,2,NA,NA,G
+680,Cairngorm's Dew,Scotland,1,1,76,E
+681,Cairnleigh,Scotland,1,1,79,E
+682,Cairnluish,Scotland,2,2,68,G
+683,Cairns,Scotland,3,1,80,D
+684,Calchou,Scotland,2,2,85,C
+685,Caldera,Canada,2,1,83,D
+686,Caledonian,Scotland,72,49,86.68,C
+687,Calumet Farm,United States,3,1,84.38,D
+688,Calvert Extra,United States,2,1,78,E
+689,Cambus,Scotland,116,85,85.09,C
+690,Cameo,Scotland,2,NA,NA,G
+691,Cameron,Scotland,1,NA,NA,G
+692,Cameron's,Scotland,4,1,75.5,E
+693,Cameronbridge,Scotland,145,107,84.67,D
+694,Camp 1805,United States,2,NA,NA,G
+695,Campbell's,Scotland,10,1,85,C
+696,Campbeltown,Scotland,5,4,88.13,C
+697,Campbeltown Blended Malt,Scotland,21,19,86.98,C
+698,Campbeltown Commemoration,Scotland,24,24,82.56,D
+699,Campbeltown Loch,Scotland,21,15,82.35,D
+700,Campbeltown Malt Scotch Whisky,Scotland,2,2,89,C
+701,Campbeltown PBS,Scotland,3,3,85.83,C
+702,Campbeltown Region,Scotland,1,1,82.55,D
+703,Campbeltown Row,Scotland,1,1,89,C
+704,Canada House,Canada,1,NA,NA,G
+705,Canadian,Canada,1,1,58,G
+706,Canadian Club,Canada,68,38,76.22,E
+707,Canadian Leaf,Canada,1,NA,NA,G
+708,Canadian Mist,Canada,6,4,58.88,G
+709,Canadian Mountains,Canada,1,1,82,D
+710,Canadian Registry,Canada,1,NA,NA,G
+711,Canadian Rockies,Canada,1,1,86,C
+712,Canadian Rye,Canada,1,NA,NA,G
+713,Canadian Silk,Canada,1,NA,NA,G
+714,Canadian Special Old,Canada,1,1,65,G
+715,Canadian Tippers,Canada,2,1,46,G
+716,Canadian VSP,Canada,1,NA,NA,G
+717,Canadian Whiskey,Canada,1,1,71,F
+718,Canadian Whisky,Canada,2,1,82,D
+719,Candid,Scotland,2,2,83.84,D
+720,Canto Cask,Scotland,17,12,84.48,D
+721,Cantoni Bernardo,Scotland,1,1,91.25,B
+722,Caol Ila,Scotland,3145,2225,86.75,C
+723,Cap 4,Scotland,1,1,73,F
+724,Capercaillie,Scotland,2,NA,NA,G
+725,Caperdonich,Scotland,420,338,87.38,C
+726,Capital Dram,Scotland,1,NA,NA,G
+727,Captain Burn's,Scotland,1,NA,NA,G
+728,Captain Don's,Netherlands Antilles,3,2,65.75,G
+729,Carbon Glacier Distillery,United States,3,NA,NA,G
+730,Cardhu,Scotland,126,83,82.24,D
+731,Caribou Crossing,Canada,2,1,86.5,C
+732,Carl T.,United States,1,NA,NA,G
+733,Carlingford,Ireland,1,1,78.5,E
+734,Carlton,Scotland,3,2,78,E
+735,Carlyles' VAT,Scotland,1,NA,NA,G
+736,Carnaby St.,Scotland,10,1,86,C
+737,Carnegie's,Scotland,1,NA,NA,G
+738,Carraig Dubh,Scotland,1,1,87,C
+739,Carsebridge,Scotland,75,55,87.12,C
+740,Cascade,United States,1,NA,NA,G
+741,Cask & Smoke,United States,1,NA,NA,G
+742,Cask Force,Scotland,1,1,85,C
+743,Cask Islay,Scotland,7,7,82.28,D
+744,Cask Orkney,Scotland,1,1,87.21,C
+745,Caskieben,Scotland,2,1,89,C
+746,Cassidy's,Ireland,2,1,77,E
+747,Cassius Clay,United States,1,1,85.75,C
+748,Castle Pride,Scotland,3,NA,NA,G
+749,Castle Rock,Scotland,3,1,58.5,G
+750,Castlebay,Scotland,1,NA,NA,G
+751,Castlewood,Scotland,1,NA,NA,G
+752,Catdaddy,United States,1,NA,NA,G
+753,Cathead Distillery,United States,1,NA,NA,G
+754,Catoctin Creek,United States,18,7,76.77,E
+755,Catskill,United States,2,1,85,C
+756,Catto,Scotland,3,3,83.13,D
+757,Catto's,Scotland,16,7,78.74,E
+758,Cavalier,Scotland,1,NA,NA,G
+759,Cavanagh,Ireland,1,NA,NA,G
+760,Cave Aquila,,1,1,84.67,D
+761,Cawdordew,Scotland,2,1,90,B
+762,Cearban,Scotland,1,1,70,F
+763,Cedar Brook,United States,3,1,89,C
+764,Cedar Ridge,United States,6,1,83,D
+765,Celebration,Scotland,4,NA,NA,G
+766,CELP,Scotland,3,3,77.57,E
+767,Celtic,Scotland,12,NA,NA,G
+768,Celtic Cask,Ireland,24,12,86,C
+769,Celtic Desire,Netherlands,1,NA,NA,G
+770,Celtic Poteen,United Kingdom,2,NA,NA,G
+771,Celtic Whisky,United Kingdom,NA,NA,NA,G
+772,Celtic Wysgi,United Kingdom,NA,NA,NA,G
+773,Celtique Connexion,France,22,16,85.88,C
+774,Centenary Blend,Scotland,2,1,87.33,C
+775,Central Standard,United States,1,NA,NA,G
+776,Century Bonded,United States,1,NA,NA,G
+777,Century Club,United States,1,NA,NA,G
+778,Chairman's Celebration Reserve,Scotland,1,NA,NA,G
+779,Chamberlains,Scotland,1,1,84.5,D
+780,Champion,Cyprus,2,1,78,E
+781,Chapin & Gore,United States,1,NA,NA,G
+782,Charbay,United States,8,3,85.61,C
+783,Charleston,Scotland,1,NA,NA,G
+784,Charlie Stuart,Scotland,1,NA,NA,G
+785,Charter Oak,United States,1,1,90,B
+786,Chattanooga Whiskey,United States,2,NA,NA,G
+787,Cheers England,Scotland,1,NA,NA,G
+788,Chequers,Scotland,15,5,83.7,D
+789,Cherry,Japan,2,2,80.09,D
+790,Chestnut Farms,United States,1,NA,NA,G
+791,Chesty Whiskey,United States,2,NA,NA,G
+792,Chevy Chase,Scotland,1,NA,NA,G
+793,Chichibu,Japan,209,184,87.39,C
+794,Chichibu X Hanyu,Japan,1,1,89.33,C
+795,Chicken Cock,United States,13,3,75,E
+796,Chicken Hill,Switzerland,14,6,76.75,E
+797,Chieftain's,Scotland,32,20,87.69,C
+798,Chieftain's Choice,Scotland,7,6,90.83,B
+799,Chimera,Scotland,3,2,85.9,C
+800,Chita,Japan,9,7,81.88,D
+801,Chivalry,Scotland,1,1,65,G
+802,Chivas Brothers,Scotland,24,11,85.3,C
+803,Chivas De Danu,Scotland,1,NA,NA,G
+804,Chivas Regal,Scotland,110,70,77.64,E
+805,Choicest Liqueur,Scotland,1,NA,NA,G
+806,Christmas Malt,Scotland,9,7,85.81,C
+807,Christopher & Co.,Scotland,1,NA,NA,G
+808,Churchill,United States,1,NA,NA,G
+809,Churchill,Scotland,1,NA,NA,G
+810,Churchill's,Scotland,NA,NA,NA,G
+811,Churfirsten Brennerei,Switzerland,1,NA,NA,G
+812,Churtons,Scotland,1,NA,NA,G
+813,Cill Áirne Cask,Ireland,1,NA,NA,G
+814,Clachaig,Scotland,1,NA,NA,G
+815,Cladach,Scotland,1,1,88,C
+816,Claggain,Scotland,1,NA,NA,G
+817,Clan Ardroch,Scotland,1,NA,NA,G
+818,Clan Ben,Scotland,1,NA,NA,G
+819,Clan Blend,Scotland,2,2,73.5,F
+820,Clan Campbell,Scotland,33,10,71.3,F
+821,Clan Denny,Scotland,8,7,84.8,D
+822,Clan Fraser,Scotland,3,2,75,E
+823,Clan Gold,Scotland,4,1,75,E
+824,Clan House,Scotland,1,1,75,E
+825,Clan MacGregor,Scotland,14,6,68.25,G
+826,Clan More,Scotland,1,1,84,D
+827,Clan Murdock,Scotland,2,NA,NA,G
+828,Clan Murray,Scotland,2,2,72,F
+829,Clan Northe,Scotland,1,NA,NA,G
+830,Clan Robertson,Scotland,2,NA,NA,G
+831,Clan Tartan,Scotland,1,NA,NA,G
+832,Clandestine,Scotland,1,1,86.85,C
+833,Clansman,Scotland,2,1,72,F
+834,Claravallis,Austria,1,NA,NA,G
+835,Clarke's,United States,6,5,67.93,G
+836,Classic,Scotland,2,1,85.06,C
+837,Classic Campbeltown,Scotland,2,2,85.65,C
+838,Classic Highland,Scotland,1,1,80,D
+839,Classic Islay,Scotland,2,2,82.17,D
+840,Classic Lowland,Scotland,1,NA,NA,G
+841,Classic of Islay,Scotland,181,156,86.16,C
+842,Clementine,United States,1,NA,NA,G
+843,Cleveland,United States,12,4,80.96,D
+844,Clifton Moore,Scotland,3,NA,NA,G
+845,Climax,United States,2,NA,NA,G
+846,Cloc Whisky,Denmark,2,1,79,E
+847,Cloch Fhealsúnaí,Ireland,1,1,82,D
+848,Clonakilty,Ireland,2,2,84.42,D
+849,Clonmel,Ireland,2,2,83,D
+850,Clontarf,Ireland,23,16,72.03,F
+851,Club 45,Scotland,3,NA,NA,G
+852,Club 73,France,1,NA,NA,G
+853,Club 99,Scotland,2,1,70,F
+854,Club Bourbon,United States,1,NA,NA,G
+855,Club Deluxe,Scotland,1,NA,NA,G
+856,Club Man,Scotland,1,NA,NA,G
+857,Cluny,Scotland,22,7,79.63,E
+858,Clyde May's,United States,9,4,79.72,E
+859,Clydebank,Scotland,2,1,64.5,G
+860,Clynelish,Scotland,1589,1233,86.51,C
+861,Coal Yard,United States,2,NA,NA,G
+862,Coburg 1830,Belgium,1,1,81,D
+863,Cock of the Walk,United States,1,NA,NA,G
+864,Cockburn,Scotland,5,3,75.11,E
+865,Cockburns,Scotland,2,2,83.13,D
+866,Cody Road,United States,8,2,81,D
+867,Coepenick Collection,Scotland,1,NA,NA,G
+868,Coeur de Cave,Scotland,3,2,87.58,C
+869,Cofaidh,Germany,3,1,86,C
+870,Coillmór,Germany,50,38,70.24,F
+871,Coilltean,Scotland,6,6,90.67,B
+872,Coinnich,Scotland,2,2,80.5,D
+873,Coleburn,Scotland,78,53,86.34,C
+874,Coleraine,Ireland,2,2,84.34,D
+875,Colkegan,United States,4,3,82.93,D
+876,Collabor&tion,United States,2,1,79,E
+877,Collection Moon,Scotland,2,1,83.33,D
+878,Collectivum XXVIII,Scotland,1,1,86.91,C
+879,Collector's Edition,United States,1,NA,NA,G
+880,Collectors,Scotland,1,NA,NA,G
+881,Collier and McKeel,United States,2,1,72,F
+882,Collingwood,Canada,3,2,81.49,D
+883,Colonel Black,Scotland,1,NA,NA,G
+884,Colonel E.H. Taylor,United States,16,14,86.96,C
+885,Colonel J.W. Dodge,United States,1,NA,NA,G
+886,Colonel Lee,United States,4,2,80,D
+887,Colonel Randolph,United States,1,NA,NA,G
+888,Colonial Blend,Scotland,1,NA,NA,G
+889,Colorado Gold,United States,3,1,75,E
+890,Columban of Iona,Ireland,1,1,90.68,B
+891,Columbus,Indonesia,1,NA,NA,G
+892,Colville,United States,2,NA,NA,G
+893,Còmhlan,Scotland,5,4,86.15,C
+894,Coming from Islay,Scotland,4,3,87.63,C
+895,Commonwealth Games,Scotland,2,1,88.5,C
+896,Conaill Carnagh,Ireland,1,1,86,C
+897,Concannon,Ireland,1,1,70.5,F
+898,Coney Island Carlo,United States,1,NA,NA,G
+899,Confidential Cask,Scotland,9,9,85.75,C
+900,Congratulations,Scotland,2,NA,NA,G
+901,Connacht,Ireland,2,1,82,D
+902,Connecticut Branford,United States,1,NA,NA,G
+903,Connemara,Ireland,87,72,82.82,D
+904,Conrad Hilton,Scotland,1,NA,NA,G
+905,Conrad's 1874,United States,1,NA,NA,G
+906,Conroy's,,1,NA,NA,G
+907,Constantine Stores,United Kingdom,1,1,94,B
+908,Consulate,Scotland,4,NA,NA,G
+909,Continental's,United States,1,NA,NA,G
+910,Convalmore,Scotland,107,80,86.83,C
+911,Conviction,United States,1,NA,NA,G
+912,Cooley,Ireland,80,64,85.94,C
+913,Coomara,Ireland,1,NA,NA,G
+914,Cooper's Mark,United States,1,NA,NA,G
+915,Coopers & Lybrand Deloitte,Scotland,1,1,89,C
+916,Coopers' Craft,United States,1,NA,NA,G
+917,Coopers' Select,Scotland,1,NA,NA,G
+918,Cooperstown,United States,2,1,46,G
+919,Copper Dog,Scotland,1,1,80.67,D
+920,Copper Fox,United States,3,2,81.31,D
+921,Copper Run,United States,1,NA,NA,G
+922,Coppersea,United States,4,1,88,C
+923,Copperworks,United States,5,1,87,C
+924,Corbin Cash,United States,1,NA,NA,G
+925,Corby's,United States,1,NA,NA,G
+926,Cork Distilleries Co.,Ireland,2,NA,NA,G
+927,Corn Star,United States,1,NA,NA,G
+928,Corner Creek,United States,3,3,82.07,D
+929,Corney & Barrow,Scotland,2,NA,NA,G
+930,Cornish Moonshine,United Kingdom,5,2,54,G
+931,Corrour,Scotland,1,NA,NA,G
+932,Corryhabbie,Scotland,2,2,88,C
+933,Corsair Artisan Distillery,United States,20,6,76.22,E
+934,Corshelloch,Scotland,1,1,85.5,C
+935,Corti Brothers,United States,2,NA,NA,G
+936,Corvill,Germany,2,1,40.67,G
+937,Cosa Nostra,,1,1,86,C
+938,Cotswolds Distillery,United Kingdom,20,10,81.99,D
+939,Cotton Hollow,United States,3,NA,NA,G
+940,Cottons Choice No.1,Scotland,1,NA,NA,G
+941,Cougar Bourbon,United States,2,NA,NA,G
+942,County Louth,Ireland,1,1,81.57,D
+943,County of Antrim,Ireland,2,2,90.5,B
+944,Couvreur's Clearach,France,5,5,77.16,E
+945,Covent Garden,Scotland,3,NA,NA,G
+946,Coylumbridge,Scotland,1,1,85,C
+947,Coyote Ugly,Canada,1,1,70,F
+948,Crabbie,Scotland,8,2,86,C
+949,Cradle Mountain,Australia,8,6,84.26,D
+950,Cragabus,Scotland,2,2,81.85,D
+951,Cragganmore,Scotland,540,390,84.64,D
+952,Craig Athol,Scotland,4,NA,NA,G
+953,Craigardle,Scotland,1,NA,NA,G
+954,Craigdarroch,Canada,1,NA,NA,G
+955,Craigduff,Scotland,5,5,87.47,C
+956,Craigellachie,Scotland,615,417,84.5,D
+957,Craigleith,Scotland,NA,NA,NA,G
+958,Craiglodge,Scotland,4,3,73.58,F
+959,Craigmills,Scotland,1,1,83.25,D
+960,Craignure,Scotland,2,2,72,F
+961,Craigpark,Scotland,1,NA,NA,G
+962,Craoi na Móna,Ireland,3,2,77.83,E
+963,Crater Lake,United States,3,1,76,E
+964,Craw's Nest,Scotland,1,NA,NA,G
+965,Crawford's,Scotland,15,11,82.66,D
+966,Crazy 5,Scotland,1,1,83,D
+967,Crazy Christmas Edition,Germany,1,1,88,C
+968,Crazy Cock,India,1,1,83,D
+969,Crazy Creature Edition,Scotland,1,1,86.67,C
+970,Crazy Glen,Scotland,4,1,83.25,D
+971,Crazy Horse,Scotland,2,1,79,E
+972,Crazy Stallion,Scotland,1,1,81.5,D
+973,Crazy Uncle,Australia,2,1,81,D
+974,Cream of Bourbon,United States,1,NA,NA,G
+975,Cream of Kentucky,United States,2,NA,NA,G
+976,Creations,Scotland,15,15,86.42,C
+977,Crescent,Japan,2,NA,NA,G
+978,Crimson,Canada,1,NA,NA,G
+979,Crinan Canal Water,Scotland,1,NA,NA,G
+980,Croftengea,Scotland,52,38,83.23,D
+981,Crois Chill Daltain,Scotland,2,2,91.24,B
+982,Cromdale,Scotland,4,2,82.75,D
+983,Cromwell's,Scotland,2,NA,NA,G
+984,Cross,Scotland,1,NA,NA,G
+985,Crow,United States,1,1,79,E
+986,Crown 99,Thailand,1,1,66,G
+987,Crown of Kentucky,United States,1,1,87,C
+988,Crown of Scotland,Scotland,1,NA,NA,G
+989,Crown Reserve,Scotland,2,NA,NA,G
+990,Crown Royal,Canada,58,36,77.44,E
+991,Crown Salute,Scotland,1,NA,NA,G
+992,Crown Vat,Scotland,1,NA,NA,G
+993,Crownhill,Austria,1,1,60,G
+994,Cú Chulainn,Ireland,2,2,84.32,D
+995,Cu Culhain's Hibernian,Ireland,1,1,80,D
+996,Cú Dhub,Scotland,4,3,67.05,G
+997,Cùl na Creagan,Scotland,2,NA,NA,G
+998,Cullicudden,Scotland,3,NA,NA,G
+999,Culloden,Scotland,5,2,80,D
+1000,Culter Highland,Scotland,1,1,85,C
+1001,Culter Speyside,Scotland,1,1,83,D
+1002,Cumberland Cask,United States,1,NA,NA,G
+1003,Cumbrae Castle,Scotland,1,NA,NA,G
+1004,Curtis,Scotland,4,NA,NA,G
+1005,Cut Spike,United States,2,2,87,C
+1006,Cutty Black,Scotland,2,1,71.67,F
+1007,Cutty Sark,Scotland,61,41,79.36,E
+1008,Cyril's Singlewood,New Zealand,4,1,82,D
+1009,Cyrus Noble,United States,1,1,84.5,D
+1010,D & D,Scotland,1,NA,NA,G
+1011,D is for Decadence,Scotland,1,1,85,C
+1012,D'Arche,,1,NA,NA,G
+1013,D. W. D. - Dublin Whiskey Distillery,Ireland,2,2,82.5,D
+1014,D.U.C,France,1,NA,NA,G
+1015,Da Johann,Austria,2,NA,NA,G
+1016,Dà Mhìle,United Kingdom,4,2,79,E
+1017,Dad's Hat,United States,11,5,80.03,D
+1018,Daftmill,Scotland,2,2,87.59,C
+1019,Dailuaine,Scotland,580,418,84.96,D
+1020,Dakota Spirits,United States,2,NA,NA,G
+1021,Daks,Scotland,2,NA,NA,G
+1022,Dalaruan,Scotland,5,2,84.44,D
+1023,Dalchully,Scotland,1,NA,NA,G
+1024,Dallas Dhu,Scotland,306,214,87.7,C
+1025,Dallmayr Islay Select,Scotland,3,3,86.67,C
+1026,Dallmayr Speyside Select,Scotland,2,1,80,D
+1027,Dalmore,Scotland,533,384,85.86,C
+1028,Dalriada,Scotland,1,1,76.33,E
+1029,Dalvany,Switzerland,1,NA,NA,G
+1030,Dalvegan,Scotland,3,1,82,D
+1031,Dalwhinnie,Scotland,105,79,83.65,D
+1032,Dancing Cows,United Kingdom,2,NA,NA,G
+1033,Dancing Pines,United States,1,NA,NA,G
+1034,Dandie Dinmont,Scotland,1,NA,NA,G
+1035,Danfield's,Canada,2,2,87.38,C
+1036,Daniel Boone,United States,3,1,77,E
+1037,Daniel Crawford's,Scotland,3,NA,NA,G
+1038,Danne's,Germany,8,3,70.11,F
+1039,Dannie Diesel's,United States,1,NA,NA,G
+1040,Danny Boy,Ireland,3,2,80.95,D
+1041,Danny Deever's,Scotland,1,NA,NA,G
+1042,Darach - Ruadh,Scotland,2,2,83.25,D
+1043,Darby's Reserve,United States,1,NA,NA,G
+1044,Dark Castle,Scotland,1,NA,NA,G
+1045,Dark Corner,United States,6,NA,NA,G
+1046,Dark Horse,United States,4,2,80,D
+1047,Dark Northern,United States,1,NA,NA,G
+1048,Dark Whisky,Scotland,1,1,73.5,F
+1049,Darkness!,Scotland,1,1,91.5,B
+1050,Dartmoore,Scotland,1,NA,NA,G
+1051,David Nicholson,United States,1,NA,NA,G
+1052,David Nicholson 1843,United States,5,1,84.22,D
+1053,David Ston,Scotland,1,NA,NA,G
+1054,Daviess County,United States,1,NA,NA,G
+1055,DB 53,France,1,1,82,D
+1056,De IJsvogel,Netherlands,5,2,75.88,E
+1057,De Luxe,Scotland,1,NA,NA,G
+1058,Dean's,Scotland,2,1,68.6,G
+1059,Deanston,Scotland,204,164,84.42,D
+1060,Deanston Mill,Scotland,4,3,59,G
+1061,Death's Door,United States,2,1,74,F
+1062,Deerhammer,United States,3,NA,NA,G
+1063,Deerstalker,Scotland,9,6,80.08,D
+1064,Defender,Scotland,2,NA,NA,G
+1065,Defiant,United States,3,2,71.56,F
+1066,Deheck,Germany,1,1,81,D
+1067,Del Bac,United States,6,5,81.9,D
+1068,Delaney's,Ireland,1,1,76,E
+1069,Delaware Phoenix Distillery,United States,5,1,79,E
+1070,Delicious Malts,,1,1,87,C
+1071,Delilah's,Scotland,2,2,85.56,C
+1072,DeLuxe Blended,Scotland,1,1,88.17,C
+1073,Delva,Scotland,1,NA,NA,G
+1074,DenHool,Netherlands,3,2,82.3,D
+1075,Der Falckner,Germany,6,1,70,F
+1076,Der kleine Lord,Germany,1,NA,NA,G
+1077,Der Kolonist,Germany,1,1,76,E
+1078,Der Schwarzbrenner,Germany,1,NA,NA,G
+1079,Derrina,Germany,4,3,74,F
+1080,Desmond & Duff,Scotland,4,1,81,D
+1081,Destillerie Hirtner,,1,NA,NA,G
+1082,Deventer Whisky,Scotland,1,NA,NA,G
+1083,Deviant,Scotland,1,1,89.88,C
+1084,Devil John,United States,2,NA,NA,G
+1085,Devil's Share,United States,4,NA,NA,G
+1086,Devolution Dram,Scotland,2,NA,NA,G
+1087,Dew of Ballindalloch,Scotland,2,1,84,D
+1088,Dew of Ben Alder,Scotland,4,NA,NA,G
+1089,Dew of Ben Nevis,Scotland,16,9,66.16,G
+1090,Dewar's,Scotland,88,51,79.75,E
+1091,Dhoon Glen,Scotland,1,1,80,D
+1092,Dhunomhainn,Scotland,1,NA,NA,G
+1093,Dice,Scotland,1,NA,NA,G
+1094,Die Whiskybotschaft GmbH,Germany,2,1,85,C
+1095,Diedenacker,Luxembourg,7,6,68.33,G
+1096,Diggers & Ditch,New Zealand,3,1,83.92,D
+1097,Dillon's,Canada,3,1,77,E
+1098,Dimple,Scotland,57,28,78.97,E
+1099,Diners,Scotland,4,2,89,C
+1100,Diners' Club,Scotland,1,NA,NA,G
+1101,Dingle,Ireland,13,12,81.55,D
+1102,Diomhair'eachd,,1,NA,NA,G
+1103,Diplomat Deluxe,India,NA,NA,NA,G
+1104,Diplomat Reserve,Scotland,1,NA,NA,G
+1105,Director's Choice,Scotland,1,1,72,F
+1106,Director's Reserve,Scotland,3,NA,NA,G
+1107,Dirker Whisky,Germany,3,2,78.25,E
+1108,Dirty Dianne,Scotland,1,1,86.64,C
+1109,Discovery Road,United Kingdom,4,1,82,D
+1110,Distillations,,1,NA,NA,G
+1111,Distilled at Islay,Scotland,1,NA,NA,G
+1112,Distillerie de Monsieur Balthazar,France,2,2,74.17,F
+1113,Distillerie du Pays d'Othe,France,3,3,71.83,F
+1114,Distillerie Theo Preiss,France,2,2,75.5,E
+1115,Distillery 291,United States,6,NA,NA,G
+1116,Diùn-Laoch,Scotland,1,1,81.25,D
+1117,Dixon's,Scotland,1,NA,NA,G
+1118,Do Good Distillery,United States,1,1,78.5,E
+1119,Doc Porter's,United States,NA,NA,NA,G
+1120,Doctors' Special,Scotland,2,1,84,D
+1121,Dog Head,Germany,2,NA,NA,G
+1122,Doinich Daal,Germany,3,3,77.17,E
+1123,Dolleruper,Germany,3,1,50,G
+1124,Domaine de Bourjac,France,1,1,71,F
+1125,Domaine des Hautes Glaces,France,23,15,78.69,E
+1126,Domus Cardinalis,France,1,1,80,D
+1127,Don of Schwetzingen,Germany,1,1,89.67,C
+1128,Don of the Isles,Germany,3,3,89.87,C
+1129,Donatella,Germany,8,2,90,B
+1130,Donker,Netherlands,3,3,80.58,D
+1131,Door County,United States,1,NA,NA,G
+1132,Dorfbachwasser,Switzerland,9,3,78.89,E
+1133,Double Barrel,Scotland,23,21,82.95,D
+1134,Double Cask,Scotland,3,3,84.95,D
+1135,Double Q,Scotland,1,1,76,E
+1136,Double Springs,United States,1,NA,NA,G
+1137,Dow's,Scotland,2,NA,NA,G
+1138,Dowling,United States,1,NA,NA,G
+1139,Downslope,United States,2,NA,NA,G
+1140,Doz de Dauzanges,France,1,1,65,G
+1141,Drago,Spain,1,1,77.5,E
+1142,Dram 101,Scotland,2,NA,NA,G
+1143,Dram House,Scotland,1,1,79,E
+1144,Dram Òrach,Scotland,1,NA,NA,G
+1145,Dram Regional,Scotland,9,9,83.01,D
+1146,Dram Select,Scotland,1,NA,NA,G
+1147,Dresdner Single Malt Whisky,Germany,1,NA,NA,G
+1148,Drexler,Germany,37,11,72.7,F
+1149,Driftwood,Scotland,1,1,73.5,F
+1150,Druichan Islay,Scotland,2,2,69,G
+1151,Drum,Indonesia,3,2,71,F
+1152,Drum Major,Scotland,3,3,77.44,E
+1153,Drumblade,Scotland,2,1,82.5,D
+1154,Drumbowie,Scotland,1,1,89,C
+1155,Drumguish,Scotland,9,4,65.63,G
+1156,Drummore's,Scotland,1,NA,NA,G
+1157,Drumochter,Scotland,2,NA,NA,G
+1158,Drury's,Scotland,1,1,81,D
+1159,Dry County Distillery,United States,4,NA,NA,G
+1160,Dry Fly,United States,15,11,80.36,D
+1161,Dublin,Ireland,1,1,77,E
+1162,Dublin in the Rare Ould Times,Ireland,1,1,76.75,E
+1163,Ducan's,Ireland,1,NA,NA,G
+1164,Duck Bay,Scotland,1,NA,NA,G
+1165,Dufftown,Scotland,265,186,84.99,D
+1166,Dufftown Highland Games,Scotland,1,NA,NA,G
+1167,Dufftown Tower Malt,Scotland,1,NA,NA,G
+1168,Duggan's Dew,Scotland,3,NA,NA,G
+1169,Duke,United States,1,1,70,F
+1170,Dumbarton,Scotland,55,36,86.51,C
+1171,Dumbarton Castle,Scotland,1,NA,NA,G
+1172,Dun Bheagan,Scotland,23,16,80.29,D
+1173,Dún Léire,Ireland,2,2,86.86,C
+1174,Dun Mhor,Scotland,4,1,79,E
+1175,Dun Naomhaig Bay,Scotland,2,2,87.11,C
+1176,Dun Naomhaig Water,Scotland,5,4,86.08,C
+1177,Dunadd,Scotland,6,NA,NA,G
+1178,Dunaverty,Scotland,3,3,88.13,C
+1179,Duncan Gilmour's,Scotland,1,NA,NA,G
+1180,Duncan MacGregor,Scotland,1,1,84,D
+1181,Duncan Special,Scotland,1,1,70,F
+1182,Duncraggan,Scotland,1,NA,NA,G
+1183,Duncraig,Scotland,2,NA,NA,G
+1184,Dundalgan,Ireland,2,2,74.5,F
+1185,Dundalk Dew,Ireland,1,1,82.75,D
+1186,Dundee 800,Scotland,1,NA,NA,G
+1187,Dunedin,New Zealand,3,1,76,E
+1188,Dunfermline Athletic Football Club,Scotland,2,NA,NA,G
+1189,Dunglass,Scotland,9,6,77.59,E
+1190,Dunhill,Scotland,9,NA,NA,G
+1191,Dunhillion,Scotland,1,NA,NA,G
+1192,Duniva,Scotland,1,NA,NA,G
+1193,Dunlow,Ireland,1,1,73,F
+1194,Dunnottar,Scotland,1,1,82,D
+1195,Dunnyveg,Scotland,1,1,84,D
+1196,Dunosdale Cream,Scotland,1,NA,NA,G
+1197,Dunphy's,Ireland,2,2,75.75,E
+1198,Dunstone,Scotland,3,1,20,G
+1199,Duntreath,Scotland,1,NA,NA,G
+1200,Dunvegan,Scotland,2,NA,NA,G
+1201,Dunvegan Castle,Scotland,1,NA,NA,G
+1202,Dunville's,Ireland,8,5,79,E
+1203,Dunwoodie,Scotland,1,NA,NA,G
+1204,Dunyvaig,Scotland,5,5,88.73,C
+1205,Dunyvaig Bay,Scotland,1,1,85.67,C
+1206,Duo Malt Whisky,Germany,1,1,85.5,C
+1207,Dutch Guts,Netherlands,4,1,84,D
+1208,DutchSky,Netherlands,2,2,61.03,G
+1209,Duvel Moortgat,Belgium,2,2,43.73,G
+1210,DYC,Spain,20,10,68.87,G
+1211,Dyflin,Ireland,1,1,78,E
+1212,E&K,,1,1,88.43,C
+1213,Eades,Scotland,6,3,82.67,D
+1214,Eagle of Spey,Scotland,8,6,87.53,C
+1215,Eagle Rare,United States,53,37,85.89,C
+1216,Eaglesburn,Netherlands,6,3,81,D
+1217,Eaglesome's,Scotland,3,NA,NA,G
+1218,Early Times,United States,21,8,76.01,E
+1219,East Lothian,Scotland,1,1,86.5,C
+1220,East Marypark Distillery,Scotland,1,1,86.4,C
+1221,East Shore Islay Malt,Scotland,1,1,85.2,C
+1222,Eastmoor,Netherlands,4,4,78.22,E
+1223,Eaton's,Scotland,3,1,82,D
+1224,Eau Claire Distillery,Canada,1,NA,NA,G
+1225,Ebenezer Place,Scotland,1,NA,NA,G
+1226,Echo Spring,United States,3,NA,NA,G
+1227,Eckes,Austria,2,NA,NA,G
+1228,Ed Gwenn,France,1,1,80,D
+1229,Eddu,France,12,12,78.65,E
+1230,Edelbrände Senft,Germany,13,11,72.43,F
+1231,Eden Mill,Scotland,22,16,83.02,D
+1232,Edenside,Scotland,1,NA,NA,G
+1233,Edgefield,United States,8,3,81,D
+1234,Edinburgh,Scotland,1,NA,NA,G
+1235,Edinburgh Castle,Scotland,3,3,74.33,F
+1236,Edinburgh Festival,Scotland,12,5,84.57,D
+1237,Edinburgh Woollen Mill,Scotland,1,NA,NA,G
+1238,Edinburgh's Hogmanay,Scotland,1,NA,NA,G
+1239,Edradour,Scotland,795,639,83.27,D
+1240,Egan's,Ireland,2,1,82.67,D
+1241,EH10,Scotland,1,NA,NA,G
+1242,Eifel Destillate,Germany,29,13,77.81,E
+1243,Eigashima,Japan,3,2,85.09,C
+1244,Eiger Wasser,Switzerland,1,1,84,D
+1245,Eight Fellows,Scotland,1,NA,NA,G
+1246,Eighteen 33,United States,2,1,75,E
+1247,Eiktyrne,Norway,6,6,81.21,D
+1248,Eilan Gillan,Scotland,5,5,78.75,E
+1249,Eilean A'cheo,Scotland,1,NA,NA,G
+1250,Eilean Dhubh,Scotland,1,NA,NA,G
+1251,Eilean Donan Castle,Scotland,2,NA,NA,G
+1252,Eilean Na Hearadh,Scotland,1,NA,NA,G
+1253,Eileandour,Scotland,1,NA,NA,G
+1254,Éim Néckels,Luxembourg,1,1,78,E
+1255,El Máximo,Scotland,8,8,84.71,D
+1256,Elbe 1,Germany,4,3,71.89,F
+1257,Elbe-Valley NORDIK Whisky,Germany,4,4,60.67,G
+1258,Elch Whisky,Germany,5,5,84.28,D
+1259,Eleuthera,Scotland,6,4,87.94,C
+1260,Elijah Craig,United States,221,71,85.51,C
+1261,Elk Rider,United States,7,3,79.33,E
+1262,Ellensburg,United States,1,NA,NA,G
+1263,Ellenstown,Scotland,2,1,77,E
+1264,Ellington Reserve,Canada,1,NA,NA,G
+1265,Ellis's 99,Scotland,1,NA,NA,G
+1266,Elmer T. Lee,United States,8,6,84.48,D
+1267,Elsass Whisky,France,4,3,81.92,D
+1268,Embassy,United States,1,NA,NA,G
+1269,Embassy,Philippines,1,NA,NA,G
+1270,Embassy Club,Scotland,1,NA,NA,G
+1271,Emblem,Japan,1,NA,NA,G
+1272,Emerald Isle,Ireland,3,3,90.82,B
+1273,Empire 8,Australia,1,1,78,E
+1274,Enchanting Emma,Scotland,1,1,86.8,C
+1275,Enghaven,Denmark,1,1,61,G
+1276,Engine 49,United States,4,1,87,C
+1277,English Spirit Distillery,United Kingdom,4,4,87.13,C
+1278,Enlightenment,Scotland,2,2,85.92,C
+1279,Entrapment,Canada,1,1,100,A
+1280,Envy,England,1,NA,NA,G
+1281,Eorna,Scotland,1,1,78,E
+1282,Eòrna-Lòin,Scotland,1,1,82.75,D
+1283,Epicure,Scotland,1,NA,NA,G
+1284,Equipo Navazos,,1,1,86,C
+1285,eRètico,Italy,1,1,61.33,G
+1286,Ergaster,France,1,1,73,F
+1287,Erin Go Bragh,Ireland,2,1,85,C
+1288,Erin's,Ireland,2,2,84.5,D
+1289,Erin's Isle,Ireland,2,1,75,E
+1290,Erismann,Switzerland,2,2,79.5,E
+1291,Erlebnisbrennerei Kallnach,Switzerland,3,3,73.83,F
+1292,Esquire,Scotland,2,1,81,D
+1293,Evan Williams,United States,172,88,82.42,D
+1294,Evan Williams 1783,United States,3,1,80,D
+1295,Everclear,United States,1,1,70,F
+1296,Evermore,Japan,8,1,87,C
+1297,Everton's,Scotland,1,NA,NA,G
+1298,Evolution,Scotland,9,8,88.92,C
+1299,Excalibur,Scotland,6,2,83.29,D
+1300,Excellency Club,Scotland,1,NA,NA,G
+1301,Excise Officer's Dram,Scotland,1,NA,NA,G
+1302,Exclusive Malts,Scotland,1,1,85.67,C
+1303,Executive,Scotland,2,NA,NA,G
+1304,Exhibition,Scotland,7,3,86.83,C
+1305,Exotic Cargo,Scotland,3,2,87.4,C
+1306,Express Load,United States,NA,NA,NA,G
+1307,Eylandt Legend,Netherlands,7,5,64.2,G
+1308,Ezra Brooks,United States,40,21,81.55,D
+1309,Ezra Cox Distillery,United States,1,NA,NA,G
+1310,Fading Hill,Germany,20,13,77.92,E
+1311,Fado Vivo,Belgium,1,1,83.67,D
+1312,Fafnir,France,1,1,65,G
+1313,Fairgrounds,United States,1,NA,NA,G
+1314,Fairy Flag,Scotland,1,1,80,D
+1315,Falcon,Scotland,1,NA,NA,G
+1316,Fall Springs,United States,1,NA,NA,G
+1317,Fallsteiner-Whisky,Germany,2,1,61.5,G
+1318,Family-Owned Distillery,Scotland,1,1,86,C
+1319,Fantastic Fred,Scotland,1,1,86,C
+1320,Farmer John's,United States,1,NA,NA,G
+1321,Farmer's Club,Switzerland,1,1,62,G
+1322,Farmer's Malt,Scotland,6,2,80,D
+1323,Farrell,Ireland,1,1,77,E
+1324,Farthofer,Austria,2,NA,NA,G
+1325,Fary Lochan,Denmark,22,15,79.66,E
+1326,Fascadale,Scotland,9,9,84.61,D
+1327,Fauchon,France,1,NA,NA,G
+1328,Faultline,Scotland,4,2,83,D
+1329,Favourite Distillery,Scotland,1,1,91,B
+1330,Fearless,United States,2,1,79,E
+1331,FECKiN,Ireland,5,4,70.96,F
+1332,Federal Club,United States,4,NA,NA,G
+1333,Federal Reserve,United States,1,NA,NA,G
+1334,Feindestillerie Geistreich,Germany,1,NA,NA,G
+1335,Feisty Spirits,United States,3,NA,NA,G
+1336,Feller,Germany,13,9,82.24,D
+1337,Fellsglen,Scotland,1,NA,NA,G
+1338,Feral Clangs,Scotland,1,1,89.83,C
+1339,Ferintosh,Scotland,2,2,59,G
+1340,Ferry to Islay,Scotland,6,3,85.69,C
+1341,Fest!,Scotland,1,NA,NA,G
+1342,Fettercairn,Scotland,329,241,83.92,D
+1343,Feuerwasser,Scotland,1,1,86,C
+1344,FEW,United States,25,20,82.3,D
+1345,Fiddler's Choice,Canada,1,1,86,C
+1346,Fife-Keith Reserve,Scotland,1,NA,NA,G
+1347,Fifth State,United States,NA,NA,NA,G
+1348,Fifty / Fifty,Scotland,3,3,82.91,D
+1349,Fifty Six Degrees,Scotland,1,1,73,F
+1350,Fighting Cock,United States,9,6,85.52,C
+1351,Filibuster,United States,5,2,82.38,D
+1352,Finch,Germany,35,31,79.45,E
+1353,Finch's,Scotland,1,NA,NA,G
+1354,Findlater's,Scotland,23,6,82.18,D
+1355,Fine Blended Malt Whisky,,NA,NA,NA,G
+1356,Fine Blended Malt Whisky,,1,1,90.25,B
+1357,Fine Blended Whisky,Scotland,1,1,89.84,C
+1358,Fine Single Grain Whisky,Scotland,1,1,91.43,B
+1359,Fine Single Highland Scotch Malt Whisky,Scotland,3,1,94,B
+1360,Fine Single Orkney Scotch Malt Whisky,Scotland,1,NA,NA,G
+1361,Fine Single Speyside Scotch Malt Whisky,Scotland,1,1,90,B
+1362,Fine Tennessee Whiskey,United States,1,1,86.38,C
+1363,Finest Blended Scotch Whisky,Scotland,1,NA,NA,G
+1364,Finest Irish,Ireland,1,1,89.91,C
+1365,Finest Old Blended Scotch Whisky,Scotland,1,NA,NA,G
+1366,Finest Tyrolian,Austria,1,1,84,D
+1367,Finian's,Ireland,1,NA,NA,G
+1368,Finlaggan,Scotland,48,36,82.03,D
+1369,Finnegan,Ireland,2,2,77,E
+1370,Finoh's,United States,1,NA,NA,G
+1371,Fior Càirdeas,Scotland,1,NA,NA,G
+1372,Fiorghlan,Scotland,2,NA,NA,G
+1373,Fire Water,United States,1,NA,NA,G
+1374,Firean,Scotland,1,1,71.33,F
+1375,Firefly,United States,1,1,87,C
+1376,First and Foremost,Scotland,1,NA,NA,G
+1377,First Foot,Scotland,1,NA,NA,G
+1378,Firstwatch,,2,2,70,F
+1379,Fish Wasser,Switzerland,3,1,74.5,F
+1380,Fisselier,France,1,NA,NA,G
+1381,Fitch's Goat,United States,2,NA,NA,G
+1382,Flaitheanas,Scotland,1,1,88.57,C
+1383,Flaming Cask,Scotland,4,NA,NA,G
+1384,Flaming Fergie,Scotland,1,1,86.44,C
+1385,Flaming Heart,Scotland,9,8,87.29,C
+1386,Flaming Pig,Ireland,1,1,64,G
+1387,Flannigans,Ireland,1,1,77,E
+1388,Flatnöse,Scotland,4,3,81.71,D
+1389,Fleeting,Scotland,4,4,85.79,C
+1390,Fleischmann's,United States,5,NA,NA,G
+1391,Fletcher's,Scotland,2,NA,NA,G
+1392,Fleurieu Distillery,Australia,4,NA,NA,G
+1393,Flóki,Iceland,27,21,68.83,G
+1394,Florida Caribbean,United States,3,NA,NA,G
+1395,Flower of Scotland,Scotland,12,1,81.6,D
+1396,Flowery Moon,Scotland,1,1,88.25,C
+1397,Floyd's 55,Germany,NA,NA,NA,G
+1398,Fochabers Bicentenary,Scotland,1,1,84,D
+1399,Fog's End,United States,2,1,69,G
+1400,For Ever Young Pristine,Scotland,1,1,92.67,B
+1401,Foreman,,1,NA,NA,G
+1402,Forgan,United Kingdom,1,NA,NA,G
+1403,Forged Oak,United States,1,1,86.67,C
+1404,Fort George,Scotland,1,NA,NA,G
+1405,Fortbacher,Germany,1,1,80,D
+1406,Forth Bridge Centennial,Scotland,1,NA,NA,G
+1407,Forties,Scotland,1,1,86,C
+1408,Fortnum & Mason,United Kingdom,3,NA,NA,G
+1409,Forty Creek,Canada,18,16,82.33,D
+1410,Founders,Scotland,1,NA,NA,G
+1411,Founders Whisky,Scotland,1,NA,NA,G
+1412,Four Kings,United States,2,NA,NA,G
+1413,Four Roses,United States,845,204,83.81,D
+1414,Foxy Fiona,Scotland,1,1,86.93,C
+1415,Francis,Scotland,8,1,79,E
+1416,Franklin County Distilleries,United States,2,NA,NA,G
+1417,Franziskus,Germany,1,1,13,G
+1418,Fraser Mc.Donald's,Scotland,1,NA,NA,G
+1419,Fraser's,Scotland,2,NA,NA,G
+1420,Frasers Reserve,Scotland,3,3,70.78,F
+1421,Frazer McHugh,Scotland,1,NA,NA,G
+1422,Frederick's,,1,1,90.09,B
+1423,Freihof,Switzerland,6,2,76.25,E
+1424,Fremont Mischief,United States,2,1,60,G
+1425,Friar John Cor,Scotland,2,2,72.75,F
+1426,Fritzen's,Germany,1,NA,NA,G
+1427,From arguably the Greatest Speyside Distillery!,Scotland,1,NA,NA,G
+1428,Fruity Moon,Scotland,1,1,74.5,F
+1429,Frysk Hynder,Netherlands,114,67,73.87,F
+1430,Fuaran Ile,Scotland,26,11,86.76,C
+1431,Fuji Gotemba,Japan,44,27,84.49,D
+1432,Fujikai,Japan,1,1,59.21,G
+1433,Fukano,Japan,6,2,85.34,C
+1434,Full House,United States,1,NA,NA,G
+1435,Funky Monkey,United States,1,NA,NA,G
+1436,Fuyu,Japan,1,1,78.75,E
+1437,Fyr Drenc,United Kingdom,3,1,87,C
+1438,G. Rozelieures,France,12,8,78.07,E
+1439,G.I. Whiskey,United States,2,NA,NA,G
+1440,Gairloch,Scotland,1,NA,NA,G
+1441,Galahad,Scotland,1,1,86.33,C
+1442,Galena Reserve,United States,1,NA,NA,G
+1443,Gall huiswhisky,Ireland,1,1,69.75,G
+1444,Gallagher & Burton's,United States,1,NA,NA,G
+1445,Gallantry,United States,2,1,64,G
+1446,Galleg,France,1,1,55.67,G
+1447,Gammelstilla,Sweden,2,2,85.84,C
+1448,Gantree's,United States,1,NA,NA,G
+1449,Garavan's,Ireland,1,NA,NA,G
+1450,Garn Kirk,Scotland,1,NA,NA,G
+1451,Garnheath,Scotland,26,21,86.63,C
+1452,Garrison Brothers,United States,12,6,78.12,E
+1453,Garryana,United States,2,2,89.5,C
+1454,Gasthof Hirsch,Germany,1,1,58,G
+1455,Gäu Whisky,Germany,5,1,83,D
+1456,Gelephu,Bhutan,1,NA,NA,G
+1457,Gelston's,Ireland,3,2,88.75,C
+1458,Gemenc,Hungary,2,1,78,E
+1459,Gemikste Schotse klap in je smoel uit Rotterdam,Netherlands,1,1,79,E
+1460,Gems of Scotland,Scotland,7,6,80.72,D
+1461,General,Scotland,1,NA,NA,G
+1462,General Nelson,Norway,1,NA,NA,G
+1463,Genius,,1,NA,NA,G
+1464,Gentleman,Scotland,1,1,91.5,B
+1465,Gentry,United States,1,NA,NA,G
+1466,Genuine Scotch,Scotland,1,NA,NA,G
+1467,Geo. Roe & Co's,Ireland,4,1,84,D
+1468,Geometrika,,1,NA,NA,G
+1469,George,Austria,1,NA,NA,G
+1470,George Denis,Scotland,1,NA,NA,G
+1471,George Dickel,United States,59,34,80.77,D
+1472,George Remus,United States,2,NA,NA,G
+1473,George T. Stagg,United States,18,18,89.1,C
+1474,George Urquhart,Scotland,1,NA,NA,G
+1475,George Washington,United States,3,NA,NA,G
+1476,Georgia Moon,United States,2,1,47.85,G
+1477,Gerhard Büchner,Germany,4,3,66.28,G
+1478,Gerlachus WiskiE,Netherlands,7,2,64.5,G
+1479,Germain Bros.,Scotland,1,NA,NA,G
+1480,Gerston,Scotland,8,7,84.05,D
+1481,Geulhems Goud,Belgium,2,1,85,C
+1482,Geuting,Germany,18,9,75.52,E
+1483,Ghibinèt,Italy,2,2,75.67,E
+1484,Ghillie,Scotland,1,1,85,C
+1485,Ghost Owl,United States,2,2,50.5,G
+1486,Giant's  Causeway,Germany,NA,NA,NA,G
+1487,Giant's Choice,Ireland,1,1,84.2,D
+1488,Gibson's Finest,Canada,13,5,79.97,E
+1489,Gilavar,Azerbaijan,1,NA,NA,G
+1490,Gilbey's,Scotland,7,2,84.38,D
+1491,Gillon's,Scotland,1,NA,NA,G
+1492,Gilors,Germany,13,9,65.22,G
+1493,Ginkgo,Japan,1,1,84.5,D
+1494,Girvan,Scotland,133,92,83.81,D
+1495,Give 'n' Tell,Scotland,1,1,91,B
+1496,Gjoleid,Norway,5,5,78.13,E
+1497,Glacier Distilling,United States,5,1,63,G
+1498,Glamis,Scotland,8,4,81.38,D
+1499,Glamis Castle,Scotland,2,1,90,B
+1500,Glan Iarran,Germany,1,NA,NA,G
+1501,Glan Taint,Germany,1,NA,NA,G
+1502,Glann ar Mor,France,26,19,82.86,D
+1503,Glasgow City of Culture,Scotland,1,NA,NA,G
+1504,Glasgow European City of Culture,Scotland,1,NA,NA,G
+1505,Glasgow Herald,Scotland,1,1,86.5,C
+1506,Gleaming,Scotland,1,1,89.92,C
+1507,Gleann Banbh,Scotland,5,5,84.02,D
+1508,Gleann Muir,Switzerland,1,NA,NA,G
+1509,Glen,Scotland,7,6,80.89,D
+1510,Glen Adam,Scotland,3,1,80.63,D
+1511,Glen Afton,Scotland,1,NA,NA,G
+1512,Glen Alan,Scotland,1,NA,NA,G
+1513,Glen Alba,Scotland,2,2,84.25,D
+1514,Glen Albyn,Scotland,151,102,86.06,C
+1515,Glen Ardoch,Scotland,3,2,58.65,G
+1516,Glen Argyll,Scotland,1,NA,NA,G
+1517,Glen Arvin,Scotland,1,NA,NA,G
+1518,Glen Avon,Scotland,44,34,88.69,C
+1519,Glen Bannock,Scotland,2,NA,NA,G
+1520,Glen Bervie,Scotland,1,1,50,G
+1521,Glen Blair,Scotland,6,1,73,F
+1522,Glen Breton,Canada,25,11,76.07,E
+1523,Glen Broch,Scotland,4,3,67.35,G
+1524,Glen Brora,Scotland,1,1,90,B
+1525,Glen Burn,Scotland,2,NA,NA,G
+1526,Glen Cairn,Scotland,7,NA,NA,G
+1527,Glen Calder,Scotland,10,3,83.9,D
+1528,Glen Carren,Scotland,3,NA,NA,G
+1529,Glen Carron,Scotland,2,NA,NA,G
+1530,Glen Castle,,10,2,90.13,B
+1531,Glen Catrine,Scotland,3,1,77,E
+1532,Glen Cawdor,Scotland,8,6,92.05,B
+1533,Glen Clova,Scotland,2,NA,NA,G
+1534,Glen Clyde,Scotland,7,4,61.29,G
+1535,Glen Corrie,Scotland,1,NA,NA,G
+1536,Glen Coulmony,Scotland,1,NA,NA,G
+1537,Glen Craige,Scotland,1,1,83,D
+1538,Glen Crinan,Scotland,6,1,63,G
+1539,Glen Darbach,Scotland,1,NA,NA,G
+1540,Glen Deer,Scotland,1,1,88.55,C
+1541,Glen Demort,Scotland,2,1,92,B
+1542,Glen Deveron,Scotland,75,42,81.89,D
+1543,Glen Dhu,Scotland,1,1,74,F
+1544,Glen Dorsey,Scotland,1,NA,NA,G
+1545,Glen Douglas,Scotland,5,4,77.49,E
+1546,Glen Downan,Scotland,2,1,81,D
+1547,Glen Drumm,Scotland,3,1,94,B
+1548,Glen Drummond,Scotland,5,4,84.75,D
+1549,Glen Eagle,Scotland,5,1,82,D
+1550,Glen Eason,Scotland,1,NA,NA,G
+1551,Glen Edward's,Scotland,2,1,78,E
+1552,Glen Elg,Scotland,2,NA,NA,G
+1553,Glen Elgin,Scotland,399,310,86.15,C
+1554,Glen Ellis,Scotland,1,NA,NA,G
+1555,Glen Els,Germany,212,180,86.04,C
+1556,Glen Faye,Scotland,1,NA,NA,G
+1557,Glen Findlay,Scotland,1,NA,NA,G
+1558,Glen Finloch,Scotland,4,1,77,E
+1559,Glen Fiona,United Kingdom,NA,NA,NA,G
+1560,Glen Flagler,Scotland,33,23,85.02,C
+1561,Glen Fohdry,Scotland,3,NA,NA,G
+1562,Glen Forrest,Scotland,1,1,66,G
+1563,Glen Foster,Scotland,1,1,78,E
+1564,Glen Foyle,Scotland,2,NA,NA,G
+1565,Glen Franciscan,Scotland,3,1,88,C
+1566,Glen Fraser,Scotland,5,3,90.4,B
+1567,Glen Fruin,Scotland,1,NA,NA,G
+1568,Glen Fyne,Scotland,1,1,78,E
+1569,Glen Galwan,Scotland,2,1,70,F
+1570,Glen Garioch,Scotland,549,422,86.03,C
+1571,Glen Garry,Scotland,7,5,77.97,E
+1572,Glen Garvin,Scotland,1,NA,NA,G
+1573,Glen Gency,Scotland,3,NA,NA,G
+1574,Glen George,Scotland,1,1,86.67,C
+1575,Glen Ghillie,Scotland,1,NA,NA,G
+1576,Glen Gordon,Scotland,12,10,90.06,B
+1577,Glen Graeme,Scotland,3,NA,NA,G
+1578,Glen Grant,Scotland,1297,986,87.2,C
+1579,Glen Green,Scotland,1,1,50,G
+1580,Glen Grigor,Scotland,2,NA,NA,G
+1581,Glen Grouse,Scotland,2,1,75.5,E
+1582,Glen Gyle,Scotland,3,2,80.5,D
+1583,Glen Hood,Scotland,1,1,66.33,G
+1584,Glen Hunter,Scotland,2,NA,NA,G
+1585,Glen Ila,Scotland,3,2,85.13,C
+1586,Glen Keith,Scotland,406,324,86.75,C
+1587,Glen Kella,United Kingdom,4,3,69.58,G
+1588,Glen Kirk,Scotland,6,4,72.54,F
+1589,Glen Lairg,Scotland,1,NA,NA,G
+1590,Glen Laogh,Scotland,1,NA,NA,G
+1591,Glen Leora,Scotland,1,NA,NA,G
+1592,Glen Lord,Scotland,2,NA,NA,G
+1593,Glen Lyon,Scotland,3,1,86.75,C
+1594,Glen Mac Clay,Scotland,1,NA,NA,G
+1595,Glen Mansion,Scotland,1,1,40,G
+1596,Glen Marnoch,Scotland,15,11,80.05,D
+1597,Glen Martin,Scotland,2,1,82,D
+1598,Glen Mavis,Scotland,1,1,82,D
+1599,Glen Mhor,Scotland,203,157,86.76,C
+1600,Glen Mill,Scotland,1,NA,NA,G
+1601,Glen Mist,Scotland,1,NA,NA,G
+1602,Glen Monson,Scotland,1,NA,NA,G
+1603,Glen Moore,Scotland,1,NA,NA,G
+1604,Glen Morar,Scotland,1,NA,NA,G
+1605,Glen Moray,Scotland,776,548,85.7,C
+1606,Glen Morgain,Scotland,1,1,28.5,G
+1607,Glen Morris,Scotland,4,2,78,E
+1608,Glen Morven,Scotland,9,6,73.25,F
+1609,Glen Ness,Scotland,2,NA,NA,G
+1610,Glen Nevis,Scotland,10,1,84.6,D
+1611,Glen Nicol,Scotland,3,NA,NA,G
+1612,Glen Olo,Scotland,1,1,89.29,C
+1613,Glen Orchy,Scotland,5,3,69.77,G
+1614,Glen Ord,Scotland,261,199,84.91,D
+1615,Glen Orrin,Scotland,2,2,78.59,E
+1616,Glen Orson,Scotland,3,1,69,G
+1617,Glen Parker,Scotland,6,3,69.57,G
+1618,Glen Piper,Scotland,2,NA,NA,G
+1619,Glen Quaich,Scotland,1,1,80,D
+1620,Glen Ranoch,Scotland,3,1,73,F
+1621,Glen Raven,Scotland,1,NA,NA,G
+1622,Glen Rhine,Switzerland,3,1,70,F
+1623,Glen Roger's,Scotland,6,1,72.5,F
+1624,Glen Rosa,Scotland,6,2,70.84,F
+1625,Glen Rossie,Scotland,4,1,77,E
+1626,Glen Rowan,Scotland,2,1,76,E
+1627,Glen Rowland,Scotland,1,NA,NA,G
+1628,Glen Russell,Scotland,2,1,50,G
+1629,Glen Sannox,Scotland,1,NA,NA,G
+1630,Glen Saunders,Scotland,2,1,79,E
+1631,Glen Scanlan,Scotland,13,7,62.57,G
+1632,Glen Scotia,Scotland,490,353,85.18,C
+1633,Glen Shee,Scotland,1,NA,NA,G
+1634,Glen Shira,Scotland,1,NA,NA,G
+1635,Glen Shodnya,,1,1,87.11,C
+1636,Glen Slitisa,Germany,6,3,75.83,E
+1637,Glen Sloy,Scotland,5,3,73.17,F
+1638,Glen Spey,Scotland,212,139,83.95,D
+1639,Glen Stuart,Scotland,NA,NA,NA,G
+1640,Glen Talloch,Scotland,10,8,66.46,G
+1641,Glen Thunder,United States,2,NA,NA,G
+1642,Glen Torness,Scotland,1,1,78,E
+1643,Glen Torran,Scotland,5,1,78,E
+1644,Glen Tosh,Scotland,1,NA,NA,G
+1645,Glen Turner,Scotland,21,15,76.49,E
+1646,Glen Urquhart,Scotland,3,1,84.67,D
+1647,Glen Usk,Scotland,1,NA,NA,G
+1648,Glen Vegan,Scotland,2,NA,NA,G
+1649,Glen Victory,Scotland,1,NA,NA,G
+1650,Glen'h,Scotland,1,1,73,F
+1651,Glenalba,Scotland,7,7,83.32,D
+1652,Glenallachie,Scotland,329,245,84.5,D
+1653,Glenalmond,Scotland,14,4,78.13,E
+1654,Glenandrew,Scotland,6,2,80.17,D
+1655,Glenbachie,Scotland,1,1,76.33,E
+1656,Glenbeg,Scotland,1,1,83,D
+1657,Glenberry,Scotland,6,1,78,E
+1658,Glenborrodale,Scotland,5,5,84.71,D
+1659,Glenbridge,Scotland,1,1,86,C
+1660,Glenburgie,Scotland,476,342,85.93,C
+1661,Glenburn,Scotland,1,1,85,C
+1662,Glencadam,Scotland,273,199,85.65,C
+1663,Glencoe,Scotland,10,7,84.29,D
+1664,Glencraig,Scotland,61,43,87.15,C
+1665,Glendalough,Ireland,20,17,79.43,E
+1666,Glendamore,Scotland,1,NA,NA,G
+1667,Glendarroch,Scotland,6,3,81.17,D
+1668,Glenderry Private Reserve,Scotland,3,NA,NA,G
+1669,Glendorris,Scotland,1,1,76,E
+1670,Glendower,Scotland,7,4,74.25,F
+1671,Glendramroc,Scotland,1,1,79,E
+1672,Glendronach,Scotland,1198,1032,87.96,C
+1673,Glendrostan,Scotland,5,2,75,E
+1674,Glendullan,Scotland,188,127,84.14,D
+1675,Gleneagles,Scotland,1,1,89,C
+1676,Glenesk,Scotland,81,55,86.39,C
+1677,Glenfairn,Scotland,6,1,83,D
+1678,Glenfairytales,Scotland,1,1,89.9,C
+1679,Glenfarclas,Scotland,1621,1172,88.3,C
+1680,Glenfiddich,Scotland,766,532,84.85,D
+1681,Glenforres,Scotland,8,3,69.25,G
+1682,Glenfoyle,Scotland,5,2,72.8,F
+1683,Glengannon,Scotland,2,1,74.5,F
+1684,Glengarrett,Scotland,4,1,70,F
+1685,Glengarry,Scotland,4,4,79.1,E
+1686,Glenglassaugh,Scotland,392,307,87.63,C
+1687,Glengoyne,Scotland,661,509,86.19,C
+1688,Glengyle,Scotland,NA,NA,NA,G
+1689,Glenham,Scotland,1,NA,NA,G
+1690,Glenisla,Scotland,8,7,83.08,D
+1691,Glenkenny,Scotland,1,1,61.67,G
+1692,Glenkinchie,Scotland,140,85,82.66,D
+1693,Glenleven,Scotland,7,4,82.69,D
+1694,Glenlivet,Scotland,1519,1114,86.53,C
+1695,Glenlochy,Scotland,100,71,89.43,C
+1696,Glenlogie,Scotland,2,NA,NA,G
+1697,Glenlomyn,Scotland,1,NA,NA,G
+1698,Glenlossie,Scotland,413,312,86.04,C
+1699,Glenluig,Scotland,2,2,66.25,G
+1700,Glenmark,Scotland,6,NA,NA,G
+1701,Glenmorangie,Scotland,566,403,85.38,C
+1702,Glenmore,,4,2,83.25,D
+1703,Glenmoriston,Scotland,2,1,84,D
+1704,Glenmoy,Scotland,1,1,81.26,D
+1705,Glenn,Sweden,1,1,83.07,D
+1706,Glenora,Canada,4,3,79.39,E
+1707,Glenpark,Scotland,2,2,81.42,D
+1708,Glenridell,Scotland,1,NA,NA,G
+1709,Glenroc,France,1,NA,NA,G
+1710,Glenrosa,Scotland,3,NA,NA,G
+1711,Glenrothes,Scotland,1275,941,85.97,C
+1712,Glenrowan,Scotland,1,1,85,C
+1713,Glens Extra,Scotland,2,2,87.5,C
+1714,Glensbury,Scotland,1,1,86,C
+1715,Glensheil,Scotland,1,1,86,C
+1716,GlenShiel,Scotland,3,NA,NA,G
+1717,Glenshire,Scotland,2,1,55,G
+1718,Glenside,Scotland,3,1,76,E
+1719,Glentauchers,Scotland,485,352,85.31,C
+1720,Glentime,Scotland,2,1,74,F
+1721,Glentoshan,Scotland,2,1,84.5,D
+1722,Glentromie,Scotland,3,3,82,D
+1723,Glenturret,Scotland,428,309,84.53,D
+1724,Glenugie,Scotland,116,81,88.1,C
+1725,Glenury Royal,Scotland,106,80,88.64,C
+1726,Glenwood,Scotland,3,1,86,C
+1727,Glina Whisky,Germany,13,5,72.6,F
+1728,Gloag's Perth Whisky,Scotland,1,1,90,B
+1729,Glorious Bastard,Scotland,1,1,79.86,E
+1730,Glorious Ginger,Scotland,1,1,87.18,C
+1731,Glynnevan,Canada,2,1,72,F
+1732,GMB,Scotland,1,NA,NA,G
+1733,Goalong Liquor,China,4,2,58,G
+1734,Goblin's peated Islay,Scotland,2,2,86.34,C
+1735,Golani,Israel,7,5,79.2,E
+1736,Gold Bar,United States,1,NA,NA,G
+1737,Gold Coach,United States,1,NA,NA,G
+1738,Gold Cock,Czech Republic,33,26,85.93,C
+1739,Gold Crown,Scotland,1,1,75.75,E
+1740,Gold Fusion,Belgium,2,2,86.53,C
+1741,Gold King Whisky,Japan,3,NA,NA,G
+1742,Gold King Whisky,Czech Republic,1,NA,NA,G
+1743,Gold Label,Scotland,1,NA,NA,G
+1744,Gold Lion,Scotland,1,NA,NA,G
+1745,Gold Medal,India,2,NA,NA,G
+1746,Gold Member,Scotland,1,NA,NA,G
+1747,Gold Ochsen,Germany,1,1,68.25,G
+1748,Gold River,Scotland,1,NA,NA,G
+1749,Gold Rush,Scotland,1,NA,NA,G
+1750,Gold Shot,Scotland,1,1,85,C
+1751,Gold Standard,Scotland,1,1,90,B
+1752,Gold Star,Scotland,3,1,72,F
+1753,Gold Wasser,Poland,1,NA,NA,G
+1754,Golden Age,Scotland,1,NA,NA,G
+1755,Golden Arms,France,1,NA,NA,G
+1756,Golden Boat,,1,NA,NA,G
+1757,Golden Crown,Scotland,1,NA,NA,G
+1758,Golden Dew,Scotland,1,1,59.67,G
+1759,Golden Distillery,United States,1,NA,NA,G
+1760,Golden Eagle,Scotland,4,1,81,D
+1761,Golden Goal,Scotland,1,NA,NA,G
+1762,Golden Grain,Scotland,5,5,89.8,C
+1763,Golden Harvest,Scotland,1,NA,NA,G
+1764,Golden Horse,Japan,9,5,82.13,D
+1765,Golden Loch,Scotland,2,2,67.5,G
+1766,Golden Oak,Nepal,1,1,65,G
+1767,Golden Pipe,Scotland,1,NA,NA,G
+1768,Golden Piper,Scotland,1,NA,NA,G
+1769,Golden Rare,Scotland,1,1,87.5,C
+1770,Golden Ribbon,Scotland,1,NA,NA,G
+1771,Golden River,Scotland,1,NA,NA,G
+1772,Golden Scanlan,Scotland,1,1,74,F
+1773,Golden Shoe,Scotland,5,2,55.42,G
+1774,Golden Spirit,Scotland,1,NA,NA,G
+1775,Golden Stag,Canada,1,1,60,G
+1776,Golden Sun,United States,1,NA,NA,G
+1777,Golden Velvet,Scotland,2,1,58,G
+1778,Golden Wedding,United States,2,NA,NA,G
+1779,Goldlys,Belgium,30,25,72.81,F
+1780,Gölles,Austria,2,1,81,D
+1781,Good Old Riedbacher,Germany,2,NA,NA,G
+1782,Gooderham & Worts Ltd.,Canada,8,5,83.37,D
+1783,Gooderham's,Canada,1,1,85.75,C
+1784,Gordon Highlander,Scotland,11,NA,NA,G
+1785,Gouden Carolus,Belgium,7,6,75.65,E
+1786,Governor's Cellar,Scotland,1,NA,NA,G
+1787,Grain,Scotland,3,3,79.7,E
+1788,Grain Scotch Whisky,Scotland,2,1,79,E
+1789,Grainiac,United States,1,1,78,E
+1790,Gran Old Peel,United States,1,NA,NA,G
+1791,Grand Alastair,Scotland,3,NA,NA,G
+1792,Grand Award,Canada,3,NA,NA,G
+1793,Grand Bark,Sweden,2,2,83.25,D
+1794,Grand Coronation,Scotland,1,NA,NA,G
+1795,Grand Duke,Scotland,2,NA,NA,G
+1796,Grand Dulky,Scotland,1,NA,NA,G
+1797,Grand Macnish,Scotland,22,6,72.25,F
+1798,Grand Old,Scotland,1,1,87,C
+1799,Grand Old Parr,Scotland,28,20,81.67,D
+1800,Grand Royal,Myanmar,3,2,78.63,E
+1801,Grand Scot,Scotland,1,1,76,E
+1802,Grand Traverse,United States,3,1,81.67,D
+1803,Grande Canadian,Canada,1,NA,NA,G
+1804,Grangestone,Scotland,10,3,72.07,F
+1805,Granit Destillerie,Austria,2,1,20.75,G
+1806,Grannie's,Scotland,1,NA,NA,G
+1807,Grant's,Scotland,97,46,74.77,F
+1808,Grant's Royal,Scotland,7,3,82,D
+1809,Grass Widow,United States,1,NA,NA,G
+1810,Grau's Legend,,1,NA,NA,G
+1811,Grayson,Scotland,1,NA,NA,G
+1812,Great Bargee,,1,NA,NA,G
+1813,Great Battle,Scotland,1,NA,NA,G
+1814,Great King Street,Scotland,14,10,84,D
+1815,Great Outback,Australia,2,1,75.25,E
+1816,Great Scots,Scotland,1,NA,NA,G
+1817,Green & White,Ireland,2,1,84,D
+1818,Green Douglas,Belgium,1,1,64.77,G
+1819,Green Label,United States,1,NA,NA,G
+1820,Green Land,Iceland,1,NA,NA,G
+1821,Green Meadows,Scotland,2,2,86.28,C
+1822,Green Park,Scotland,3,NA,NA,G
+1823,Green Spot,Ireland,13,10,82.89,D
+1824,Greenfield,Scotland,1,1,87,C
+1825,Greenore,Ireland,16,13,80.5,D
+1826,Gremil's Whisky,Switzerland,2,NA,NA,G
+1827,Grendel's,Scotland,8,2,84.84,D
+1828,Gretna Green,Scotland,1,NA,NA,G
+1829,Greyhound,,2,NA,NA,G
+1830,Gribhinneach,Scotland,1,1,87,C
+1831,Griersons No.1,Scotland,5,NA,NA,G
+1832,Griffin Ranch,United States,1,NA,NA,G
+1833,Griffo Distillery,United States,6,NA,NA,G
+1834,Grüner Hund,Germany,12,5,75.6,E
+1835,Gruwehewwel,Germany,4,3,88.95,C
+1836,Gryphon,Germany,1,1,72,F
+1837,Grythyttan,Sweden,21,9,81.76,D
+1838,Guard House,Canada,1,1,55,G
+1839,Guckenheimer,United States,3,NA,NA,G
+1840,Guglhof,Austria,12,7,73.52,F
+1841,Guillon,France,18,14,75.05,E
+1842,Gun Fighter,United States,3,2,84.84,D
+1843,Gunpowder,United States,1,NA,NA,G
+1844,Gutevin,Sweden,2,2,73.84,F
+1845,Gutshof Andres,Germany,1,NA,NA,G
+1846,GWD - Great West Distillers,Canada,1,NA,NA,G
+1847,Gwenroc,France,1,1,65,G
+1848,Haas,Germany,11,4,76.19,E
+1849,Habbel,Germany,2,1,53.33,G
+1850,Haeusler & Katsch,Germany,1,NA,NA,G
+1851,Hagen-Ruehli,Switzerland,12,4,80.25,D
+1852,Hågmoar,Austria,1,1,63.33,G
+1853,Haig,Scotland,50,28,78.91,E
+1854,Haig & Haig,Scotland,4,3,84.21,D
+1855,Hakushu,Japan,119,96,87.32,C
+1856,Hälge,Sweden,2,1,52.17,G
+1857,Haller's,United States,3,1,100,A
+1858,Halley's Comet,Scotland,1,NA,NA,G
+1859,Hallmark,Scotland,1,NA,NA,G
+1860,Hamashkeh,Scotland,1,NA,NA,G
+1861,Hamburg Malt,Germany,3,3,80.5,D
+1862,Hamilton,Canada,3,NA,NA,G
+1863,Hamilton's,Scotland,1,NA,NA,G
+1864,Hamiltons,Scotland,9,4,74.17,F
+1865,Hamlet of Marypark,Scotland,1,NA,NA,G
+1866,Hammer Head,Czech Republic,5,4,77.46,E
+1867,Hammer Village,Scotland,1,NA,NA,G
+1868,HammerFall,Scotland,2,2,81.39,D
+1869,Hancock's Reserve,United States,4,3,81.68,D
+1870,Hankey Bannister,Scotland,21,15,80.39,D
+1871,Hannisville,United States,2,1,92,B
+1872,Hanyu,Japan,149,136,88.99,C
+1873,Haran,Spain,1,1,77,E
+1874,Harley-Davidson Traef,Scotland,1,1,83,D
+1875,Harmony,Scotland,1,NA,NA,G
+1876,Harold Robertson's,Scotland,1,NA,NA,G
+1877,Harolds Club,United States,1,1,89.5,C
+1878,Harrier,South Africa,1,NA,NA,G
+1879,Harris & Tustin,Scotland,1,1,82.75,D
+1880,Harrods,Scotland,5,3,74.33,F
+1881,Harry's New York Bar,Scotland,NA,1,90,B
+1882,Hart's,Scotland,2,NA,NA,G
+1883,Hartfield & Co.,United States,3,NA,NA,G
+1884,Harvey's,Scotland,3,1,81.5,D
+1885,Harwood,Canada,3,1,70,F
+1886,Hatfield & McCoy,United States,NA,NA,NA,G
+1887,Hattfield,,1,NA,NA,G
+1888,Hayner,United States,1,NA,NA,G
+1889,Hazelburn,Scotland,177,125,85.5,C
+1890,Hazelgrove,Scotland,4,4,84.91,D
+1891,Hazelwood,Scotland,5,3,91.12,B
+1892,HBC,Scotland,1,1,76,E
+1893,HE8,Scotland,1,NA,NA,G
+1894,Headframe Spirits,United States,2,NA,NA,G
+1895,Heart of Kentucky,United States,1,1,80,D
+1896,Heart of Mystic,United States,1,NA,NA,G
+1897,Heart of Scotland,Scotland,1,NA,NA,G
+1898,Heartwood,Australia,34,13,87.71,C
+1899,Heather,Scotland,1,NA,NA,G
+1900,Heather & Peat,Scotland,1,1,85,C
+1901,Heather Dew,Scotland,5,2,66,G
+1902,Heathercrest,Scotland,1,NA,NA,G
+1903,Heathland Whisky,Austria,1,1,43,G
+1904,Heaven Hill,United States,82,43,83.92,D
+1905,Heaven's Door,United States,3,NA,NA,G
+1906,"Heavily Peated ""L""",Scotland,2,1,72,F
+1907,Hebridean,Scotland,1,1,87.1,C
+1908,Hebridean Princess,Scotland,4,NA,NA,G
+1909,Hebrides,Scotland,2,1,92.5,B
+1910,Hedges & Butler,Scotland,12,9,81.78,D
+1911,Hedonism,Scotland,24,17,86.48,C
+1912,Heebie Jeebies,Scotland,1,NA,NA,G
+1913,Helios Whisky,Japan,1,1,73.75,F
+1914,Hell Fire,Switzerland,2,1,78.6,E
+1915,Hell-Cat Maggie,Ireland,1,1,69,G
+1916,Hellyers Road,Australia,28,14,80.23,D
+1917,Helsinki Distilling Company,Finland,7,5,75.4,E
+1918,Hemel,Netherlands,2,2,46,G
+1919,Henderson & Turnbull,Scotland,2,2,74.5,F
+1920,Henry Clay,United States,1,NA,NA,G
+1921,Henry Downes,Ireland,1,1,83,D
+1922,Henry Mason,United States,1,1,65,G
+1923,Henry McKenna,United States,18,5,84.77,D
+1924,Henry Watterson,United States,2,NA,NA,G
+1925,Hepp,France,6,4,74.88,F
+1926,Heriot-Watt University,Scotland,2,NA,NA,G
+1927,Heritage,United States,3,NA,NA,G
+1928,Heritage Cask Whiskey,United States,1,NA,NA,G
+1929,Herman Marshall,United States,3,1,72,F
+1930,Herr Lüthy,Switzerland,14,6,79.95,E
+1931,Hessentagswhisky,Germany,1,1,74.25,F
+1932,Hessischer Single Malt Whisky,Germany,1,1,82.33,D
+1933,Hewitts,Ireland,2,1,78,E
+1934,Hibernian Supporters' Association,Scotland,1,NA,NA,G
+1935,Hibiki,Japan,77,46,87,C
+1936,Hicks & Healey,United Kingdom,3,1,87.5,C
+1937,Hierber,Luxembourg,1,1,51,G
+1938,High Commissioner,Scotland,2,1,70.86,F
+1939,High County,Scotland,1,NA,NA,G
+1940,High Liquors,United States,1,NA,NA,G
+1941,High Spirits,United States,1,1,72,F
+1942,High West Whiskey,United States,94,53,84.54,D
+1943,High Wheeler,Australia,1,1,83.75,D
+1944,HighGlen,Switzerland,7,4,80.25,D
+1945,Highgrove,Scotland,8,3,85.56,C
+1946,Highland,Scotland,20,9,84.52,D
+1947,Highland Aingeal,Scotland,3,3,84.82,D
+1948,Highland Bard,Scotland,1,NA,NA,G
+1949,Highland Baron,Scotland,3,NA,NA,G
+1950,Highland Bird,Scotland,2,2,59.2,G
+1951,Highland Black,Scotland,1,1,79,E
+1952,Highland Blended Malt,Scotland,3,3,84.81,D
+1953,Highland Brook,Scotland,5,NA,NA,G
+1954,Highland Cattle,Scotland,3,2,77,E
+1955,Highland Chief,Scotland,5,3,75.22,E
+1956,Highland Circle,Scotland,2,1,83,D
+1957,Highland Clan,Scotland,9,NA,NA,G
+1958,Highland Command,Scotland,4,1,87,C
+1959,Highland Cross,Scotland,1,NA,NA,G
+1960,Highland Cup,Scotland,1,NA,NA,G
+1961,Highland Dream,Scotland,2,1,84.5,D
+1962,Highland Earl,Scotland,2,1,74,F
+1963,Highland Fusilier,Scotland,30,22,85.65,C
+1964,Highland Gold,Scotland,2,2,73.75,F
+1965,Highland Grand,Scotland,1,NA,NA,G
+1966,Highland Harvest,Scotland,11,3,76.86,E
+1967,Highland Heart,Scotland,13,13,82.59,D
+1968,Highland Heather,Scotland,1,NA,NA,G
+1969,Highland Inspiration,Scotland,1,1,80.5,D
+1970,Highland Journey,Scotland,1,1,78,E
+1971,Highland King,Scotland,5,3,84.92,D
+1972,Highland Laird,Scotland,11,NA,NA,G
+1973,Highland Legend,Scotland,1,1,71,F
+1974,Highland Malt,Scotland,4,4,74.05,F
+1975,Highland Military Tattoo,Scotland,1,NA,NA,G
+1976,Highland Mist,Scotland,3,3,82.78,D
+1977,Highland Moss,Scotland,2,2,78.75,E
+1978,Highland Mount,Scotland,1,NA,NA,G
+1979,Highland Mountain,Scotland,1,1,87.5,C
+1980,Highland Nectar,Scotland,3,1,76,E
+1981,Highland Park,Scotland,2004,1435,86.94,C
+1982,Highland PBS,Scotland,2,1,81,D
+1983,Highland Piper,Scotland,2,1,64,G
+1984,Highland Poacher,Scotland,2,NA,NA,G
+1985,Highland Pride,Scotland,5,3,74.33,F
+1986,Highland Prince,Scotland,5,NA,NA,G
+1987,Highland Queen,Scotland,51,28,79.2,E
+1988,Highland Region,Scotland,5,4,86.42,C
+1989,Highland Regional Collection,Scotland,1,NA,NA,G
+1990,Highland River,Scotland,1,1,81.5,D
+1991,Highland Rose,Scotland,2,2,57.5,G
+1992,Highland Scotch Whisky,Scotland,1,1,73,F
+1993,Highland Shield,Scotland,1,NA,NA,G
+1994,Highland Single Malt,Scotland,6,2,89.54,C
+1995,Highland Single Malt Scotch Whisky,Scotland,5,2,79.5,E
+1996,Highland Single Malt Whisky,Scotland,3,1,85,C
+1997,Highland Special,Scotland,1,NA,NA,G
+1998,Highland Spey,Scotland,1,1,90.75,B
+1999,Highland Sporran,Scotland,1,NA,NA,G
+2000,Highland Star,United Kingdom,NA,NA,NA,G
+2001,Highland Supreme,Scotland,1,NA,NA,G
+2002,Highland Tower,Scotland,1,NA,NA,G
+2003,Highland Vale,Scotland,1,NA,NA,G
+2004,Highland Way,Scotland,1,NA,NA,G
+2005,Highland!,Scotland,1,1,79,E
+2006,Highland's Friends,Scotland,2,1,50,G
+2007,Highlander,Scotland,4,1,83,D
+2008,Highlands Whisky,Scotland,3,1,12.33,G
+2009,Highspire,Canada,1,NA,NA,G
+2010,Highwood Distillers,Canada,10,6,81.32,D
+2011,Hill and Hill,United States,5,NA,NA,G
+2012,Hillock,Germany,6,4,69.58,G
+2013,Hillrock Estate,United States,4,3,84.44,D
+2014,Hillside,Scotland,8,7,91.43,B
+2015,Hinricus Noyte,Germany,4,3,82.22,D
+2016,Hips,Japan,1,NA,NA,G
+2017,Hiram Walker,Canada,12,3,78.69,E
+2018,Hirsch,United States,2,2,84.57,D
+2019,Hirsch Selection,United States,18,9,84.27,D
+2020,His Excellency,Scotland,4,NA,NA,G
+2021,HISS,Scotland,1,1,89.67,C
+2022,HMY Britannia,,2,NA,NA,G
+2023,Hochstadter's,United States,5,3,80.39,D
+2024,Hogs,United States,1,1,74.75,F
+2025,Hogshead,Scotland,1,1,81.4,D
+2026,Hogwash,Scotland,1,1,76,E
+2027,Hohenheimer Whisky,Germany,5,1,50,G
+2028,Höllberg,Germany,2,2,61.75,G
+2029,Hollen,Switzerland,36,20,77.59,E
+2030,Holt's Liqueur,Scotland,1,NA,NA,G
+2031,Homberg KG,Germany,1,NA,NA,G
+2032,Home Blend,Scotland,3,2,88.97,C
+2033,Homegrown,United States,1,1,76,E
+2034,Homestead,United States,1,1,65,G
+2035,Hooker's House,United States,8,1,83,D
+2036,Hopetoun House,Scotland,2,1,81,D
+2037,Hopkins' Navy Supreme,Scotland,3,2,86.5,C
+2038,Höritröpfli,Switzerland,1,1,92,B
+2039,Horse Guards,United Kingdom,NA,NA,NA,G
+2040,Horstman,Netherlands,4,2,69.54,G
+2041,Hotel Hof Weissbad,Switzerland,1,1,70,F
+2042,Hotel Muehlebach,,1,NA,NA,G
+2043,Hotspur,Scotland,3,NA,NA,G
+2044,House Malt,Scotland,34,31,83.91,D
+2045,House of Campbell,Scotland,2,1,77,E
+2046,House of Commons,Scotland,4,1,82,D
+2047,House of Davaar,Scotland,1,NA,NA,G
+2048,House of Hazelwood,Scotland,3,3,85.2,C
+2049,House of Lords,Scotland,28,16,80.58,D
+2050,House of Malt,Scotland,3,2,81.5,D
+2051,House of Peers,Scotland,12,6,85.31,C
+2052,House of Stuart,Scotland,7,NA,NA,G
+2053,House Spirits,United States,7,1,84,D
+2054,Houstoun House,Scotland,1,NA,NA,G
+2055,Howard MacLaren,Scotland,3,1,77.4,E
+2056,Hudson,United States,40,30,72.41,F
+2057,Hudson's Bay,Scotland,3,2,84.84,D
+2058,Humbel Distillery,Switzerland,20,7,76.5,E
+2059,Hunch Poitin,Ireland,NA,NA,NA,G
+2060,Hundred Pipers,Scotland,1,NA,NA,G
+2061,Hunter's Choice,,1,NA,NA,G
+2062,Hunter's Glen,Scotland,2,1,80,D
+2063,Hunting Lodge,Scotland,4,3,74.08,F
+2064,Huntly,Scotland,4,2,88.5,C
+2065,Hurricane Whisky,Italy,NA,NA,NA,G
+2066,Hüttengold,Germany,1,1,89.17,C
+2067,Huxley,,1,1,76.92,E
+2068,Hven,Sweden,12,11,82.05,D
+2069,Hyde,Ireland,13,9,79.95,E
+2070,I.W. Harper,United States,23,8,82.71,D
+2071,Ichiro's,Japan,1,1,92.5,B
+2072,Iconic Speyside,Scotland,NA,NA,NA,G
+2073,Ila Insvla,Scotland,1,1,90.5,B
+2074,Ile Rubaidh,Scotland,1,1,87.37,C
+2075,Ìle Six,Scotland,NA,NA,NA,G
+2076,Images of Ayrshire,Scotland,2,2,87.58,C
+2077,Images of Bardstown,United States,4,3,84.57,D
+2078,Images of Dufftown,Scotland,9,6,84.57,D
+2079,Images of Islay,Scotland,29,20,86.21,C
+2080,Images of Orkney,Scotland,1,1,90.67,B
+2081,Images of Tain,Scotland,2,2,86.41,C
+2082,Immortal Memory,Scotland,1,1,73,F
+2083,Immortal Spirits & Distilling Company,United States,1,NA,NA,G
+2084,Imperial,Scotland,485,376,85.92,C
+2085,Imperial (USA),United States,1,NA,NA,G
+2086,Imperial Blue,India,1,1,50.5,G
+2087,Imperial Tribute,,1,1,86,C
+2088,Inattendu,Scotland,1,1,91,B
+2089,Inchdrewer,Scotland,1,1,77,E
+2090,Inchfad,Scotland,4,4,79.19,E
+2091,Inchgower,Scotland,342,257,85.64,C
+2092,Inchmoan,Scotland,11,11,76.52,E
+2093,Inchmurrin,Scotland,170,113,82.93,D
+2094,Indian Kettles,United States,1,1,71,F
+2095,Infinity,Scotland,1,1,87.44,C
+2096,Inganess Bay,Scotland,1,1,87.67,C
+2097,Iniquity,Australia,8,NA,NA,G
+2098,Inish Turk Beg,Ireland,1,1,86.75,C
+2099,Inishowen,Ireland,3,2,77.13,E
+2100,Innismore,Ireland,1,1,77,E
+2101,International Garden Festival,Scotland,1,NA,NA,G
+2102,Intravagan'za,Scotland,2,2,84.42,D
+2103,Inver Bridge,Scotland,1,1,90.43,B
+2104,Inver House,Scotland,25,5,78.63,E
+2105,Inveralmond,Scotland,1,NA,NA,G
+2106,Inverdice,Scotland,1,NA,NA,G
+2107,Inverey,Scotland,4,1,76,E
+2108,Inverglen,Scotland,2,1,74,F
+2109,Invergordon,Scotland,333,276,86.67,C
+2110,Inverleven,Scotland,99,69,85.86,C
+2111,Inverlochy Castle,Scotland,4,1,85.5,C
+2112,Inverness,Scotland,2,1,85,C
+2113,Inverness Caledonian Thistle F.C.,Scotland,1,NA,NA,G
+2114,Inverness Cream,Scotland,2,1,63.5,G
+2115,Inveroran,Scotland,1,1,81,D
+2116,Iona,Scotland,2,1,80.5,D
+2117,Iona Royale,Scotland,1,1,89.5,C
+2118,Ireland,Ireland,29,29,88.56,C
+2119,Irish,Ireland,4,NA,NA,G
+2120,Irish American,Ireland,2,2,65.92,G
+2121,Irish Cofaidh,Ireland,NA,NA,NA,G
+2122,Irish Diamonds,Ireland,5,4,73.17,F
+2123,Irish Grain Whiskey,Ireland,1,1,76,E
+2124,Irish Malt,Ireland,7,7,88.83,C
+2125,Irish Manor,Ireland,1,1,75,E
+2126,Irish Reserve,Ireland,1,1,85.96,C
+2127,Irish Single Malt,Ireland,20,20,90.06,B
+2128,Irish Single Malt Whiskey,Ireland,49,41,88.19,C
+2129,Irish Splendour,Ireland,1,NA,NA,G
+2130,Irish Whiskey,Ireland,9,9,85.07,C
+2131,Iron Smoke,United States,1,NA,NA,G
+2132,Ironweed,United States,4,NA,NA,G
+2133,Isaac Bowman,United States,1,NA,NA,G
+2134,Isaiah Morgan,United States,2,NA,NA,G
+2135,Isawa,Japan,4,4,68.39,G
+2136,ISC,,1,NA,NA,G
+2137,Isfjord,Denmark,2,NA,NA,G
+2138,Island,Scotland,4,3,87.11,C
+2139,Island Malt Whisky,Scotland,1,NA,NA,G
+2140,Island of Geese,Scotland,2,1,78,E
+2141,Island Prince,Scotland,1,NA,NA,G
+2142,Island Single Malt,Scotland,2,2,86.08,C
+2143,Islay,Scotland,80,53,85.85,C
+2144,Islay !,Scotland,2,2,84.51,D
+2145,Islay & Islay,Scotland,1,1,89,C
+2146,Islay 55%,Scotland,2,2,85.44,C
+2147,Islay Blended Malt,Scotland,22,14,86.55,C
+2148,Islay Blended Malt Scotch Whisky,Scotland,4,1,87.83,C
+2149,Islay Connection,Scotland,1,1,84,D
+2150,Islay Fusion,Scotland,4,3,86.22,C
+2151,Islay Grinn,Scotland,1,1,86.67,C
+2152,Islay King,Scotland,3,3,86.53,C
+2153,Islay Legend,Scotland,1,NA,NA,G
+2154,Islay Malt,Scotland,44,37,86.18,C
+2155,Islay meets Nicaragua,Scotland,1,1,82.5,D
+2156,Islay Mist,Scotland,30,22,80.47,D
+2157,Islay mu Dheas,Scotland,1,NA,NA,G
+2158,Islay New Filling Malt,Scotland,1,1,82.67,D
+2159,Islay North,Scotland,1,1,86.8,C
+2160,Islay PBS,Scotland,1,NA,NA,G
+2161,Islay Prestige,Scotland,1,1,85,C
+2162,Islay Region,Scotland,1,1,81.64,D
+2163,Islay Regional Collection,Scotland,1,NA,NA,G
+2164,Islay Reserve,Scotland,4,4,85.33,C
+2165,Islay Selection,Scotland,1,1,85.33,C
+2166,Islay Single Malt,Scotland,16,10,85.16,C
+2167,Islay Single Malt Scotch Whisky,Scotland,19,14,85.46,C
+2168,Islay Single Malt Whisky,Scotland,1,1,88.33,C
+2169,Islay South,Scotland,2,2,88.36,C
+2170,Islay Special,Scotland,1,1,81.25,D
+2171,Islay Storm,Scotland,3,3,81.09,D
+2172,Islay Time,Scotland,3,3,77.97,E
+2173,Islay Trilogy,Scotland,1,1,91.27,B
+2174,Islay Vatted Malt,Scotland,3,2,87.96,C
+2175,Islay Whisky,Scotland,1,1,88.38,C
+2176,Islay's Finest Single Malt,Scotland,2,1,86.4,C
+2177,ISLAYish,Scotland,1,1,79.67,E
+2178,Isle of Colonsay,Scotland,2,1,83.5,D
+2179,Isle of Innisfree,Ireland,1,NA,NA,G
+2180,Isle of Islay,Scotland,12,11,87.62,C
+2181,Isle of Jura,Scotland,563,426,83.73,D
+2182,Isle of Lime,Sweden,4,4,81.92,D
+2183,Isle of Mull,Scotland,3,2,88.59,C
+2184,Isle of Skye,Scotland,24,17,83.99,D
+2185,Isle of the Blessed,Scotland,1,1,88,C
+2186,It's 5,United States,2,1,75,E
+2187,Ivy Mountain,United States,2,NA,NA,G
+2188,J&B,Scotland,76,27,78.19,E
+2189,J. & G. Grant Ltd.,Scotland,4,3,91.76,B
+2190,J. B. Harper,United States,1,1,69,G
+2191,J. Burke,Scotland,1,NA,NA,G
+2192,J. Henry & Sons,United States,7,NA,NA,G
+2193,J. R. Ewing,United States,1,1,82,D
+2194,J. Riley Distillery,United States,1,NA,NA,G
+2195,J.A. Baczewski,Poland,1,1,69.29,G
+2196,J.A. Dougherty's Sons,United States,3,NA,NA,G
+2197,J.B.A.,Japan,1,1,67.89,G
+2198,J.G. Kinsey,Scotland,2,1,69,G
+2199,J.J. Corry,Ireland,2,2,82.5,D
+2200,J.Michard,France,2,2,77,E
+2201,J.P. Wiser's,Canada,24,15,79.79,E
+2202,J.T.S. Brown,United States,5,2,82,D
+2203,J.W. Dant,United States,23,5,80,D
+2204,Jack Brown,Scotland,2,NA,NA,G
+2205,Jack Daniel's,United States,380,229,77.96,E
+2206,Jack Russell,Canada,1,NA,NA,G
+2207,Jack Ryan,Ireland,4,4,84.7,D
+2208,Jack Strong,Scotland,2,2,73.25,F
+2209,Jack's Pirate,Germany,30,29,85.31,C
+2210,Jackson's Row,Scotland,1,1,77,E
+2211,Jacoulot,Scotland,3,2,83.17,D
+2212,Jaguar,Scotland,1,NA,NA,G
+2213,Jakubiak,Poland,1,1,82,D
+2214,James Ainslie & Co.,Scotland,1,NA,NA,G
+2215,James Caldwell & Son,Scotland,1,NA,NA,G
+2216,James E. Pepper,United States,2,NA,NA,G
+2217,James E. Pepper 1776,United States,10,7,82.1,D
+2218,James Eadie's,United Kingdom,2,1,85.6,C
+2219,James Gordon,Scotland,7,2,85.67,C
+2220,James Joyce No. 15,Ireland,1,1,83,D
+2221,James King,Scotland,8,1,55,G
+2222,James Martin's,Scotland,12,7,82.48,D
+2223,James Oliver,United States,3,1,81.75,D
+2224,James T. Kirk,United States,1,NA,NA,G
+2225,James Thompson & Brother,United States,1,NA,NA,G
+2226,Jameson,Ireland,140,95,80.18,D
+2227,Jamie O Six,Scotland,1,NA,NA,G
+2228,Jamie Stuart,Scotland,2,NA,NA,G
+2229,Jamie's,Scotland,1,NA,NA,G
+2230,Jan de Groot's Dram,Scotland,1,NA,NA,G
+2231,Jane Doe,Ireland,5,3,84.19,D
+2232,Japanese Blended Whisky,Japan,2,1,87.82,C
+2233,Japonism,Scotland,1,1,88.67,C
+2234,Jardine's,Scotland,1,NA,NA,G
+2235,Jas. Gordon & Co,Scotland,1,NA,NA,G
+2236,Jaume I,Scotland,1,NA,NA,G
+2237,Jeffer's Creek,United States,1,1,64,G
+2238,Jefferson's,United States,79,35,84.66,D
+2239,Jenaer Holzbock,Germany,6,1,75,E
+2240,Jeremiah Weed,United States,1,1,1,G
+2241,Jericho,Scotland,7,4,80.39,D
+2242,Jersey Cream,United States,4,NA,NA,G
+2243,Jersey Spirits Distilling Co.,United States,1,NA,NA,G
+2244,Jesse James,United States,2,1,63,G
+2245,Jessie James,United States,2,1,64,G
+2246,Jewels of Islay,Scotland,1,1,89,C
+2247,Jewish Whisky Company,United States,5,2,82,D
+2248,JF Strothman Distillery,United States,1,NA,NA,G
+2249,Jim Beam,United States,180,87,72.75,F
+2250,Jiu Hai Bu Gan,,2,1,78,E
+2251,Joce City,Sweden,1,1,49,G
+2252,Jockey Club,Scotland,2,NA,NA,G
+2253,Joey Dunlop Foundation,United Kingdom,NA,NA,NA,G
+2254,John B. Stetson,United States,2,2,72.72,F
+2255,John Barr,Scotland,8,2,68.63,G
+2256,John Begg,Scotland,9,2,84.34,D
+2257,John Brown's Special,Scotland,1,NA,NA,G
+2258,John Doe,United States,1,NA,NA,G
+2259,John Doe,Ireland,1,1,84,D
+2260,John Drake,Scotland,2,1,55,G
+2261,John Dunbar's,Scotland,1,NA,NA,G
+2262,John E. Fitzgerald,United States,1,NA,NA,G
+2263,John E. Fitzgerald Larceny,United States,5,3,83.26,D
+2264,John Emerald,United States,1,NA,NA,G
+2265,John Handy,Scotland,1,NA,NA,G
+2266,John J. Bowman,United States,6,2,86.67,C
+2267,John Jacob,United States,1,NA,NA,G
+2268,John Jameson,Ireland,11,4,82.43,D
+2269,John Jameson & Son,Ireland,32,11,85.01,C
+2270,John L. Sullivan,Ireland,3,2,79.5,E
+2271,John Langer,,1,1,68,G
+2272,John Lee,United States,2,1,24,G
+2273,John Locke,Ireland,2,NA,NA,G
+2274,John Malcom,Germany,2,1,67.25,G
+2275,John McCrae,Scotland,1,NA,NA,G
+2276,John McFours,Scotland,1,NA,NA,G
+2277,John McGeary's,Scotland,1,NA,NA,G
+2278,John Medley's,United States,2,2,72.17,F
+2279,John Myer,United States,4,2,79.5,E
+2280,John O'Groat's,Scotland,1,NA,NA,G
+2281,John Player Special,Scotland,2,1,77,E
+2282,John Poindexter,United States,1,NA,NA,G
+2283,John Power & Son,Ireland,20,11,84.07,D
+2284,John Scott's,Scotland,2,1,90,B
+2285,John Stoddart's,Scotland,1,NA,NA,G
+2286,John Walker & Sons,Scotland,19,7,89.44,C
+2287,Johnett,Switzerland,16,6,77.24,E
+2288,Johnnie Walker,Scotland,375,227,80.28,D
+2289,Johnny Drum,United States,7,5,76.58,E
+2290,Johnny Wright's,Scotland,1,1,80,D
+2291,"Jon, Mark and Robbo's",Scotland,8,6,83.92,D
+2292,Jones Road Distillery,Ireland,1,1,82.5,D
+2293,Joseph Magnus,United States,8,6,90.42,B
+2294,Joshua Brook,United States,2,2,75.25,E
+2295,Joshua Brooks,United States,3,1,90,B
+2296,Journeyman Distillery,United States,40,10,85.1,C
+2297,Jp. Moshi-Moshi,Japan,1,1,75,E
+2298,JSD,France,1,1,73,F
+2299,JT Forwarder,United States,1,NA,NA,G
+2300,Judd's,United States,1,NA,NA,G
+2301,Julius James,Philippines,1,NA,NA,G
+2302,Jura Cask,Scotland,1,1,86.67,C
+2303,Jurassic,Scotland,3,2,77,E
+2304,Jurgensen's,Scotland,1,NA,NA,G
+2305,Juveniles,Scotland,3,3,85.7,C
+2306,JZE Maryland,United States,1,NA,NA,G
+2307,K5,Bhutan,2,1,77.67,E
+2308,KaDeWe,Scotland,1,NA,NA,G
+2309,Kaerilis,France,12,2,84.34,D
+2310,Kagoshima,Japan,NA,NA,NA,G
+2311,Kahlgrund Whisky,Germany,1,1,74,F
+2312,Kaiyo,Japan,5,2,85,C
+2313,Kamiki,Japan,1,1,77.67,E
+2314,Kanosuke,Japan,1,NA,NA,G
+2315,Kansas Clean Distilled,United States,1,NA,NA,G
+2316,Karuizawa,Japan,525,364,88.87,C
+2317,Kavalan,Taiwan,928,598,86.75,C
+2318,Kavanagh,Ireland,6,1,77,E
+2319,Kawasaki,Japan,9,9,90.36,B
+2320,Keckeis,Austria,3,3,67.71,G
+2321,Kellan,Ireland,1,NA,NA,G
+2322,Kellerstrass,United States,2,NA,NA,G
+2323,Kelt,Scotland,2,1,82,D
+2324,Kelvin Hall,Scotland,1,1,88.33,C
+2325,Kemper's Roggen Whisky,Germany,2,2,84.43,D
+2326,Kempisch Vuur,Belgium,5,4,73.41,F
+2327,Ken's Choice,United States,1,NA,NA,G
+2328,Kenmore,Scotland,4,1,58,G
+2329,Kennaway,Scotland,2,2,85.25,C
+2330,Kenning,France,1,NA,NA,G
+2331,Kensington Wine Market,,1,1,90,B
+2332,Kentucky Baron,United States,1,NA,NA,G
+2333,Kentucky Boat,United States,3,NA,NA,G
+2334,Kentucky Bonded,United States,3,NA,NA,G
+2335,Kentucky Colonel,United States,2,2,76,E
+2336,Kentucky Crown,United States,2,1,94,B
+2337,Kentucky Dale,United States,1,NA,NA,G
+2338,Kentucky Deluxe,United States,3,NA,NA,G
+2339,Kentucky Eagle,United States,2,NA,NA,G
+2340,Kentucky Gentleman,United States,10,2,75.75,E
+2341,Kentucky Gold,United States,1,NA,NA,G
+2342,Kentucky Highway,United States,2,2,48.5,G
+2343,Kentucky Jack,United States,2,NA,NA,G
+2344,Kentucky Lucky Moonshine,United States,NA,NA,NA,G
+2345,Kentucky Nectar,United States,1,NA,NA,G
+2346,Kentucky Owl,United States,8,2,88.5,C
+2347,Kentucky Pride,United States,1,NA,NA,G
+2348,Kentucky Prize,United States,1,NA,NA,G
+2349,Kentucky Straight Bourbon,United States,2,1,68.5,G
+2350,Kentucky Tavern,United States,7,2,78,E
+2351,Kentucky Vintage,United States,5,5,80.97,D
+2352,Kentucky's Old Reserve,United States,1,1,82,D
+2353,Kerby House,Scotland,1,NA,NA,G
+2354,Kern,Ireland,1,NA,NA,G
+2355,Kessler,United States,1,1,77,E
+2356,Keuris,Netherlands,1,1,77.43,E
+2357,Kikori Whiskey,Japan,1,1,62,G
+2358,Kilbeggan,Ireland,37,22,77.2,E
+2359,Kilbride Dam,Scotland,3,2,88.5,C
+2360,Kilbridge,Scotland,1,NA,NA,G
+2361,Kilchoman,Scotland,548,423,85.89,C
+2362,Kildalton,Scotland,8,8,85.97,C
+2363,Kilkerran,Scotland,94,84,85.13,C
+2364,Killyloch,Scotland,4,3,87.75,C
+2365,Kilmartin Glen,Scotland,3,2,77,E
+2366,Kiln Embers,Scotland,1,1,83.23,D
+2367,Kilvannon,Ireland,1,NA,NA,G
+2368,Kinahan's,Ireland,2,2,82.29,D
+2369,Kincaple,Scotland,2,2,74.9,F
+2370,Kinclaith,Scotland,35,28,87.3,C
+2371,Kindilan,Canada,1,NA,NA,G
+2372,King Barley,Czech Republic,2,NA,NA,G
+2373,King Barleycorn,Czech Republic,1,NA,NA,G
+2374,King Charles,Scotland,1,1,78.5,E
+2375,King Davis,Scotland,1,NA,NA,G
+2376,King Duncan,Scotland,1,NA,NA,G
+2377,King Edgar,Scotland,1,1,69,G
+2378,King Edmund II,Scotland,1,NA,NA,G
+2379,King Edward,Scotland,1,NA,NA,G
+2380,King Edward I,Scotland,6,3,86.28,C
+2381,King Edward The First,Scotland,1,NA,NA,G
+2382,King George,Scotland,1,1,30,G
+2383,King George IV,Scotland,16,3,82.67,D
+2384,King Henry VIII,Scotland,1,NA,NA,G
+2385,King James,Scotland,1,NA,NA,G
+2386,King John,Scotland,4,1,83,D
+2387,King Malcolm,Scotland,1,1,82,D
+2388,King Mór,Scotland,2,1,78,E
+2389,King of Kentucky,United States,1,NA,NA,G
+2390,King of Queens,Scotland,4,2,77.5,E
+2391,King of Scots,Scotland,14,7,77.11,E
+2392,King Robert II,Scotland,4,4,70.04,F
+2393,King William IV,Scotland,2,1,82.5,D
+2394,King's Castle,Scotland,1,NA,NA,G
+2395,King's Celebration,Scotland,1,NA,NA,G
+2396,King's Choice,Scotland,10,1,78.5,E
+2397,King's Crest,Scotland,3,3,83.11,D
+2398,King's Pawn,Scotland,1,NA,NA,G
+2399,King's Pride,Scotland,2,1,90,B
+2400,King's Ransom,Scotland,9,2,80.5,D
+2401,King's Reserve,Scotland,1,NA,NA,G
+2402,King's Rider,Scotland,1,NA,NA,G
+2403,King's Royal,Scotland,2,1,81,D
+2404,Kingdom,Scotland,5,1,82,D
+2405,Kings Castle,United Kingdom,1,NA,NA,G
+2406,Kings County Distillery,United States,13,9,75.15,E
+2407,Kings Point,United States,1,NA,NA,G
+2408,Kings Privilege,Scotland,1,NA,NA,G
+2409,Kings Tower,Scotland,1,NA,NA,G
+2410,Kingsbarns,Scotland,2,2,79.13,E
+2411,Kingsburry,Scotland,1,NA,NA,G
+2412,Kingston,Scotland,1,NA,NA,G
+2413,Kininvie,Scotland,11,8,85.01,C
+2414,Kinloch Anderson,Scotland,9,1,79,E
+2415,Kinnickinnic Whiskey,United States,4,2,79.25,E
+2416,Kintore,Scotland,3,NA,NA,G
+2417,Kinzigbrennerei,Germany,15,8,73.44,F
+2418,Kirkland Signature,Scotland,9,5,75.33,E
+2419,Kirkwall,Scotland,3,1,94,B
+2420,Kirkwall Bay,Scotland,1,1,85.8,C
+2421,Kiss from Kirkwall,Scotland,1,1,86.21,C
+2422,Kit Kat Whisky,Scotland,1,NA,NA,G
+2423,Kittling Ridge,Canada,2,NA,NA,G
+2424,Kiyosato Field Ballet,Japan,4,4,91.39,B
+2425,Kkoullas,Cyprus,1,1,77,E
+2426,Kleine Duim,Netherlands,1,NA,NA,G
+2427,Kloster Machern,Germany,1,1,70,F
+2428,Kloster Whisky,Germany,1,1,83,D
+2429,Kloster Zinna,Germany,1,NA,NA,G
+2430,Knappogue Castle,Ireland,59,42,84.2,D
+2431,Knight of Swords,,1,1,85.5,C
+2432,Knight's Sword,Scotland,1,NA,NA,G
+2433,Knight's Tower,Scotland,1,NA,NA,G
+2434,Knights,South Africa,1,1,75,E
+2435,Knob Creek,United States,74,34,79.95,E
+2436,Knockando,Scotland,237,158,83.39,D
+2437,Knockandy Hill,,1,NA,NA,G
+2438,Knockdhu,Scotland,54,46,83.05,D
+2439,Knockeen Hills,Ireland,6,3,80.75,D
+2440,Kohut,Germany,1,NA,NA,G
+2441,Kolme Leijonaa,Finland,1,NA,NA,G
+2442,Köppel Brennerei,Germany,1,NA,NA,G
+2443,Kopper Kettle,United States,4,NA,NA,G
+2444,Kord's,Czech Republic,1,NA,NA,G
+2445,Kornog,France,56,48,85.72,C
+2446,Koshu,Japan,3,1,73.67,F
+2447,Koval,United States,38,27,77.46,E
+2448,Kozuba & Sons,United States,3,1,72.29,F
+2449,Kozue,Japan,1,NA,NA,G
+2450,Krautheimer,Germany,4,4,76.94,E
+2451,Krottentaler,Germany,3,1,75.33,E
+2452,Kuchh Nai,Scotland,1,1,79.25,E
+2453,Kümin Weinbau,Switzerland,5,4,74.13,F
+2454,Kura,Japan,2,1,79.33,E
+2455,Kylemore,Scotland,2,1,56,G
+2456,Kymsee,Germany,6,5,78.43,E
+2457,Kyrö Distillery Company,Finland,11,7,79.06,E
+2458,L. Mulligan Grocer,Ireland,1,1,81,D
+2459,L.&G.,United States,1,NA,NA,G
+2460,LA 1,United States,2,NA,NA,G
+2461,La Alazana,Argentina,1,NA,NA,G
+2462,La Famiglia Nostra,Germany,25,19,89.72,C
+2463,La Piautre,France,1,NA,NA,G
+2464,La Reserve,Scotland,1,NA,NA,G
+2465,Label 5,Scotland,16,7,72.55,F
+2466,Lac'Holl,France,3,3,80.83,D
+2467,Lachlan's,Scotland,1,NA,NA,G
+2468,Ladder Hills,Scotland,1,1,86.2,C
+2469,Lady Luck,Scotland,2,1,89.67,C
+2470,Lady Nicol,Scotland,1,NA,NA,G
+2471,Ladyburn,Scotland,46,26,89.15,C
+2472,Lagafoya,Germany,1,NA,NA,G
+2473,Lagavulin,Scotland,366,323,88.85,C
+2474,Laggan Mill,Scotland,26,21,85.54,C
+2475,Lagler,Austria,4,4,80.63,D
+2476,Lahnsteiner Brauerei,Germany,2,1,68.25,G
+2477,Laird O' Logan,Scotland,2,1,74,F
+2478,Laird of Fintry,Canada,1,NA,NA,G
+2479,Lakeland,Switzerland,13,8,80.39,D
+2480,Lambay Whiskey,Ireland,2,2,77.25,E
+2481,Lambertus,Belgium,6,5,76.62,E
+2482,Lammerlaw,New Zealand,22,11,83.14,D
+2483,Lanark,Scotland,1,NA,NA,G
+2484,Lancelot,Scotland,2,1,85,C
+2485,Lancer's Flag,Scotland,1,1,91.26,B
+2486,Landbrennerei Mühlhäuser,Germany,2,2,70.5,F
+2487,Lands of Scotland,Scotland,7,4,76.13,E
+2488,Langatun,Switzerland,38,24,83.26,D
+2489,Langs,Scotland,30,10,81.03,D
+2490,Langside,Scotland,5,NA,NA,G
+2491,Lanius,United States,1,NA,NA,G
+2492,Lapbeg,Scotland,1,1,85.67,C
+2493,Laphroaig,Scotland,2190,1741,87.51,C
+2494,Large Club,Scotland,1,NA,NA,G
+2495,Largiemeanoch,Scotland,16,11,90.8,B
+2496,Lark,Australia,49,27,79.9,E
+2497,Las Vegas Distillery,United States,16,16,80.41,D
+2498,Lascaw,France,2,2,74.43,F
+2499,Last Mountain,Canada,4,3,77.5,E
+2500,Laudale,Scotland,1,1,87.3,C
+2501,Lauder's,Scotland,19,10,75.6,E
+2502,Lava Bräu,Austria,20,1,54,G
+2503,Lawrence Scott,Scotland,1,NA,NA,G
+2504,Lawrenceburg,United States,2,1,81,D
+2505,LBL,United States,3,NA,NA,G
+2506,Le Dùrachdan,Scotland,1,1,80.25,D
+2507,Leadslingers,United States,2,NA,NA,G
+2508,Lechtaler Haussegen,Austria,2,NA,NA,G
+2509,Ledaig,Scotland,688,563,85.65,C
+2510,Legacy,Scotland,1,NA,NA,G
+2511,Legendary Scot,Scotland,1,1,85,C
+2512,Legs Diamond,United States,2,NA,NA,G
+2513,LeNell's,United States,2,2,88.5,C
+2514,Leòmhann,Scotland,2,2,90.17,B
+2515,Leopold Bros,United States,6,2,70.59,F
+2516,Lexington,United States,5,1,76.5,E
+2517,LF Whisky,,1,NA,NA,G
+2518,Liber,Spain,1,1,70.67,F
+2519,Liberty Call,United States,1,NA,NA,G
+2520,Liddesdale,Scotland,10,10,86.78,C
+2521,Light Brigade,Scotland,1,1,70,F
+2522,Like a Villain,Scotland,1,1,86.67,C
+2523,Limeburners,Australia,36,12,77.65,E
+2524,Limerick,Ireland,10,8,87.76,C
+2525,Limestone Branch,United States,3,1,87,C
+2526,Limited,Scotland,1,1,88.5,C
+2527,Limousin Rye,United States,1,NA,NA,G
+2528,Lindrum,Scotland,1,1,79.5,E
+2529,LINK,,1,NA,NA,G
+2530,Linkphroaigh,Scotland,1,NA,NA,G
+2531,Linkwood,Scotland,1218,807,85.84,C
+2532,Linlithgow,Scotland,78,62,88.55,C
+2533,Linn House Reserve,Scotland,3,3,88.39,C
+2534,Lion's Pride,United States,14,3,72,F
+2535,Lion's Vat,Scotland,1,1,92,B
+2536,Lionstone,United States,1,1,81.5,D
+2537,Liquormen’s Ol’ Dirty Canadian Whisky,Canada,1,NA,NA,G
+2538,Lismore,Scotland,13,6,80.33,D
+2539,Little Book,United States,1,1,88,C
+2540,Little Frog,Scotland,1,1,60,G
+2541,Little Piggy,Scotland,2,2,76.72,E
+2542,Little Red Door,France,1,NA,NA,G
+2543,Little Thin Man,Scotland,1,NA,NA,G
+2544,Littlemill,Scotland,551,453,86.96,C
+2545,Liverpool Whisky,England,2,NA,NA,G
+2546,Liwhinthsky,Switzerland,2,2,76.67,E
+2547,Lo Artisan,United States,1,NA,NA,G
+2548,Lobangernich,Germany,4,4,75.34,E
+2549,Local Choice,United States,1,NA,NA,G
+2550,Loch Bay,Scotland,1,NA,NA,G
+2551,Loch Castle,Scotland,3,1,64.5,G
+2552,Loch Corrie,Scotland,1,NA,NA,G
+2553,Loch Donald,Scotland,1,NA,NA,G
+2554,Loch Ewe,Scotland,11,4,73.48,F
+2555,Loch Ìle,Scotland,1,1,85,C
+2556,Loch Indaal,Scotland,10,2,89.63,C
+2557,Loch Islay,Scotland,1,NA,NA,G
+2558,Loch Lomond,Scotland,117,80,78.73,E
+2559,Loch Morar,Scotland,2,NA,NA,G
+2560,Loch Ness,Scotland,5,2,74.08,F
+2561,Loch Ness Water,Scotland,1,NA,NA,G
+2562,Lochan Sholum,Scotland,1,1,88.24,C
+2563,Lochan Solan,Scotland,2,NA,NA,G
+2564,Lochindaal,Scotland,24,19,86.26,C
+2565,Lochinvar,Scotland,5,1,76.5,E
+2566,Lochlann,Scotland,1,NA,NA,G
+2567,Lochleven,Scotland,1,NA,NA,G
+2568,Lochlins,Scotland,1,NA,NA,G
+2569,Lochness,Scotland,1,NA,NA,G
+2570,Lochranza,Scotland,33,22,83.03,D
+2571,Lochruan,Scotland,1,1,79,E
+2572,Lochside,Scotland,175,147,88.41,C
+2573,Lock Stock & Barrel,Canada,5,3,84.73,D
+2574,Locke's,Ireland,15,8,79.35,E
+2575,Logan,Scotland,17,7,83.6,D
+2576,Lohin McKinnon,Canada,1,1,77,E
+2577,Lombard Gold Label,Scotland,3,2,81.34,D
+2578,Lomond,Scotland,2,1,84.67,D
+2579,Lone Oak,United States,1,1,92,B
+2580,Lone Whisker,United States,1,1,87,C
+2581,Long Island o'OldTymer,United States,NA,NA,NA,G
+2582,Long John,Scotland,28,16,75.08,E
+2583,Long Wood,Canada,3,3,66.93,G
+2584,Longhorn Moonshine,Germany,3,NA,NA,G
+2585,Longmorn,Scotland,1152,884,87.39,C
+2586,Longrow,Scotland,343,250,87.61,C
+2587,Lord Astor,Scotland,2,NA,NA,G
+2588,Lord Calvert,Canada,5,2,75.84,E
+2589,Lord Douglas,Scotland,3,NA,NA,G
+2590,Lord Dudley,Scotland,1,NA,NA,G
+2591,Lord Elcho,Scotland,2,2,79.5,E
+2592,Lord of Ireland,Ireland,1,1,84.75,D
+2593,Lord of Islay,Scotland,2,2,88.38,C
+2594,Lord of Orkney,Scotland,2,2,88.54,C
+2595,Lord Richmond,Scotland,3,NA,NA,G
+2596,Lord Roxburgh,Scotland,1,1,87,C
+2597,Lord Waterloo,Scotland,1,NA,NA,G
+2598,Lordly,France,1,NA,NA,G
+2599,Lorrain,France,1,1,10,G
+2600,Los 2 Compadres,Mexico,3,1,81,D
+2601,Lossieburn,Scotland,2,2,88.17,C
+2602,Lossit,Scotland,4,3,78.39,E
+2603,Lost & Found,Scotland,1,NA,NA,G
+2604,Lost Gods,,2,2,86.88,C
+2605,Lost Lake,United States,1,NA,NA,G
+2606,Lost Prophet,United States,1,1,86.67,C
+2607,Lost Spirits,United States,21,15,72.47,F
+2608,Lot No. 40,Canada,7,6,82.5,D
+2609,Lothlend,Scotland,1,1,72,F
+2610,Lotus Lord,Scotland,1,NA,NA,G
+2611,Louisville,United States,1,NA,NA,G
+2612,Love's,Scotland,1,NA,NA,G
+2613,Lovie,Scotland,1,NA,NA,G
+2614,Low Gap,United States,7,NA,NA,G
+2615,Lower East Side,United States,1,1,82,D
+2616,Lowland,Scotland,9,6,84.37,D
+2617,Lowland Blended Grain,Scotland,1,1,83,D
+2618,Lowland Blended Malt,Scotland,4,3,85.12,C
+2619,Lowland Malt,Scotland,NA,NA,NA,G
+2620,Lowland Region,Scotland,2,2,84.5,D
+2621,Lowland Single Malt,Scotland,1,NA,NA,G
+2622,Lowlander by the Sea,Scotland,1,1,78.48,E
+2623,Lucky Bastard,Canada,3,2,84.5,D
+2624,Lungauer Whisky,Austria,1,NA,NA,G
+2625,Lüthy,Switzerland,8,6,81.51,D
+2626,Luzerner Hinterländer,Switzerland,8,5,75.27,E
+2627,Lynchburg Distillery,United States,1,NA,NA,G
+2628,M D,Scotland,1,NA,NA,G
+2629,M is for Magic,Scotland,2,2,84.34,D
+2630,M&H Whisky Distillery,Israel,9,9,86.58,C
+2631,M.P.,Scotland,1,NA,NA,G
+2632,Mac Ausland's,Scotland,1,NA,NA,G
+2633,Mac Bervie,Scotland,1,NA,NA,G
+2634,Mac Bundy,Scotland,2,NA,NA,G
+2635,Mac Dugan,Scotland,15,9,82.12,D
+2636,Mac Field,Scotland,1,NA,NA,G
+2637,Mac Gavin's,Scotland,1,NA,NA,G
+2638,Mac Harry's,Scotland,1,NA,NA,G
+2639,Mac Ilroy,Scotland,1,NA,NA,G
+2640,Mac Lean,Scotland,2,NA,NA,G
+2641,Mac Malden,Scotland,5,4,77.03,E
+2642,Mac Maroon No 5,Scotland,1,NA,NA,G
+2643,Mac NaMara,Scotland,2,2,75.55,E
+2644,Mac Nicoll,Scotland,2,NA,NA,G
+2645,Mac Percy,Scotland,1,NA,NA,G
+2646,Mac Queen,Scotland,4,1,77.5,E
+2647,Mac Queens,Scotland,1,NA,NA,G
+2648,Mac Spey,Scotland,1,1,72,F
+2649,Macallan,Scotland,2301,1645,88.24,C
+2650,Macaloney's,Canada,3,NA,NA,G
+2651,Macardo,Switzerland,13,6,78.67,E
+2652,MacArthur's,Scotland,10,4,79.52,E
+2653,MacDonald's,Scotland,1,1,84.75,D
+2654,Macduff,Scotland,497,353,85.17,C
+2655,Macfie,Scotland,1,NA,NA,G
+2656,Macgregor's,Scotland,6,1,85.56,C
+2657,Machrie Moor,Scotland,16,16,83.19,D
+2658,Mackenzie,Scotland,2,2,77,E
+2659,Mackinlay's,Scotland,33,13,80.45,D
+2660,MacKintosh,Scotland,2,NA,NA,G
+2661,Mackmyra,Sweden,243,197,82.29,D
+2662,Maclachlans,Scotland,1,1,86,C
+2663,Macleay Duff,Scotland,4,NA,NA,G
+2664,MacLeod of MacLeod,Scotland,3,NA,NA,G
+2665,Macleod's,Scotland,37,23,82.3,D
+2666,Macnair's,Scotland,2,NA,NA,G
+2667,MacNaughton,Canada,4,2,76.75,E
+2668,MacPhail's,Scotland,77,59,88.24,C
+2669,Mad March Hare,Ireland,1,NA,NA,G
+2670,Magic Cask,Scotland,1,1,88,C
+2671,Magilligan,Ireland,4,2,80.27,D
+2672,Magnificent Mellie,Scotland,1,1,87.33,C
+2673,Mahrs Bräu,Germany,1,NA,NA,G
+2674,Maier's,Germany,1,1,51.33,G
+2675,Main Fields,France,1,NA,NA,G
+2676,Maison Benjamin Kuentz,France,3,3,80.33,D
+2677,Major Gunn's,Scotland,2,1,55,G
+2678,Major Pike's,Scotland,1,NA,NA,G
+2679,Majority,Scotland,1,1,73,F
+2680,Maker's 46,United States,7,3,84.51,D
+2681,Maker's Mark,United States,191,52,81.38,D
+2682,Malony's,Ireland,2,NA,NA,G
+2683,Malt Mill,Scotland,1,NA,NA,G
+2684,Malt Pedigree,Scotland,4,4,81.58,D
+2685,Malt Whisky,,4,2,87.13,C
+2686,Malts of Islay - Àlainn,Scotland,1,1,87.92,C
+2687,Malts of Islay - Trom,Scotland,1,1,85.33,C
+2688,Malzbeisser,Germany,1,NA,NA,G
+2689,Man o'Sword,Scotland,3,1,80,D
+2690,Man o'Words,Scotland,2,NA,NA,G
+2691,Manchester United,Scotland,3,NA,NA,G
+2692,Mandelbachtal,Germany,2,1,89.33,C
+2693,Manderley,United States,1,1,84,D
+2694,Mandlberggut,Austria,4,2,50.46,G
+2695,Mängistörfler Whisky,Switzerland,3,NA,NA,G
+2696,Manly Spirits,Australia,1,NA,NA,G
+2697,Mannochmore,Scotland,271,188,84.09,D
+2698,Mansion House,Scotland,5,3,68.61,G
+2699,Maple Leaf,Canada,1,1,36.67,G
+2700,Mapleshade,Canada,1,NA,NA,G
+2701,Marchmount Bowling Club,Scotland,1,NA,NA,G
+2702,Marder,Germany,8,6,79.62,E
+2703,Margadale,Scotland,3,3,86.5,C
+2704,Marie Louise Tissot,France,1,1,74,F
+2705,Mark One,,1,NA,NA,G
+2706,Mark Twain,United States,1,1,70.67,F
+2707,Märkische Spezialitätenbrennerei,Germany,11,5,76,E
+2708,Marlfield,Ireland,1,NA,NA,G
+2709,Mars,Japan,19,11,84.15,D
+2710,Marshall Fields,United States,2,NA,NA,G
+2711,Marshall's,United States,1,1,73.67,F
+2712,Marshall's,Scotland,1,NA,NA,G
+2713,Martin Grube Estate,United States,1,NA,NA,G
+2714,Martin Mills,United States,2,1,91.67,B
+2715,Martin's,Scotland,3,1,85.67,C
+2716,Mary Read,Germany,1,1,84,D
+2717,Mary Stuart,Scotland,1,1,84,D
+2718,Marypark-Speyside,Scotland,2,2,87.5,C
+2719,Mason's,United States,1,1,55,G
+2720,Masonic Club,Scotland,1,NA,NA,G
+2721,Master John,Scotland,1,1,75,E
+2722,Masterpiece,United States,2,NA,NA,G
+2723,Masterson's,Canada,13,10,84.79,D
+2724,Masthead,Scotland,1,NA,NA,G
+2725,Match Whisky,Scotland,6,3,83.38,D
+2726,Matisse,Scotland,12,7,81.07,D
+2727,Mattingly & Moore,United States,2,1,82,D
+2728,Mature Your Own,Scotland,1,NA,NA,G
+2729,Maverick Drinks,United Kingdom,12,3,83.08,D
+2730,Maxim's de Paris,,3,NA,NA,G
+2731,Maximum Peat,Scotland,19,16,84.15,D
+2732,Maximum Sherry,Scotland,2,2,84.34,D
+2733,Maxwell,Scotland,2,2,88.5,C
+2734,Mayfair,Scotland,1,NA,NA,G
+2735,Mayor Pingree,United States,4,1,84,D
+2736,MB Roland,United States,6,NA,NA,G
+2737,Mc Daniel,Scotland,1,1,82,D
+2738,Mc Illroy,Scotland,5,1,44.2,G
+2739,Mc Intyre,Scotland,1,1,51,G
+2740,McAfee's Benchmark,United States,4,3,75.51,E
+2741,McAndrew's,Scotland,4,NA,NA,G
+2742,McArthur,Scotland,1,NA,NA,G
+2743,McCallum's,Scotland,9,4,72.75,F
+2744,McCarthy's Oregon,United States,16,12,81.1,D
+2745,McClelland's,Scotland,34,20,76.42,E
+2746,McCormack's,Ireland,1,1,73,F
+2747,McCormick,United States,2,1,81,D
+2748,McCrae's,Scotland,2,1,74,F
+2749,McDoune,Scotland,1,NA,NA,G
+2750,McDowell's,India,5,3,49.25,G
+2751,McGee,Scotland,1,1,58,G
+2752,McGibbon's,Scotland,9,4,74.45,F
+2753,McGregor,Scotland,1,NA,NA,G
+2754,McGuinness Distillers,Canada,3,NA,NA,G
+2755,McHenry,Australia,2,1,84,D
+2756,McIVOR,Scotland,3,NA,NA,G
+2757,McKendric,United States,3,NA,NA,G
+2758,McKendrick's,Scotland,3,NA,NA,G
+2759,McKenzie,United States,8,5,78.62,E
+2760,McKenzie,Scotland,2,NA,NA,G
+2761,McLintock,Scotland,2,2,63.6,G
+2762,McLoughlin & Steel,Canada,2,NA,NA,G
+2763,McNeill's Prototype,Scotland,12,10,86.33,C
+2764,McSheelton,Scotland,1,NA,NA,G
+2765,McTryn,Scotland,4,1,86,C
+2766,Meadhan,Scotland,2,NA,NA,G
+2767,Meadwood,United States,1,NA,NA,G
+2768,Mealach,Scotland,1,1,81,D
+2769,Medley Bros.,United States,2,1,86,C
+2770,Medley Family,United States,5,NA,NA,G
+2771,Medley's,United States,10,3,71.28,F
+2772,Meisner,Germany,2,NA,NA,G
+2773,Meissener Whisky,Germany,2,2,80.17,D
+2774,Mekong,Cambodia,2,1,19.5,G
+2775,Meldrum House,Scotland,3,3,82.26,D
+2776,Mellow Corn,United States,3,2,73.59,F
+2777,Mellwood,United States,1,NA,NA,G
+2778,Melrose Drover,Scotland,1,NA,NA,G
+2779,Memory's Malt Blend,Japan,1,NA,NA,G
+2780,Menomonee Valley,United States,1,NA,NA,G
+2781,Merrys,Ireland,5,2,74.88,F
+2782,Method & Madness,Ireland,8,7,86.18,C
+2783,Metropolitan,Scotland,1,NA,NA,G
+2784,Metze's,United States,1,NA,NA,G
+2785,Meyer,France,3,3,75.34,E
+2786,Mhain Baraille,,2,NA,NA,G
+2787,Mic Mac,Scotland,1,1,50,G
+2788,Mic.Drop.,United States,1,1,89,C
+2789,Michael Collins,Ireland,6,3,78.11,E
+2790,Michael Jackson,Scotland,1,1,83.21,D
+2791,Michel Couvreur,France,17,11,86.86,C
+2792,Micheles,Austria,1,NA,NA,G
+2793,Michter's,United States,121,80,84.51,D
+2794,Micil,Ireland,1,NA,NA,G
+2795,Middleton,United States,1,NA,NA,G
+2796,Midleton,Ireland,101,64,87.88,C
+2797,Midnight Moon,United States,5,4,78.25,E
+2798,Mikkeller Spirits,Denmark,1,NA,NA,G
+2799,Mile High Spirits,United States,1,NA,NA,G
+2800,Milford,New Zealand,37,28,81.97,D
+2801,Milhson's,Scotland,2,NA,NA,G
+2802,Military Special,United States,1,NA,NA,G
+2803,Millars,Ireland,4,3,78.25,E
+2804,Millbrook,United States,1,NA,NA,G
+2805,Millburn,Scotland,96,78,88.02,C
+2806,Millennium Club,Scotland,2,NA,NA,G
+2807,Millstone,Netherlands,142,126,81.39,D
+2808,Milroy's Finest,Scotland,1,1,66,G
+2809,Miltonduff,Scotland,528,383,85.44,C
+2810,Miltonhaugh,Scotland,3,3,92.5,B
+2811,Minhas Distillery,United States,3,3,67.67,G
+2812,Minor Case,United States,1,1,80,D
+2813,Misky,Switzerland,1,NA,NA,G
+2814,Missouri Spirits,United States,2,NA,NA,G
+2815,Mitchell's,Scotland,4,4,81.99,D
+2816,Mither Tap,Scotland,1,NA,NA,G
+2817,Miyagikyo,Japan,97,73,87.41,C
+2818,Moenks,Germany,1,1,81,D
+2819,Moidart,Scotland,8,5,86.36,C
+2820,Monarch,Scotland,2,NA,NA,G
+2821,Moncreiffe,Scotland,2,1,82.25,D
+2822,Monde Shuzou,Japan,3,2,67.5,G
+2823,Monkey Shoulder,Scotland,11,10,78.58,E
+2824,Mons Meg,Scotland,1,NA,NA,G
+2825,Monster,Scotland,1,NA,NA,G
+2826,Monster's Choice,Scotland,5,1,77.2,E
+2827,Monumental,Scotland,2,1,88,C
+2828,Moon Glow,Japan,1,NA,NA,G
+2829,Moon Harbour,France,3,3,79.35,E
+2830,Moonshine,United States,6,1,81,D
+2831,Moor Whisky,Germany,1,1,86,C
+2832,Moorland,Scotland,7,1,86,C
+2833,Morpheus,Scotland,1,1,86.75,C
+2834,Morrigan,Ireland,1,NA,NA,G
+2835,Morrison,Scotland,2,1,82,D
+2836,Morrison's Machrie,Scotland,1,NA,NA,G
+2837,Morriston Gold,Scotland,1,1,76,E
+2838,Mortimers,Scotland,2,1,88,C
+2839,Mortlach,Scotland,1481,1104,86.15,C
+2840,Morton's,Scotland,1,NA,NA,G
+2841,Mortons,Scotland,2,1,85,C
+2842,MOS,Scotland,3,2,82.84,D
+2843,Mosstowie,Scotland,78,62,86.69,C
+2844,Mosswood,United States,1,NA,NA,G
+2845,Most Wanted,United States,1,1,73,F
+2846,Mount Everest,Nepal,1,1,26,G
+2847,Mount Keen,Scotland,4,2,60.5,G
+2848,Mount Vernon,United States,3,NA,NA,G
+2849,Mountain Cream,Scotland,1,NA,NA,G
+2850,Moutard,France,1,1,73,F
+2851,Moylan's,United States,5,NA,NA,G
+2852,Mr. Larry,Scotland,1,NA,NA,G
+2853,Mrs. Couvreur' Choice,Scotland,1,1,90.67,B
+2854,Mt. Logan,Canada,2,NA,NA,G
+2855,Muckle Flugga,Scotland,2,2,82.93,D
+2856,Mühlenthal,Germany,1,NA,NA,G
+2857,Mühli Whiskey,Switzerland,1,1,77.5,E
+2858,Muirhead's,Scotland,9,3,65.67,G
+2859,Muirs Inn,Scotland,1,NA,NA,G
+2860,Mull of Kintyre Music Festival,Scotland,4,2,85,C
+2861,Mull-A-Mhoine,Scotland,4,3,79.72,E
+2862,Munray,Scotland,1,1,88,C
+2863,Murdoch's Perfection,Scotland,10,3,82,D
+2864,Murmeli,Austria,1,1,79,E
+2865,Murphys,Ireland,1,1,76,E
+2866,Murrayfield,Scotland,2,NA,NA,G
+2867,Murree Brewery,Pakistan,7,1,4,G
+2868,Musée de l'alambic,,1,NA,NA,G
+2869,Mykulynetsky Brovar,Ukraine,5,1,16.8,G
+2870,Myrmhor,Scotland,1,1,82,D
+2871,Mysterious Morticia,Scotland,1,1,88,C
+2872,Mystery Dram,Scotland,1,1,85,C
+2873,Mystery Islay,Scotland,5,5,82.03,D
+2874,Mystery Little Piggy,Scotland,3,3,83.38,D
+2875,Mystery Malt,,1,1,87,C
+2876,Mystery Speyside,Scotland,5,4,88.09,C
+2877,Nagahama,Japan,3,2,79,E
+2878,Naguelann,France,6,4,80.63,D
+2879,Naked,Canada,1,1,70,F
+2880,Nant,Australia,16,10,83,D
+2881,Nantou,Taiwan,91,22,84.18,D
+2882,Napf Whisky,Switzerland,1,NA,NA,G
+2883,Nathan Stone's,United States,1,NA,NA,G
+2884,Nation of Scots,Scotland,1,1,81.5,D
+2885,National Distillers,United States,1,NA,NA,G
+2886,Natu Nobilis,Brazil,2,1,80,D
+2887,Nectar d'Islay,Scotland,1,1,82.75,D
+2888,Nectar d'Speyside,Scotland,1,1,89,C
+2889,Nectar Grove,Scotland,1,1,84.05,D
+2890,Nelson,United States,1,NA,NA,G
+2891,Nelson's First 108,United States,1,1,84,D
+2892,Nessie's Nip,Scotland,1,NA,NA,G
+2893,Nestville,Slovakia,12,10,74.09,F
+2894,Nethermill,Scotland,2,1,80,D
+2895,Neumarkt Special,Scotland,1,NA,NA,G
+2896,Nevis Dew,Scotland,11,6,72.96,F
+2897,New Born,Japan,1,NA,NA,G
+2898,New Bridge Creek,United States,1,NA,NA,G
+2899,New Deal Distillery,United States,1,NA,NA,G
+2900,New England,United States,1,NA,NA,G
+2901,New Filling Malt,,1,1,84,D
+2902,New Holland Brewing,United States,6,2,80.63,D
+2903,New Malt Spirit,France,1,NA,NA,G
+2904,New Richmond Rye,United States,2,NA,NA,G
+2905,New Town Blends,Scotland,2,2,83,D
+2906,New Waterway Malt,Scotland,1,1,81.67,D
+2907,New World Projects,Australia,20,12,87.21,C
+2908,New Year Malt,Scotland,1,NA,NA,G
+2909,New York Distilling Company,United States,1,1,83.5,D
+2910,Newcastle United,Scotland,1,NA,NA,G
+2911,Newport,Scotland,1,NA,NA,G
+2912,News,Japan,1,1,79,E
+2913,News from Heaven,Scotland,1,NA,NA,G
+2914,NEWT,Scotland,1,1,87.67,C
+2915,Newton and Ridley,Scotland,3,NA,NA,G
+2916,Nice 'n Peaty,Scotland,6,4,84.5,D
+2917,Nightlab,United States,1,NA,NA,G
+2918,Nikka,Japan,468,294,84.08,D
+2919,Ninety,Canada,2,2,82.93,D
+2920,Nippy Sweetie,Scotland,1,NA,NA,G
+2921,Nirasaki,Japan,1,NA,NA,G
+2922,No 1,Scotland,1,NA,NA,G
+2923,No Age,Scotland,9,8,87.78,C
+2924,No Name,Scotland,2,2,89.17,C
+2925,No. 7,Germany,1,1,88.75,C
+2926,Noah's Mill,United States,19,10,77.77,E
+2927,Noble Glen,Scotland,1,NA,NA,G
+2928,Noble Ryder,Scotland,1,NA,NA,G
+2929,Nobleman,Scotland,2,NA,NA,G
+2930,Nomad,Scotland,3,2,78.22,E
+2931,Nor'Easter,United States,1,NA,NA,G
+2932,Nordisk Brænderi,Denmark,1,1,82,D
+2933,North British,Scotland,237,183,84.72,D
+2934,North Highland,Scotland,7,7,85.66,C
+2935,North Highlands,Scotland,1,NA,NA,G
+2936,North Irish,Ireland,1,1,88.67,C
+2937,North Islay,Scotland,1,1,85,C
+2938,North of 7 Whisky,Canada,3,1,85,C
+2939,North of Ireland,Ireland,2,2,89.88,C
+2940,North of Scotland,Scotland,52,44,87.33,C
+2941,North Port,Scotland,106,75,85.86,C
+2942,North Sea Storm Whisky,Germany,2,NA,NA,G
+2943,North Shore Distillery,United States,1,NA,NA,G
+2944,North Star,United States,NA,NA,NA,G
+2945,Northern Highland,Scotland,2,2,82,D
+2946,Not Islay,Scotland,1,1,83.33,D
+2947,Number One,Scotland,1,NA,NA,G
+2948,Nyborg,Denmark,6,2,81,D
+2949,Ö Whisky,Sweden,4,4,75.52,E
+2950,O'Connor,Ireland,2,1,74,F
+2951,O'Hara,Ireland,1,1,74,F
+2952,O'Kanagan,Ireland,1,1,73,F
+2953,O'Reilly's,Ireland,1,1,77,E
+2954,O. F. C.,United States,3,1,79,E
+2955,O.K.I.,United States,7,NA,NA,G
+2956,Oak Cross,Scotland,4,3,82.87,D
+2957,Oakfield,Scotland,1,NA,NA,G
+2958,Oban,Scotland,128,97,84.79,D
+2959,Ocean Lucky,Japan,1,NA,NA,G
+2960,Ocean Whisky,Japan,7,1,30,G
+2961,Ochterglen,Scotland,1,1,82,D
+2962,Octomore,Scotland,88,82,87.88,C
+2963,Odd Society,Canada,1,NA,NA,G
+2964,Odinforest,Germany,1,1,52,G
+2965,Officer's Choice,India,1,1,60,G
+2966,Ohishi Whisky,Japan,3,3,78.89,E
+2967,Oir Amber,Scotland,1,NA,NA,G
+2968,Oishii Wisukii,Scotland,3,3,89.86,C
+2969,Okanagan Spirits,Canada,4,1,83,D
+2970,Okayama,Japan,2,1,78.5,E
+2971,Ol' Dirty Charlotte,Scotland,1,1,86,C
+2972,Ol' Major,United States,1,NA,NA,G
+2973,Old 1889 Royal,United States,2,NA,NA,G
+2974,Old American,United States,3,2,83.5,D
+2975,Old Anchor,Portugal,1,NA,NA,G
+2976,Old Angus,Scotland,3,1,85,C
+2977,Old Argyll,Scotland,7,1,84.25,D
+2978,Old Armour,Scotland,3,1,80,D
+2979,Old Arthur,Scotland,1,NA,NA,G
+2980,Old Baker,United States,4,NA,NA,G
+2981,Old Baldy,United States,1,NA,NA,G
+2982,Old Ballantruan,Scotland,15,14,80.56,D
+2983,Old Bannockburn,Scotland,2,1,89,C
+2984,Old Bardstown,United States,13,6,78.2,E
+2985,Old Barrister,Scotland,3,1,76,E
+2986,Old Bear,Switzerland,43,27,81.73,D
+2987,Old Beezer,United States,1,1,82,D
+2988,Old Belfast,United Kingdom,NA,NA,NA,G
+2989,Old Blacksmith,United States,1,1,73,F
+2990,Old Blowhard,United States,1,1,87,C
+2991,Old Blue Ribbon,United States,1,NA,NA,G
+2992,Old Bolton,United States,1,NA,NA,G
+2993,Old Bones,United States,4,3,87.89,C
+2994,Old Boy,Scotland,1,1,74,F
+2995,Old Bridge,Scotland,4,1,72,F
+2996,Old Bridgeport,United States,1,NA,NA,G
+2997,Old Buck,Finland,10,5,82.63,D
+2998,Old but nevertheless Whisky,Scotland,1,NA,NA,G
+2999,Old Cabin Still,United States,1,NA,NA,G
+3000,Old Canada,Canada,4,2,58.79,G
+3001,Old Castle,Scotland,2,NA,NA,G
+3002,Old Charter,United States,20,8,83.97,D
+3003,Old Choice,Scotland,3,NA,NA,G
+3004,Old Clan,Scotland,2,1,82,D
+3005,Old Coach,Scotland,2,NA,NA,G
+3006,Old Cobblers,Scotland,2,NA,NA,G
+3007,Old Comber,Ireland,3,1,87.5,C
+3008,Old Commonwealth,United States,4,NA,NA,G
+3009,Old Country,Scotland,1,NA,NA,G
+3010,Old Course,Scotland,2,NA,NA,G
+3011,Old Court,Scotland,6,1,79.5,E
+3012,Old Crackman,Scotland,3,NA,NA,G
+3013,Old Crofter,Scotland,1,1,38,G
+3014,Old Crow,United States,30,7,75.86,E
+3015,Old Cummins,United States,1,1,91,B
+3016,Old Deer,Switzerland,44,25,82.56,D
+3017,Old Distiller,United States,1,NA,NA,G
+3018,Old Dominick,United States,1,NA,NA,G
+3019,Old Doppo,Japan,1,NA,NA,G
+3020,Old Dornie,Scotland,1,NA,NA,G
+3021,Old Dublin,Ireland,2,NA,NA,G
+3022,Old Dunluce,Ireland,1,1,85,C
+3023,Old Durbar,Nepal,1,NA,NA,G
+3024,Old Eagle,Switzerland,7,6,84.38,D
+3025,Old Echo Spring,United States,1,1,80.5,D
+3026,Old Elgin,Scotland,24,13,86.37,C
+3027,Old Elk,United States,1,NA,NA,G
+3028,Old England,Scotland,1,NA,NA,G
+3029,Old Ezra,United States,5,3,80.94,D
+3030,Old Fahr,Germany,3,2,85,C
+3031,Old Family,United States,1,1,83,D
+3032,Old Fellow,United States,1,1,34.5,G
+3033,Old Fitzgerald,United States,90,16,85.72,C
+3034,Old Fitzgerald's 1849,United States,10,2,85.9,C
+3035,Old Flag,Ireland,1,1,41.17,G
+3036,Old Forester,United States,63,30,84.08,D
+3037,Old Forge,United States,3,1,85.33,C
+3038,Old Friend,,1,NA,NA,G
+3039,Old Garden,Venezuela,1,NA,NA,G
+3040,Old George,Scotland,1,NA,NA,G
+3041,Old Glasgow,Scotland,2,NA,NA,G
+3042,Old Glen,Scotland,1,1,69,G
+3043,Old Glencrinan,Scotland,1,NA,NA,G
+3044,Old Glenn,Scotland,3,2,72.75,F
+3045,Old Grand-Dad,United States,60,22,80.24,D
+3046,Old Grommes,United States,1,NA,NA,G
+3047,Old Guns,Scotland,2,1,82.38,D
+3048,Old Harry,Scotland,1,NA,NA,G
+3049,Old Harvey,Scotland,1,NA,NA,G
+3050,Old Havana,Cuba,1,1,45,G
+3051,Old Heaven Hill,United States,9,2,74.5,F
+3052,Old Hermitage,United States,2,1,87,C
+3053,Old Hickory,United States,4,3,88.86,C
+3054,Old Highland,Scotland,1,NA,NA,G
+3055,Old Hokonui,New Zealand,2,1,10,G
+3056,Old House,Scotland,1,NA,NA,G
+3057,Old House No. 1,Scotland,3,2,60.25,G
+3058,Old Huckleberry,United States,2,NA,NA,G
+3059,Old Inn,Scotland,2,NA,NA,G
+3060,Old Inverness,Scotland,1,1,78.67,E
+3061,Old Irish Gold,Ireland,3,1,88,C
+3062,Old Jayhawk,United States,1,NA,NA,G
+3063,Old Jefferson,United States,1,1,91,B
+3064,Old Jim Gore,United States,1,NA,NA,G
+3065,Old Joe,United States,2,1,85.33,C
+3066,Old Keeper,Scotland,3,3,50.49,G
+3067,Old Keg,Sri Lanka,1,NA,NA,G
+3068,Old Kentucky,United States,2,NA,NA,G
+3069,Old Kentucky Rifle,United States,3,NA,NA,G
+3070,Old Kentucky Tavern,United States,5,1,88,C
+3071,Old Level,Scotland,1,NA,NA,G
+3072,Old Lewis Hunter,United States,3,1,88,C
+3073,Old Lexington,United States,1,NA,NA,G
+3074,Old Log Cabin,United States,1,NA,NA,G
+3075,Old Lord,Scotland,1,NA,NA,G
+3076,Old Lords,Scotland,1,NA,NA,G
+3077,Old Mac,Scotland,1,NA,NA,G
+3078,Old MacLoy,Scotland,1,NA,NA,G
+3079,Old Man Winter,United States,5,1,89,C
+3080,Old Masters,Scotland,2,NA,NA,G
+3081,Old McBrayer,United States,1,NA,NA,G
+3082,Old McMeiderich,Scotland,1,NA,NA,G
+3083,Old Medley,United States,2,1,84,D
+3084,Old Memories,Scotland,1,NA,NA,G
+3085,Old Miller,United States,1,NA,NA,G
+3086,Old Mister Kentucky,United States,1,NA,NA,G
+3087,Old Mock,United States,2,1,90.5,B
+3088,Old Mr. Boston,United States,3,NA,NA,G
+3089,Old Mull,Scotland,4,2,82.25,D
+3090,Old Mull Blend,Scotland,1,NA,NA,G
+3091,Old Mustang,Switzerland,7,6,81.58,D
+3092,Old Nick,United States,NA,NA,NA,G
+3093,Old Nobility,France,1,NA,NA,G
+3094,Old Norman,Scotland,1,NA,NA,G
+3095,Old Orkney,Scotland,7,6,79.78,E
+3096,Old Overholt,United States,20,4,78.2,E
+3097,Old Owl,Germany,7,4,76.81,E
+3098,Old Parr,Scotland,13,3,85.91,C
+3099,Old Pepper,United States,1,1,77,E
+3100,Old Perth,Scotland,25,22,82.55,D
+3101,Old Pogue,United States,3,1,82.86,D
+3102,Old Potrero,United States,19,9,83.21,D
+3103,Old Pulteney,Scotland,455,356,85.66,C
+3104,Old Punk,United States,1,NA,NA,G
+3105,Old Quaker,United States,7,2,82.5,D
+3106,Old Rarity,Scotland,10,6,80.35,D
+3107,Old Raven,Austria,25,15,82.52,D
+3108,Old Reader,United States,1,NA,NA,G
+3109,Old Red Fox,United States,2,1,5,G
+3110,Old Reliable,Australia,1,NA,NA,G
+3111,Old Rhosdhu,Scotland,28,14,77.64,E
+3112,Old Rip Van Winkle,United States,54,13,88.6,C
+3113,Old Ripy,United States,1,NA,NA,G
+3114,Old River,Switzerland,3,2,72,F
+3115,Old Royal,Scotland,7,2,80.5,D
+3116,Old Sandhill,Germany,4,2,77.17,E
+3117,Old Schenley,United States,2,NA,NA,G
+3118,Old Scotch Whisky,Scotland,3,NA,NA,G
+3119,Old Scotia,Scotland,NA,NA,NA,G
+3120,Old Setter,United States,1,NA,NA,G
+3121,Old Sey,,1,1,65,G
+3122,Old Shipbuilder,Scotland,1,NA,NA,G
+3123,Old Skinner's,Scotland,1,NA,NA,G
+3124,Old Smoothey,Scotland,1,NA,NA,G
+3125,Old Smuggler,Scotland,18,12,75.89,E
+3126,Old Speyside,Scotland,2,2,91.02,B
+3127,Old Squire,Scotland,1,NA,NA,G
+3128,Old St. Andrews,Scotland,26,11,71.74,F
+3129,Old St. Pete,United States,1,NA,NA,G
+3130,Old Stagg,United States,6,2,89.75,C
+3131,Old Stock Reserve,Scotland,3,3,90.71,B
+3132,Old Sunny Brook,United States,7,1,80,D
+3133,Old Tahoe,United States,1,1,83,D
+3134,Old Tavern,Scotland,NA,NA,NA,G
+3135,Old Taylor,United States,36,10,84.71,D
+3136,Old Thompson,United States,2,NA,NA,G
+3137,Old Torys,Mexico,1,NA,NA,G
+3138,Old Tradition,United States,1,NA,NA,G
+3139,Old Troon,Scotland,4,1,24,G
+3140,Old Tub,United States,1,1,88,C
+3141,Old Vandegrift,United States,1,NA,NA,G
+3142,Old Velvet,United States,1,NA,NA,G
+3143,Old Virginia,United States,3,1,61,G
+3144,Old W.L. Weller,United States,6,1,85,C
+3145,Old Warrior,Scotland,1,NA,NA,G
+3146,Old Well,Czech Republic,1,1,86,C
+3147,Old Weller,United States,25,8,86.27,C
+3148,Old West Whisky,Scotland,1,NA,NA,G
+3149,Old Whiskey River,United States,4,1,64,G
+3150,Old Williamsburg,United States,2,NA,NA,G
+3151,Old Woodpecker,Switzerland,4,4,82.42,D
+3152,Old World Spirits,United States,3,NA,NA,G
+3153,Old Worthy,Scotland,2,NA,NA,G
+3154,Olde Bourbon,United States,1,1,83,D
+3155,Olde Sunnyford,United States,1,1,87,C
+3156,Oldfangled Knotter Bourbon,United States,2,1,89,C
+3157,OldField,United States,1,NA,NA,G
+3158,Oldfield's Blue Label,Scotland,4,NA,NA,G
+3159,Oldman,Scotland,1,NA,NA,G
+3160,Oldmark,Germany,4,NA,NA,G
+3161,Oldmaster,Germany,1,NA,NA,G
+3162,Oldmoor,Scotland,10,1,82,D
+3163,Ole Smoky,United States,7,5,30.06,G
+3164,OMBC,Scotland,1,NA,NA,G
+3165,Ómra,Ireland,1,1,83.17,D
+3166,One Foot Cock,United States,2,NA,NA,G
+3167,One-Twenty,United States,1,NA,NA,G
+3168,Onyx Moonshine,United States,1,NA,NA,G
+3169,Oola,United States,4,1,79,E
+3170,Ootori,Japan,1,1,84.2,D
+3171,Operation Overlord,Scotland,1,NA,NA,G
+3172,Oppidan,United States,1,NA,NA,G
+3173,Optimism,Scotland,1,1,83,D
+3174,Òran Mór,Scotland,2,NA,NA,G
+3175,Orangerie,Scotland,2,2,70.93,F
+3176,Orbis,,1,1,89,C
+3177,Orbital,,1,1,70,F
+3178,Orcadian,Scotland,1,1,87.5,C
+3179,Ord,Scotland,24,21,88.44,C
+3180,Òrdha-Meas,Scotland,2,1,80,D
+3181,Ordinary Whisky,Scotland,1,1,91,B
+3182,Oregon Spirit Distillers,United States,2,1,80,D
+3183,Oregon Territory,United States,1,NA,NA,G
+3184,Organic Oregon,United States,1,NA,NA,G
+3185,Original,United States,1,NA,NA,G
+3186,Original Barrel Brand,United States,1,NA,NA,G
+3187,Original Dauborner,Germany,5,3,66.33,G
+3188,Original Tennessee Sour Mash Whisky,United States,2,1,85.5,C
+3189,Orkney,Scotland,14,11,86.94,C
+3190,Orkney Islands,Scotland,14,8,87.86,C
+3191,Orkney Single Malt,Scotland,6,5,87.37,C
+3192,Orkneyjar,Scotland,1,1,85.5,C
+3193,Orma,Switzerland,19,18,83.51,D
+3194,Osokyé,France,1,NA,NA,G
+3195,Otto's Uisge Beatha,Germany,1,1,63,G
+3196,Öufi-Brauerei,Switzerland,6,5,82.5,D
+3197,Over an Islay Rainbow,Scotland,5,1,90,B
+3198,Overaged Malt Whisky,Scotland,14,11,87.06,C
+3199,Overeem,Australia,26,15,82.34,D
+3200,Overholt,United States,4,3,89.78,C
+3201,Owen,Germany,6,5,55.55,G
+3202,Oxford,Scotland,2,NA,NA,G
+3203,OYO,United States,5,2,77.5,E
+3204,Ozark Distillery,United States,1,NA,NA,G
+3205,P&M,France,16,12,73.46,F
+3206,P&O,Scotland,1,NA,NA,G
+3207,Paddy,Ireland,27,10,79.51,E
+3208,Page & Sandeman,Scotland,1,NA,NA,G
+3209,Palatinatus,Germany,8,3,60.11,G
+3210,Palm Ridge,United States,2,2,76.88,E
+3211,Palmetto,United States,2,NA,NA,G
+3212,Palyver,,1,NA,NA,G
+3213,Pandora's Box,Scotland,1,1,66.5,G
+3214,Panimoravintola Koulu,Finland,2,1,72,F
+3215,Paniolo,United States,1,NA,NA,G
+3216,Panther Distillery,United States,5,1,68.5,G
+3217,Pappy Van Winkle's,United States,31,21,88.07,C
+3218,Paragon,Scotland,1,1,84.69,D
+3219,Park & Tilford,United States,1,NA,NA,G
+3220,Park Avenue,United States,1,NA,NA,G
+3221,Park Gate,Scotland,3,2,79.25,E
+3222,Park Lane,Scotland,6,2,81.67,D
+3223,Parker's Heritage Collection,United States,20,15,89.57,C
+3224,Parkers,Scotland,4,1,72,F
+3225,Parkmore,Scotland,2,1,87,C
+3226,Pàrlamaid na h-Alba,Scotland,1,NA,NA,G
+3227,Parliament,Scotland,3,NA,NA,G
+3228,Partick Thistle,Scotland,2,NA,NA,G
+3229,Partridge,Scotland,1,NA,NA,G
+3230,Passport,Scotland,13,4,74.33,F
+3231,Patmar's,Scotland,1,NA,NA,G
+3232,Patrick Breindl,Switzerland,1,1,65,G
+3233,Paul John,India,84,62,84.32,D
+3234,Paul Moore,Germany,1,NA,NA,G
+3235,Peach Street Distillers,United States,3,1,78.25,E
+3236,Peak,Scotland,1,NA,NA,G
+3237,Peak Whisky,Japan,1,NA,NA,G
+3238,Peaky Blinder,Ireland,1,1,79.33,E
+3239,Pearse,Ireland,9,7,79.29,E
+3240,Pearse Lyons,United States,2,1,80,D
+3241,Peat,Scotland,5,4,84.86,D
+3242,Peat 2 Peat,Scotland,1,1,90,B
+3243,Peat at the Foot of the River,Scotland,1,1,86,C
+3244,Peat Bog,Scotland,10,10,85.21,C
+3245,Peat Chimney,Scotland,9,8,80.63,D
+3246,Peat Dreams,Scotland,1,1,84.91,D
+3247,Peat Freak,Scotland,1,1,85,C
+3248,Peat Peak,Scotland,1,1,82.25,D
+3249,Peat Reek,Scotland,55,41,85.23,C
+3250,Peat's Beast,Scotland,6,5,83.9,D
+3251,Peatbull,Scotland,1,NA,NA,G
+3252,Peated Highland,Scotland,16,15,83.67,D
+3253,Peated Orkney,Scotland,1,NA,NA,G
+3254,Peated Young Malt,Denmark,1,1,73.5,F
+3255,Peatfire!,Scotland,1,1,82,D
+3256,Peatland,Scotland,1,1,77,E
+3257,Peatreekers,Scotland,1,NA,NA,G
+3258,Peatside,Scotland,13,10,83.6,D
+3259,Peaty Five,Scotland,6,3,84.44,D
+3260,Peaty Overaged Malt Whisky,France,1,1,90,B
+3261,Pebble Beach,Scotland,1,1,83.25,D
+3262,Peerless,United States,2,1,89,C
+3263,Peg Leg Porker,United States,1,NA,NA,G
+3264,Pelter,Israel,1,1,78.5,E
+3265,Pemberton Distillery,Canada,5,2,82,D
+3266,Penderyn,United Kingdom,108,80,82.78,D
+3267,Pendleton,Canada,5,3,71.39,F
+3268,PennyPacker,United States,5,4,69.31,G
+3269,Penrose,Scotland,1,NA,NA,G
+3270,Penthouse,United States,1,NA,NA,G
+3271,Peregrine Rock,United States,1,NA,NA,G
+3272,Perry's,Scotland,2,NA,NA,G
+3273,Persian Empire,Canada,1,NA,NA,G
+3274,Persse's Distillery,Ireland,2,NA,NA,G
+3275,Peter Affenzeller,Austria,6,3,68.97,G
+3276,Peter Dawson,Scotland,16,2,76.5,E
+3277,Peter Jake's,United States,1,NA,NA,G
+3278,Pfälzer Leidenschaft,Germany,5,3,84.61,D
+3279,Pfanner,Austria,9,8,75.66,E
+3280,Pfau Brennerei,Austria,4,1,59.5,G
+3281,Pheasant Plucker,Scotland,2,NA,NA,G
+3282,Phenomenology,Scotland,2,2,87.4,C
+3283,Philadelphia,United States,1,NA,NA,G
+3284,Philadelphia Distilling,United States,1,NA,NA,G
+3285,Phillips Union,,1,NA,NA,G
+3286,Pig's Nose,Scotland,5,5,76.32,E
+3287,Pike Creek,Canada,7,7,80.98,D
+3288,Pikesville,United States,3,3,80.9,D
+3289,Pillage,Scotland,2,2,86.67,C
+3290,Pillaged,Scotland,1,1,90.5,B
+3291,Pinch,Scotland,6,4,79.58,E
+3292,Pine Barrens,United States,17,3,80.33,D
+3293,Pinhook,United States,7,NA,NA,G
+3294,Pinwinnie,Scotland,9,4,76.61,E
+3295,Pipe House,Germany,3,1,57,G
+3296,Pipe Major,Scotland,3,NA,NA,G
+3297,Piper,Scotland,2,NA,NA,G
+3298,Pipers Clan,Scotland,5,NA,NA,G
+3299,Pittsburgh Distilling Company,United States,4,NA,NA,G
+3300,Pittyvaich,Scotland,90,54,83.88,D
+3301,Plankinton Reserve,Scotland,1,NA,NA,G
+3302,Platte Valley,United States,6,3,71.61,F
+3303,Plenty,United States,1,NA,NA,G
+3304,Plus-Four,Scotland,1,NA,NA,G
+3305,Pluscarden,Scotland,4,4,87.86,C
+3306,Pluscarden Valley,Scotland,3,2,90.75,B
+3307,Plutonia,Scotland,5,5,87.79,C
+3308,Pointers,Scotland,8,NA,NA,G
+3309,Poit Dhubh,Scotland,31,21,84.12,D
+3310,Polly's Casks,Scotland,1,NA,NA,G
+3311,Pommerscher Greif,Germany,10,10,72.6,F
+3312,Popcorn Sutton,United States,3,1,60,G
+3313,Port Askaig,Scotland,23,23,86.87,C
+3314,Port Cask,Scotland,2,2,89.63,C
+3315,Port Charlotte,Scotland,495,418,87.74,C
+3316,Port Chilkoot,United States,2,NA,NA,G
+3317,Port Dundas,Scotland,125,96,85.72,C
+3318,Port Ellen,Scotland,1049,832,89.63,C
+3319,Portside,Scotland,1,1,87.76,C
+3320,Portsoy,Scotland,1,1,85.88,C
+3321,Pot Lid,Scotland,2,NA,NA,G
+3322,Potter,Canada,7,6,83.18,D
+3323,Potter's,United States,2,NA,NA,G
+3324,Pow-wow,United States,2,2,72.88,F
+3325,Powers,Ireland,28,17,81.6,D
+3326,Praskoveyskoe,Russian Federation,5,3,58.17,G
+3327,Precinct No. 6,United States,1,NA,NA,G
+3328,Premiers,Scotland,18,NA,NA,G
+3329,Premiers Choice,Scotland,2,2,83.13,D
+3330,President,Scotland,4,3,81.78,D
+3331,Prestonfield,Scotland,10,7,84.32,D
+3332,Prestonfield House,Scotland,3,3,80.56,D
+3333,Preußische P8 382267,Scotland,1,1,86.25,C
+3334,Preussischer Whisky,Germany,36,17,69.96,G
+3335,Prichard's,United States,13,7,80.28,D
+3336,Pride of Islay,Scotland,5,5,83.56,D
+3337,Pride of Orkney,Scotland,5,5,81.8,D
+3338,Pride of Strathspey,Scotland,27,21,91.74,B
+3339,Pride of the Lowlands,Scotland,3,2,83.97,D
+3340,Prima Contione,,1,1,84,D
+3341,Prime Blue,Scotland,5,NA,NA,G
+3342,Prince Charlie,Scotland,6,NA,NA,G
+3343,Prince Consort,United Kingdom,NA,NA,NA,G
+3344,Prince Howard,Scotland,1,NA,NA,G
+3345,Prince of Wales,United Kingdom,14,1,78.33,E
+3346,Prince Regent,Scotland,1,1,90.22,B
+3347,Princes Liqueur,Scotland,1,NA,NA,G
+3348,Printer's,Czech Republic,2,1,57.25,G
+3349,Pritchard's,Scotland,1,NA,NA,G
+3350,Private Stock,Scotland,6,6,81.31,D
+3351,Prizefight,Ireland,1,1,80,D
+3352,Probably Speyside's Finest,Scotland,34,31,89.29,C
+3353,Prometheus,Scotland,3,3,89.58,C
+3354,Proof 107,United States,1,NA,NA,G
+3355,Prum,Germany,5,4,73.67,F
+3356,Puni,Italy,20,20,78.26,E
+3357,Punish95,United States,2,NA,NA,G
+3358,Pure Antique,United States,1,NA,NA,G
+3359,Pure Kentucky,United States,7,7,83.14,D
+3360,Pure Malt,Scotland,8,2,80.25,D
+3361,Pure Malt Scotch Whisky,Scotland,2,1,89,C
+3362,Pure Scot,Scotland,3,1,76.75,E
+3363,Pure Single Malt,Scotland,8,6,88,C
+3364,Pure Taste,Belgium,4,4,79.82,E
+3365,Purely Medicinal,Scotland,1,NA,NA,G
+3366,Putachieside,Scotland,4,3,82.72,D
+3367,Putnam,United States,2,NA,NA,G
+3368,Q,Japan,1,NA,NA,G
+3369,Q & P Land,Scotland,2,NA,NA,G
+3370,QE2,Scotland,5,2,86,C
+3371,Queen Anne,Scotland,23,9,79.74,E
+3372,Queen Elizabeth,Scotland,5,1,83,D
+3373,Queen Jennie,United States,1,NA,NA,G
+3374,Queen Margot,Scotland,7,5,63.81,G
+3375,Queen Mary 2,,1,NA,NA,G
+3376,Queen Mary of Scots,Scotland,1,1,35,G
+3377,Queen Mary's Seal,Scotland,1,NA,NA,G
+3378,Queen of Scotland,Scotland,1,1,57.2,G
+3379,Queen of Scots,Scotland,1,1,54,G
+3380,Queen of Spey,Scotland,1,1,84.33,D
+3381,Queen's Castle,Scotland,4,1,80,D
+3382,Queen's Tower,Scotland,2,NA,NA,G
+3383,Queens & Kings,Germany,6,4,85.67,C
+3384,Queensferry Lodge Hotel,Scotland,1,NA,NA,G
+3385,Quingdao Whisky,,1,NA,NA,G
+3386,Quinn Group,Ireland,2,NA,NA,G
+3387,Quintessential,Scotland,1,NA,NA,G
+3388,R & B,Scotland,2,NA,NA,G
+3389,R. A,Scotland,1,NA,NA,G
+3390,R.J. Hodges,United States,1,NA,NA,G
+3391,Raasay,Scotland,3,3,84.21,D
+3392,Rabbie's Dram,Scotland,1,NA,NA,G
+3393,Rabbit Hole,United States,3,NA,NA,G
+3394,Racke Rauchzart,Germany,11,5,70.68,F
+3395,Rackhouse,United States,2,2,79.75,E
+3396,Raetia,Switzerland,4,2,80,D
+3397,Ragtime,United States,1,1,80.75,D
+3398,Railspur No. 1,Canada,2,NA,NA,G
+3399,Rainbow,United States,1,NA,NA,G
+3400,Rainbow Whisky,Japan,1,1,79,E
+3401,Rampur,India,4,3,76.76,E
+3402,Ramsbottom,United Kingdom,2,NA,NA,G
+3403,Ramston,Scotland,1,NA,NA,G
+3404,Ranch Wood,United States,3,1,59.33,G
+3405,Ranchwood,United States,1,NA,NA,G
+3406,Randy Ruby,Scotland,1,1,87.63,C
+3407,Ranger Creek,United States,6,2,78.25,E
+3408,Rangers,United States,1,NA,NA,G
+3409,Rangers Football Club,Scotland,9,NA,NA,G
+3410,Rangon Whisky,Malaysia,1,NA,NA,G
+3411,Ransom,United States,4,3,84.11,D
+3412,Rare Antique,United States,2,NA,NA,G
+3413,Rare Auld Blended,Scotland,1,1,87,C
+3414,Rare Highland Single Malt Whisky,Scotland,1,NA,NA,G
+3415,Rare Old Fitzgerald,United States,1,NA,NA,G
+3416,Rare Perfection,United States,8,1,90,B
+3417,Rascally Liquor,Scotland,6,6,77.6,E
+3418,Rasputin,United States,3,2,74.5,F
+3419,Rathskeller Rye,United States,1,NA,NA,G
+3420,Rattray's Selection,Scotland,3,1,87.57,C
+3421,Rauchkofel,Austria,2,2,90.5,B
+3422,Ravishing Rosie,Scotland,1,1,87.14,C
+3423,Re:Find,United States,1,NA,NA,G
+3424,Real Antique,Scotland,1,NA,NA,G
+3425,Real Mackay,Scotland,1,1,28,G
+3426,Rebecca,United States,1,NA,NA,G
+3427,Rebecca Creek,United States,1,NA,NA,G
+3428,Rebel Yell,United States,23,13,77.88,E
+3429,Rebell,Germany,1,1,76,E
+3430,Rebellion,United States,2,1,79,E
+3431,Red & Gold,United States,2,NA,NA,G
+3432,Red and Blue,United States,1,NA,NA,G
+3433,Red Baron,Scotland,1,1,88.4,C
+3434,Red Baron of Speyside,Scotland,1,1,88.09,C
+3435,Red Deer,Germany,2,2,82.49,D
+3436,Red Ducat,Scotland,1,NA,NA,G
+3437,Red Flower,Scotland,1,NA,NA,G
+3438,Red Hackle,Scotland,12,3,83.17,D
+3439,Red Hill,Scotland,1,NA,NA,G
+3440,Red Hills,Scotland,5,1,80,D
+3441,Red Jacket,Italy,NA,NA,NA,G
+3442,Red Lion,Scotland,2,1,70,F
+3443,Red Manor,Scotland,1,NA,NA,G
+3444,Red Peak's,Germany,6,4,76.06,E
+3445,Red River,United States,3,1,4,G
+3446,Red Rose,United Kingdom,3,NA,NA,G
+3447,Red Snake,Scotland,14,10,84.27,D
+3448,Red Star,Scotland,1,1,79,E
+3449,Red State,United States,2,NA,NA,G
+3450,Redbreast,Ireland,68,59,86.96,C
+3451,Redemption,United States,21,11,78.36,E
+3452,Redil,Scotland,1,NA,NA,G
+3453,Reece's,United States,4,NA,NA,G
+3454,Referendum,Scotland,1,NA,NA,G
+3455,Reflets de France,France,1,1,70.5,F
+3456,Reformator,Germany,1,NA,NA,G
+3457,Regal,,NA,NA,NA,G
+3458,Regal Queen,Scotland,1,NA,NA,G
+3459,Regal Reserve,Scotland,1,NA,NA,G
+3460,Regency,Scotland,1,NA,NA,G
+3461,Regent,Scotland,1,NA,NA,G
+3462,Reisetbauer,Austria,13,9,66.43,G
+3463,Reliance,Scotland,11,3,82.33,D
+3464,René de Miscault,France,1,NA,NA,G
+3465,Repeal,United States,1,1,84,D
+3466,Reserve,,NA,NA,NA,G
+3467,Reserve Legendaire,France,2,1,83,D
+3468,Reservoir,United States,15,5,83.4,D
+3469,Resurrection,Scotland,1,1,88.82,C
+3470,Revel Stoke,Canada,2,1,55,G
+3471,Reverend Paul's,United States,NA,NA,NA,G
+3472,Revolution Rye,United States,1,NA,NA,G
+3473,Rewco,United States,1,NA,NA,G
+3474,Rhetoric,United States,5,4,87.02,C
+3475,Rhinnesdhu,Scotland,2,1,86,C
+3476,Rhyniemhor,Scotland,1,NA,NA,G
+3477,Rich & Rare,Canada,1,1,82,D
+3478,Rich Grain Distilling Co.,United States,1,NA,NA,G
+3479,Richardson,Scotland,3,NA,NA,G
+3480,Rieger und Hofmeister,Germany,4,1,59,G
+3481,Rìgh Seumas,Scotland,2,2,82.47,D
+3482,Rissmoor,Germany,1,1,70,F
+3483,Rittenhouse,United States,27,20,84.33,D
+3484,Rivals,Scotland,1,1,90.5,B
+3485,River Baron,United States,1,NA,NA,G
+3486,Riverboat,United States,3,1,72,F
+3487,Riverflow,Scotland,1,1,77.8,E
+3488,Rixston,United States,1,NA,NA,G
+3489,RLOC,,2,NA,NA,G
+3490,Rob Roy,Scotland,14,3,81.78,D
+3491,Robbie Burns,Scotland,4,3,80.47,D
+3492,Robbie Dhu,Scotland,3,2,79,E
+3493,Robert Brown,Japan,6,NA,NA,G
+3494,Robert Burns,Scotland,22,19,75.58,E
+3495,Robert the Bruce,Scotland,1,NA,NA,G
+3496,Robertson's,Scotland,7,4,79.31,E
+3497,Rock Hill Farms,United States,4,4,84.93,D
+3498,Rock Oyster,Scotland,9,8,82.98,D
+3499,Rock Town,United States,28,10,80.67,D
+3500,Rock Whisky,Austria,3,1,81,D
+3501,RockCastle,United States,1,NA,NA,G
+3502,Rocky Mountain,United States,2,1,96,A
+3503,Rod & Rifle,United States,1,NA,NA,G
+3504,Roderick Dhu,Scotland,4,3,78.47,E
+3505,Rodger's Old Scots,Scotland,3,NA,NA,G
+3506,Rodger's Special,Scotland,1,NA,NA,G
+3507,Roe & Co,Ireland,1,1,80.47,D
+3508,Rogha,Scotland,1,1,93,B
+3509,Roghainn Nam Feareolais,Scotland,1,1,85,C
+3510,Rogin's Choice,United States,3,NA,NA,G
+3511,Rogner,Austria,6,1,75,E
+3512,Rogue,United States,2,2,69.13,G
+3513,Roknar,United States,3,NA,NA,G
+3514,Ron Burgundy,Scotland,1,NA,NA,G
+3515,Ronson,Scotland,2,NA,NA,G
+3516,Roof Rye,France,1,1,83,D
+3517,Rös,Denmark,1,1,80.5,D
+3518,Rose Brook,United States,1,NA,NA,G
+3519,Rose Manor Whisky,,1,NA,NA,G
+3520,Rosebank,Scotland,563,388,86.25,C
+3521,Roslags,Sweden,4,4,75.92,E
+3522,Ross & Cameron's,Scotland,2,1,91,B
+3523,Ross's,Scotland,1,NA,NA,G
+3524,Rosscanich,Scotland,1,1,92,B
+3525,Rossend Castle,Scotland,1,1,78.67,E
+3526,Rosslea,Scotland,1,NA,NA,G
+3527,Rouget de L'Isle,France,5,5,84.87,D
+3528,Rough Rider,United States,6,3,83.22,D
+3529,RoughStock,United States,15,8,74.59,F
+3530,Rowan's Creek,United States,22,17,82.99,D
+3531,Royal,Scotland,2,NA,NA,G
+3532,Royal Ages,Scotland,4,2,80.5,D
+3533,Royal Award,Scotland,1,NA,NA,G
+3534,Royal Blend,Scotland,1,NA,NA,G
+3535,Royal Brackla,Scotland,330,219,83.9,D
+3536,Royal Brewhouse,Indonesia,2,2,75.5,E
+3537,Royal Bruce,Scotland,2,1,71,F
+3538,Royal Burgh of Forres,Scotland,1,NA,NA,G
+3539,Royal Cadet,Scotland,1,NA,NA,G
+3540,Royal Canadian,Canada,5,3,73.5,F
+3541,Royal Cask,Scotland,1,NA,NA,G
+3542,Royal Castle,Scotland,2,NA,NA,G
+3543,Royal Challenge,India,3,1,70,F
+3544,Royal Charter,Canada,1,NA,NA,G
+3545,Royal Club,Scotland,2,NA,NA,G
+3546,Royal College Of Surgeons,Scotland,1,NA,NA,G
+3547,Royal Command,Scotland,1,1,87,C
+3548,Royal Crown,Scotland,2,NA,NA,G
+3549,Royal Crown,Canada,1,1,81,D
+3550,Royal Crystal,Scotland,6,NA,NA,G
+3551,Royal Culross,Scotland,5,2,80.13,D
+3552,Royal Deeside,Scotland,4,1,65,G
+3553,Royal Elgin,Scotland,3,2,84.5,D
+3554,Royal Escort,Scotland,3,NA,NA,G
+3555,Royal Findhorn,Scotland,1,1,78,E
+3556,Royal Game,Scotland,1,NA,NA,G
+3557,Royal Glendee,Scotland,1,1,89.64,C
+3558,Royal Highlander,Scotland,1,NA,NA,G
+3559,Royal Household,Japan,2,1,84,D
+3560,Royal Island,Scotland,6,3,88.75,C
+3561,Royal Lochnagar,Scotland,175,132,84.03,D
+3562,Royal Mac,Scotland,1,NA,NA,G
+3563,Royal MacGill,Scotland,1,NA,NA,G
+3564,Royal Martins',Scotland,1,1,83,D
+3565,Royal Park,Scotland,2,1,75,E
+3566,Royal Peacock,Scotland,1,NA,NA,G
+3567,Royal Pheasant,Scotland,1,1,77,E
+3568,Royal Reserve,Canada,2,NA,NA,G
+3569,Royal Salute,Scotland,70,43,85.33,C
+3570,Royal Sovereign,Scotland,1,NA,NA,G
+3571,Royal Stewart,Scotland,2,NA,NA,G
+3572,Royal Stirling,Scotland,2,1,71.5,F
+3573,Royal Thistle,Scotland,2,1,77,E
+3574,Royal Wedding Commemorative Miniature,Scotland,2,NA,NA,G
+3575,Royalty,Scotland,1,NA,NA,G
+3576,RR,Scotland,1,NA,NA,G
+3577,RÚA,United States,1,NA,NA,G
+3578,Ruadh Maor,Scotland,6,4,85.06,C
+3579,Ruby of Islay,Scotland,2,2,86.55,C
+3580,Rugenbräu,Switzerland,44,35,82.89,D
+3581,Run for the Roses,United States,2,NA,NA,G
+3582,Runrig,Scotland,1,1,83.5,D
+3583,Russell's Reserve,United States,44,26,85.42,C
+3584,Russenschnaps,,1,1,89.89,C
+3585,Rutherford & Kay,Scotland,1,NA,NA,G
+3586,Rutherford's,Scotland,22,3,78.33,E
+3587,RWO Malocherwhisky,Germany,2,1,81,D
+3588,Ryan & Wood,United States,1,NA,NA,G
+3589,Rye Royal,United States,1,NA,NA,G
+3590,Rye Whiskey 30,United States,1,NA,NA,G
+3591,Ryemageddon,United States,1,1,77,E
+3592,S & S Scotch,Scotland,1,NA,NA,G
+3593,S. S. P.,United States,1,1,84,D
+3594,S.S. Pierce,United States,4,1,88,C
+3595,Saburomaru,Japan,3,3,92.17,B
+3596,Saccone & Speed,Scotland,2,NA,NA,G
+3597,Sächsischer Single Malt,Germany,1,1,74.5,F
+3598,Sacred,United Kingdom,1,NA,NA,G
+3599,Saense Whisky,Netherlands,2,1,58,G
+3600,Safari Whisky,Kenya,1,1,61,G
+3601,Sagamore Spirit,United States,1,NA,NA,G
+3602,Saillt Mór,Germany,10,5,82.48,D
+3603,Sailor's,Scotland,2,NA,NA,G
+3604,Sainsbury's,Scotland,11,7,78.55,E
+3605,Saint Isidore,Scotland,1,1,86,C
+3606,Sainte Claire Club,Scotland,1,NA,NA,G
+3607,Salm Bräu,Austria,1,NA,NA,G
+3608,Salty Breeze,Scotland,2,NA,NA,G
+3609,Saltyre,Scotland,2,2,83.25,D
+3610,Sam Barton,Canada,2,1,70,F
+3611,Sam Clay,United States,4,NA,NA,G
+3612,Sam Houston,United States,7,4,78.06,E
+3613,Sam Schatz,Scotland,1,NA,NA,G
+3614,Sam Thompson,United States,1,NA,NA,G
+3615,Samaroli by Samaroli,Scotland,8,1,75.5,E
+3616,Samaroli Diamond,Scotland,1,NA,NA,G
+3617,Same as 10k,Scotland,1,1,86.86,C
+3618,Samrock,United States,1,1,76,E
+3619,Samuel Grant,United States,1,NA,NA,G
+3620,Samuel Smith & Son,Australia,7,2,84,D
+3621,San Diego Distillery,United States,3,NA,NA,G
+3622,San Graal,Belgium,2,2,71.28,F
+3623,Sandeman,Scotland,6,1,64,G
+3624,Sandend,Scotland,1,1,87.11,C
+3625,Sandend Bay,Scotland,3,3,83.69,D
+3626,Sandy Macdonald,Scotland,5,3,83.08,D
+3627,Sandy Macnab's,Scotland,7,4,83.46,D
+3628,Sandy Macniel,United States,NA,NA,NA,G
+3629,Sandy Ross,Scotland,1,NA,NA,G
+3630,Sankt Johann,Germany,1,NA,NA,G
+3631,Säntis Malt,Switzerland,161,133,83.18,D
+3632,Säntisblick,Switzerland,6,4,56.46,G
+3633,Sapporo,Japan,3,2,82.5,D
+3634,Saturday,Japan,2,NA,NA,G
+3635,Saunders',Scotland,3,NA,NA,G
+3636,Savoy,,1,1,69,G
+3637,Sazerac,United States,22,18,88.99,C
+3638,Sbell,Angola,1,NA,NA,G
+3639,Scalloway,Scotland,1,NA,NA,G
+3640,Scallywag,Scotland,15,15,88.16,C
+3641,Scapa,Scotland,312,177,83.92,D
+3642,Schenley,Canada,16,3,75.67,E
+3643,Schloss Marienburg,Germany,1,NA,NA,G
+3644,Schlosswhisky,Germany,4,1,79.38,E
+3645,Schnucks,United States,1,NA,NA,G
+3646,Schraml,Germany,1,NA,NA,G
+3647,Schwäbischer Whisky,Germany,5,1,70,F
+3648,Schwane Destillerie,Germany,6,4,83.67,D
+3649,Schwarzbuebe,Switzerland,1,1,72,F
+3650,Schwarze,Germany,1,NA,NA,G
+3651,Schwarzer Pirat,Germany,4,2,77.34,E
+3652,Schwarzwälder Whisky,Germany,1,1,71,F
+3653,Schwenker,Germany,3,2,86.5,C
+3654,Scot's Castle,Scotland,1,NA,NA,G
+3655,Scotch  Label,Scotland,2,NA,NA,G
+3656,Scotch Blue,Scotland,2,2,74,F
+3657,Scotch Clan,Scotland,1,NA,NA,G
+3658,Scotch Clarion,Scotland,1,1,60,G
+3659,Scotch Flag,Scotland,1,NA,NA,G
+3660,Scotch Forest,Scotland,1,NA,NA,G
+3661,Scotch Guard,Scotland,4,NA,NA,G
+3662,Scotch Islay Single Malt Whisky,Scotland,1,1,89.5,C
+3663,Scotch Malt Whisky,Scotland,3,2,83.62,D
+3664,Scotch No. 10,Scotland,6,1,79.25,E
+3665,Scotch Ocean,Scotland,1,NA,NA,G
+3666,Scotch on the Rocks,Scotland,1,NA,NA,G
+3667,Scotch Rill,Scotland,2,NA,NA,G
+3668,Scotch Universe,Scotland,51,48,86.35,C
+3669,Scotch Whisky,Scotland,10,4,80.25,D
+3670,Scotchman,Scotland,2,1,58.5,G
+3671,Scotchwhisky.com,Scotland,1,1,87,C
+3672,Scotia Royale,Scotland,2,1,80.75,D
+3673,Scotland's Ripe Old Age,Scotland,1,NA,NA,G
+3674,Scots Grey,Scotland,NA,NA,NA,G
+3675,Scots Guards,Scotland,1,NA,NA,G
+3676,Scots Knight,Scotland,1,NA,NA,G
+3677,Scots Poet,Scotland,1,NA,NA,G
+3678,Scott & Baxter,,5,NA,NA,G
+3679,Scott's Special,Scotland,1,1,82.67,D
+3680,Scottish Arch-Duke,Scotland,1,NA,NA,G
+3681,Scottish Buiterling,Germany,5,3,86.67,C
+3682,Scottish Castle,Scotland,1,NA,NA,G
+3683,Scottish Castles,Scotland,2,NA,NA,G
+3684,Scottish Collie,Scotland,3,2,67.34,G
+3685,Scottish Cream,Scotland,1,NA,NA,G
+3686,Scottish Crown,Scotland,1,NA,NA,G
+3687,Scottish Dance,Scotland,2,NA,NA,G
+3688,Scottish Glen,Scotland,1,NA,NA,G
+3689,Scottish Glory,Scotland,3,2,70,F
+3690,Scottish Leader,Scotland,19,11,76.45,E
+3691,Scottish Majesty,Scotland,2,NA,NA,G
+3692,Scottish Parliament,Scotland,5,1,85,C
+3693,Scottish Peer,Scotland,1,NA,NA,G
+3694,Scottish Prince,Scotland,1,1,77,E
+3695,Scottish Queen,Scotland,1,NA,NA,G
+3696,Scottish Royal,Scotland,2,NA,NA,G
+3697,Scriptor,Germany,6,3,70.83,F
+3698,Sculte,Netherlands,8,4,85.21,C
+3699,Seagram's,Canada,41,18,75.39,E
+3700,Seamróg,Ireland,1,1,84.25,D
+3701,Sean's Bar,Ireland,1,1,83,D
+3702,Seann Phortrigh,Scotland,1,NA,NA,G
+3703,Seattle Distilling,United States,1,NA,NA,G
+3704,Second Glance,United States,1,1,84,D
+3705,Secret Bottlings Series,Scotland,21,17,83.94,D
+3706,Secret Casks,Scotland,1,1,86.6,C
+3707,Secret Distillery,Scotland,7,7,85.54,C
+3708,Secret Highland,Scotland,1,1,83,D
+3709,Secret Islay,Scotland,6,2,86.8,C
+3710,Secret Orkney Distillery,Scotland,1,1,86.72,C
+3711,Secret Speyside Distillery,Scotland,7,6,88.07,C
+3712,Secrets of Islay,Scotland,1,1,85.33,C
+3713,Seetaler Ur-Dinkel,Switzerland,8,5,83.6,D
+3714,Selection from Islay,Scotland,3,1,67,G
+3715,Selkie,Scotland,1,1,83.56,D
+3716,Sempione,Switzerland,1,NA,NA,G
+3717,Senator Corby,United States,1,NA,NA,G
+3718,Sennachie,Scotland,2,2,94,B
+3719,Seppelbauer,Austria,1,NA,NA,G
+3720,Serendipity,Scotland,1,1,83.45,D
+3721,Setter,United States,1,NA,NA,G
+3722,Seute Deern,Germany,4,2,79.67,E
+3723,Seven Brothers,United States,1,NA,NA,G
+3724,Seven Devils,United States,1,NA,NA,G
+3725,Seven Eleven,Scotland,1,NA,NA,G
+3726,Seven Islands,Scotland,1,1,84.5,D
+3727,Seven Oaks,United States,3,1,68,G
+3728,Seven Stills of San Francisco,United States,4,3,84.33,D
+3729,Seventeen Twelve,United States,2,1,80.29,D
+3730,Seventieth Anniversary Malt,Scotland,1,1,87.9,C
+3731,Shady Springs,United States,1,NA,NA,G
+3732,Shanahan's,Ireland,2,2,76.5,E
+3733,Share & Enjoy,Scotland,1,1,87,C
+3734,Shaw,Ireland,1,1,76,E
+3735,Shays' Rebellion,United States,1,NA,NA,G
+3736,Sheep Dip,Scotland,23,17,79.73,E
+3737,Sheeps under Palms,Germany,1,1,88,C
+3738,Sheffer Fort,United States,4,2,47.5,G
+3739,Shefford Manor,Canada,1,1,67,G
+3740,Shelter Distilling,United States,1,NA,NA,G
+3741,Shelter Point,Canada,7,3,86.89,C
+3742,Shenk's Homestead,United States,3,3,85.5,C
+3743,Shenton A. L.,Canada,1,NA,NA,G
+3744,Sherbrook,United States,1,1,90,B
+3745,Sherry,Scotland,2,1,83.24,D
+3746,Sherry Bomb,Germany,2,2,89.36,C
+3747,Sherry Cask Collection,Scotland,6,6,86.59,C
+3748,Sherry Darling,Sweden,4,4,82.32,D
+3749,Sherwood,United States,1,NA,NA,G
+3750,Shetland,Scotland,1,NA,NA,G
+3751,Shetland Reel,Scotland,7,2,85.5,C
+3752,Shieldaig,Scotland,11,3,80.58,D
+3753,Shin,Japan,2,2,79,E
+3754,Shinshu,Japan,124,88,86.42,C
+3755,Shippen Bros.,United States,2,2,81.67,D
+3756,Shirakawa,Japan,NA,NA,NA,G
+3757,Shootlands,Scotland,1,NA,NA,G
+3758,Shore Porters' Society,Scotland,1,NA,NA,G
+3759,Short Mountain,United States,1,NA,NA,G
+3760,Shyte Whisky,Scotland,1,1,83,D
+3761,SIA,Scotland,1,1,75,E
+3762,Siar-Port,Scotland,1,1,81,D
+3763,Signature,India,1,1,72,F
+3764,Sikkim,India,4,4,58,G
+3765,Sild,Germany,3,2,83.9,D
+3766,Silkie,Ireland,1,1,61.67,G
+3767,Silver Barley,Scotland,1,NA,NA,G
+3768,Silver Coyote,United States,1,1,81,D
+3769,Silver Pitcher,United States,1,NA,NA,G
+3770,Silver Seal,Scotland,15,11,76.25,E
+3771,Silver Star,United States,1,NA,NA,G
+3772,Silverhorn,United States,1,NA,NA,G
+3773,Silverstone,Scotland,2,NA,NA,G
+3774,Simon's,Germany,2,1,71.5,F
+3775,Simpson's,Scotland,2,NA,NA,G
+3776,Sin-Gold,Germany,8,5,73.87,F
+3777,Single Barrel Light Whiskey,United States,4,2,80.5,D
+3778,Single Barrel Rye Whiskey,United States,1,1,82,D
+3779,Single Cask Single Island Malt,Scotland,1,1,84.67,D
+3780,Single Cask Single Islay Malt,Scotland,4,2,82,D
+3781,Single Cask Whisky,,3,3,90.74,B
+3782,Single Grain Scotch Whisky,Scotland,2,2,81.13,D
+3783,Single Highland Malt,Scotland,3,1,86.25,C
+3784,Single Highland Malt Whisky,Scotland,1,NA,NA,G
+3785,Single Irish Malt,Ireland,2,1,78,E
+3786,Single Island Malt,Scotland,6,3,86.33,C
+3787,Single Islay Malt,Scotland,12,7,83.89,D
+3788,Single Islay Malt Scotch Whisky,Scotland,3,2,80.67,D
+3789,Single Lowland Grain,Scotland,1,1,90.92,B
+3790,Single Lowland Malt,Scotland,3,2,80.75,D
+3791,Single Malt,,3,1,86.18,C
+3792,Single Malt Highland Scotch Whisky,Scotland,1,NA,NA,G
+3793,Single Malt Irish Whiskey,Ireland,25,23,86.65,C
+3794,Single Malt Scotch Whisky,Scotland,10,3,79.83,E
+3795,Single Malt Speyside Scotch Whisky,Scotland,1,1,73,F
+3796,Single Malt Whisky,,2,2,85.25,C
+3797,Single Speyside,Scotland,2,1,86,C
+3798,Single Speyside Malt,Scotland,4,1,88.47,C
+3799,Single Speyside Malt Scotch Whisky,Scotland,2,1,87,C
+3800,Single-single,Scotland,13,9,86.94,C
+3801,Sintez Group & Co,Scotland,1,NA,NA,G
+3802,Siobhán,Ireland,1,1,90.21,B
+3803,Sir Connery,Scotland,1,1,64.33,G
+3804,Sir Edward's,Scotland,11,3,62.92,G
+3805,Sir Frederic,Scotland,1,NA,NA,G
+3806,Sir Harald,Scotland,1,NA,NA,G
+3807,Sir James,Scotland,1,NA,NA,G
+3808,Sir No. 1,Scotland,1,NA,NA,G
+3809,Sir Pitterson,Scotland,2,1,31,G
+3810,Sir Walter Raleigh,Scotland,5,1,68,G
+3811,Six & Twenty,United States,1,NA,NA,G
+3812,Skagit Moon,United States,NA,NA,NA,G
+3813,Skara Brae,Scotland,4,2,86.41,C
+3814,Skara Brae,Scotland,1,1,83,D
+3815,Skerridhu,Scotland,1,1,84,D
+3816,Skibbereen Eagle,Ireland,NA,NA,NA,G
+3817,Skip Rock,United States,1,NA,NA,G
+3818,Skot'Tiche,Belgium,1,1,51,G
+3819,Skotlantilaista Whiskyä,Scotland,1,NA,NA,G
+3820,SKScott,Scotland,1,NA,NA,G
+3821,Skye,Scotland,1,1,96,A
+3822,Slaintheva,Scotland,8,4,81.2,D
+3823,Slane,Ireland,3,3,76.83,E
+3824,Slane Castle,Ireland,2,2,72.75,F
+3825,Slaughter House,United States,1,1,85.33,C
+3826,Sleipnir,France,1,1,75,E
+3827,Slieve Foy,Ireland,3,1,85,C
+3828,Slitisian,Germany,4,3,60.83,G
+3829,Slochmor,Scotland,1,1,85,C
+3830,Sloupisti,Germany,13,12,73.75,F
+3831,Slow Hand,United States,2,1,75,E
+3832,Slyrs,Germany,115,80,77.16,E
+3833,SmallestWhiskyBarOnEarth,Switzerland,29,13,79.26,E
+3834,Smo'key,Scotland,2,NA,NA,G
+3835,Smögen,Sweden,34,27,85.77,C
+3836,Smoke Bomb,Scotland,1,1,82.75,D
+3837,Smoked!,Scotland,1,1,82,D
+3838,Smokehead,Scotland,15,12,83.48,D
+3839,Smokestack,Scotland,1,1,83.5,D
+3840,Smokey Joe,Scotland,2,1,79.87,E
+3841,Smokin',Scotland,1,1,78.44,E
+3842,Smokin' Islay Malt,Scotland,1,1,87.85,C
+3843,Smoking Buffalo,Scotland,7,7,86.82,C
+3844,Smoking Islay,Scotland,52,40,84.84,D
+3845,Smoking Mill,Scotland,1,1,90,B
+3846,Smoky Goat,Scotland,1,1,74.92,F
+3847,Smoky Voice,Scotland,1,1,87.17,C
+3848,Smooth Ambler,United States,143,40,83.96,D
+3849,Smooth Gentleman,Scotland,4,3,79.11,E
+3850,Smuggler's Vintage Cask,Scotland,1,1,87,C
+3851,Smugglers' Notch,United States,4,NA,NA,G
+3852,Snake River,United States,1,1,17,G
+3853,Society of Bourbon Connoisseurs,United States,6,2,83,D
+3854,Solo,Scotland,1,NA,NA,G
+3855,Somerset,Scotland,1,NA,NA,G
+3856,Something Special,Scotland,21,12,82.67,D
+3857,Somewhere from the Speyside,Scotland,2,1,80.57,D
+3858,Somewhere in Ireland,Ireland,1,1,89.43,C
+3859,Somewhere in Speyside,Scotland,1,1,91.59,B
+3860,Somewhere in the Speyside Region,Scotland,1,1,89.17,C
+3861,Son of a Gun,United Kingdom,1,NA,NA,G
+3862,Son of a Peat,Scotland,1,NA,NA,G
+3863,Sonnenbräu,Switzerland,6,4,78.38,E
+3864,Sonnenscheiner,Germany,4,4,71.11,F
+3865,Sonoma County,United States,16,13,85.17,C
+3866,Sons of Liberty,United States,6,4,78.5,E
+3867,Sound of Iona,Scotland,1,NA,NA,G
+3868,Sound of Islay,Scotland,2,2,83.5,D
+3869,South Boston,United States,1,1,70,F
+3870,South Island,New Zealand,9,6,81.32,D
+3871,South Islay Jewel,Scotland,1,1,89,C
+3872,South Islay Single Malt,Scotland,1,1,85.5,C
+3873,South of Islay,Scotland,2,2,84.68,D
+3874,South Shore,Scotland,3,3,85.44,C
+3875,South Shore Islay Malt,Scotland,1,1,84.6,D
+3876,Southern Artisan Spirits,United States,2,NA,NA,G
+3877,Southern Coast Distillers,Australia,8,2,83.5,D
+3878,Southern Grain Spirits,New Zealand,1,1,65.33,G
+3879,Southern Islay Single Malt Scotch Whisky,Scotland,1,1,80.67,D
+3880,Southern Star,United States,5,NA,NA,G
+3881,Southern Tier,United States,2,NA,NA,G
+3882,Southshore,Scotland,2,2,87.45,C
+3883,Spade&Bushel,Ireland,1,1,81,D
+3884,Speakeasy,United States,1,NA,NA,G
+3885,Speakeasy Select,United States,1,NA,NA,G
+3886,Special Islay Malt,Scotland,10,10,84.09,D
+3887,Special Malt,Scotland,1,NA,NA,G
+3888,Special Reserve,Scotland,5,NA,NA,G
+3889,Special Speyside Malt,Scotland,1,1,85.83,C
+3890,Special Vatting,Scotland,7,6,82.58,D
+3891,Speireag,Scotland,1,1,89,C
+3892,Spencer Club,Scotland,1,1,77.5,E
+3893,Sperbers,Germany,3,1,84,D
+3894,SPEY,Scotland,27,19,83.22,D
+3895,Spey River,Scotland,3,1,77.67,E
+3896,Spey Royal,Scotland,6,2,84,D
+3897,Spey Vintage,Scotland,1,NA,NA,G
+3898,Speybridge,Scotland,5,4,85.64,C
+3899,Speyburn,Scotland,138,104,83.14,D
+3900,Speymhor,Scotland,1,1,72.5,F
+3901,Speyside,Scotland,84,61,84.52,D
+3902,Speyside Blended Malt Scotch Whisky,Scotland,2,NA,NA,G
+3903,Speyside Cooperage,Scotland,3,3,75.87,E
+3904,Speyside distilled in Ballindalloch,Scotland,2,1,93,B
+3905,Speyside Distillery,Scotland,183,123,83.98,D
+3906,Speyside Finest,Scotland,3,3,88.55,C
+3907,Speyside Glenlivet Region,Scotland,1,1,87.6,C
+3908,Speyside Hero,Scotland,2,2,89.07,C
+3909,Speyside King,Scotland,1,1,85.25,C
+3910,Speyside Malt,Scotland,12,6,90.49,B
+3911,Speyside Mysteria,Scotland,4,4,88.16,C
+3912,Speyside Region,Scotland,62,56,89.46,C
+3913,Speyside Region Malt,Scotland,9,6,91.3,B
+3914,Speyside Region Selection,Scotland,5,5,87.17,C
+3915,Speyside Reserve,Scotland,3,2,82.75,D
+3916,Speyside Single Malt,Scotland,7,5,90.79,B
+3917,Speyside Single Malt Scotch Whisky,Scotland,12,7,85.48,C
+3918,Speyside's Finest Distillery,Scotland,4,3,91.28,B
+3919,Speysider,Scotland,1,1,88,C
+3920,Spezialitätenbrauerei Eckart,Germany,5,NA,NA,G
+3921,Spica,Scotland,1,NA,NA,G
+3922,Spice King,Scotland,9,8,80.61,D
+3923,Spillers Bonio,Scotland,1,NA,NA,G
+3924,Spinnaker,Germany,15,8,72.49,F
+3925,Spirale,Scotland,3,3,90.33,B
+3926,Spirit Collection,Scotland,6,NA,NA,G
+3927,Spirit Hound,United States,1,1,81,D
+3928,Spirit of Aarhus,Denmark,1,1,76,E
+3929,Spirit of Boston,United States,1,NA,NA,G
+3930,Spirit of Dublin,Ireland,3,2,69.25,G
+3931,Spirit of Freedom,Scotland,4,4,82.31,D
+3932,Spirit of Memories,,1,1,87.5,C
+3933,Spirit of Mensa,Scotland,3,1,88,C
+3934,Spirit of Munro,New Zealand,1,NA,NA,G
+3935,Spirit of Robyn Hoode,Scotland,4,NA,NA,G
+3936,Spirit of Speyside Whisky Festival,Scotland,12,5,78.53,E
+3937,Spirit of TOAD,United Kingdom,1,1,86,C
+3938,Spirit of Unity,Scotland,1,1,83.19,D
+3939,Spirit of Yorkshire Distillery,United Kingdom,2,2,89,C
+3940,Spirit Works,United States,1,NA,NA,G
+3941,Spiritz of the Isles,Scotland,1,1,84.75,D
+3942,Split Rock,United States,1,1,81.33,D
+3943,Sporting,Portugal,NA,NA,NA,G
+3944,Spring 44,United States,1,NA,NA,G
+3945,Spring Mill,United States,1,NA,NA,G
+3946,Spring River,United States,3,NA,NA,G
+3947,Springavulin,Scotland,1,1,85,C
+3948,Springbank,Scotland,2081,1553,88.72,C
+3949,Spyniemor,Scotland,2,1,90,B
+3950,Square One,United States,1,NA,NA,G
+3951,Squires,Scotland,1,NA,NA,G
+3952,St Magdalene,Scotland,124,97,89.09,C
+3953,St. Andrews,,2,2,86.12,C
+3954,St. Augustine,United States,1,NA,NA,G
+3955,St. Beccan's Dram,Ireland,1,1,89.5,C
+3956,St. Declan’s Well,Ireland,1,1,90.64,B
+3957,St. Edmund Hall,Scotland,1,NA,NA,G
+3958,St. George,Philippines,1,NA,NA,G
+3959,St. George (RU),Russian Federation,1,1,82,D
+3960,St. George Spirits,United States,16,9,78.63,E
+3961,St. James' Blend,Scotland,1,1,82,D
+3962,St. James's,Scotland,5,1,84,D
+3963,St. Kilian,Germany,12,11,81.31,D
+3964,St. Mirren F.C.,Scotland,1,NA,NA,G
+3965,St. Patrick's,Ireland,5,4,80.78,D
+3966,St. Patrick's Prayer,Ireland,1,1,90.07,B
+3967,Stadler,Germany,1,NA,NA,G
+3968,Stage Coach,United States,1,NA,NA,G
+3969,Stagg Jr.,United States,11,10,87.53,C
+3970,Stalk & Barrel,Canada,26,17,79.97,E
+3971,Stammheimer,Switzerland,3,1,72.67,F
+3972,Standard Wormwood,United States,3,NA,NA,G
+3973,Staoisha,Scotland,1,1,82,D
+3974,Stark Spirits,United States,5,NA,NA,G
+3975,Starkenberg,Austria,4,1,71.91,F
+3976,Starlight Distillery,United States,3,NA,NA,G
+3977,Starrag Clach,Switzerland,1,NA,NA,G
+3978,Stars & Stripes,United States,5,1,65,G
+3979,Starward,Australia,8,5,82.2,D
+3980,Statesman,Scotland,6,2,53.85,G
+3981,Stauning,Denmark,56,46,78.18,E
+3982,Steaming in the Highlands,Scotland,NA,NA,NA,G
+3983,Steel Bonnets,United Kingdom,1,NA,NA,G
+3984,Stein,United States,5,NA,NA,G
+3985,Steirischer Whisky,Austria,1,NA,NA,G
+3986,Sterling,Scotland,1,NA,NA,G
+3987,Sterling Reserve,India,NA,NA,NA,G
+3988,Stewart,United States,1,NA,NA,G
+3989,Stewart's,Scotland,2,NA,NA,G
+3990,Stewarts Cream of the Barley,Scotland,9,8,83.17,D
+3991,Stewarts Dundee,United Kingdom,9,3,83.06,D
+3992,Still Waters,Scotland,1,NA,NA,G
+3993,Stillbrook,United States,8,2,81.1,D
+3994,Stillhouse,United States,1,1,55.5,G
+3995,StilltheOne,United States,2,1,83,D
+3996,Stinghers,Scotland,1,NA,NA,G
+3997,Stirling Castle,Scotland,1,1,83.25,D
+3998,Stitzel-Weller,United States,1,NA,NA,G
+3999,Stoaninger,Austria,1,1,77.5,E
+4000,Stock Plzeň,Czech Republic,2,NA,NA,G
+4001,Stöfflbräu,Austria,1,1,72.5,F
+4002,Stokerij De Onrust,Netherlands,3,2,60.34,G
+4003,Stolen Whiskey,United States,1,NA,NA,G
+4004,Stolen Youth,United Kingdom,NA,NA,NA,G
+4005,Stone Barn,United States,3,NA,NA,G
+4006,Stone Castle,United States,1,NA,NA,G
+4007,Stone of Manhood,Scotland,1,NA,NA,G
+4008,StoneHammer,United States,1,NA,NA,G
+4009,Stonewall Malts,Germany,2,2,89.94,C
+4010,Stonewood,Germany,11,7,60.05,G
+4011,Stork Club,Germany,6,3,77.56,E
+4012,Storm,Scotland,2,2,80.34,D
+4013,Störtebeker,Germany,2,1,76.5,E
+4014,Straight Bourbon Whiskey,United States,9,6,88.65,C
+4015,Straight Edge,United States,1,1,82.7,D
+4016,Straight from the Cask,Scotland,3,2,87.84,C
+4017,Straight Rye Whiskey,United States,1,NA,NA,G
+4018,Stranahan's,United States,21,13,85.74,C
+4019,Strangford,Ireland,2,1,72,F
+4020,Strathayr,Scotland,2,1,77,E
+4021,Strathbeag,Scotland,1,1,80,D
+4022,Strathblair,Scotland,1,NA,NA,G
+4023,Strathclyde,Scotland,125,91,85.92,C
+4024,Strathcolm,Scotland,3,3,78.47,E
+4025,Strathconon,Scotland,4,2,84.5,D
+4026,Strathearn,Scotland,19,8,81.51,D
+4027,Stratheden,Scotland,10,6,80.32,D
+4028,Strathglen,Scotland,1,NA,NA,G
+4029,Strathisla,Scotland,489,390,88.01,C
+4030,Strathmill,Scotland,316,235,84.59,D
+4031,Strathmore,Scotland,5,2,87.58,C
+4032,Strathspey,Scotland,2,2,82.34,D
+4033,Straw Boys,Ireland,1,NA,NA,G
+4034,Stronachie,Scotland,21,18,79.88,E
+4035,Strong's,Scotland,1,NA,NA,G
+4036,STRT,Scotland,1,NA,NA,G
+4037,Stuart,Scotland,1,NA,NA,G
+4038,Stuart's,Scotland,1,NA,NA,G
+4039,Stuart's,United States,2,NA,NA,G
+4040,Sugarlands,United Arab Emirates,2,2,76.5,E
+4041,Sullivans Cove,Australia,90,59,84.18,D
+4042,Sun Shine,Japan,6,4,85.44,C
+4043,Sunken Still,Belgium,1,1,74,F
+4044,Sunny Brook,United States,2,NA,NA,G
+4045,Suntory,Japan,248,98,83.67,D
+4046,Supreme,Scotland,1,1,87,C
+4047,Surselva Bräu,Switzerland,5,1,66.25,G
+4048,Susquehanna,United States,1,NA,NA,G
+4049,Swabbie Whiskey,United States,2,NA,NA,G
+4050,Sweden Rock,Scotland,2,2,69.82,G
+4051,Swhisky,Switzerland,10,6,59.42,G
+4052,Swiss Single Malt Whisky,Switzerland,1,1,85,C
+4053,Swiss Stone Eagle,Switzerland,1,NA,NA,G
+4054,Swissky,Switzerland,9,4,77.71,E
+4055,Swn Y Mor,United Kingdom,6,1,50,G
+4056,Sword's,Scotland,1,NA,NA,G
+4057,Sword's Gauntlet,Scotland,1,NA,NA,G
+4058,Sylter Ellenbogen,Germany,NA,NA,NA,G
+4059,Sylter Offshore,Germany,1,1,75.67,E
+4060,Sylter Tide Whisky,Germany,1,1,68.9,G
+4061,Sylter Watt,Germany,5,2,80,D
+4062,Symphony,Scotland,1,1,85,C
+4063,Syndicate 58/6,Scotland,2,1,82.5,D
+4064,T-spooned Malt Whisky,Scotland,1,1,84.67,D
+4065,T-Spooned Speyside Blended Malt Whisky,Scotland,1,1,76,E
+4066,T.J. Pottinger,United States,6,NA,NA,G
+4067,T.W. Samuels,United States,3,NA,NA,G
+4068,Tacoma,United States,1,1,79,E
+4069,Taconic Distillery,United States,5,NA,NA,G
+4070,Tahoe Moonshine,United States,1,NA,NA,G
+4071,Taketsuru,Japan,49,37,86.24,C
+4072,Talimburg,Scotland,1,1,86.85,C
+4073,Talisker,Scotland,544,451,86.93,C
+4074,Tall Ships Race,Scotland,1,NA,NA,G
+4075,Tam O' Shanter,Scotland,1,NA,NA,G
+4076,Tambowie,Scotland,2,1,79,E
+4077,Tamdhu,Scotland,396,286,84.96,D
+4078,Tamifroyg,Scotland,1,1,88.88,C
+4079,Tammer,Germany,1,NA,NA,G
+4080,Tammie,Scotland,1,NA,NA,G
+4081,Tamnavulin,Scotland,173,123,85.39,C
+4082,Tangle Ridge,Canada,1,1,71,F
+4083,Tanners,Scotland,2,NA,NA,G
+4084,Tantallan,Scotland,9,3,80.53,D
+4085,Taos Lightning,United States,4,NA,NA,G
+4086,TAP,Canada,3,2,70.94,F
+4087,Taplows,Scotland,1,NA,NA,G
+4088,Taranis,Germany,3,2,79,E
+4089,Taranty,Scotland,3,1,90,B
+4090,Tarracroy,Scotland,3,1,90.5,B
+4091,Tartan Pride,Scotland,1,1,80,D
+4092,Tartans,Scotland,1,NA,NA,G
+4093,Tasgall,Scotland,2,2,83.26,D
+4094,Tasters' Choice,Scotland,3,3,88.67,C
+4095,Tasty Creations,Scotland,16,10,83.27,D
+4096,Tatoosh,United States,3,2,75.5,E
+4097,Tattersall,United States,1,1,86,C
+4098,Tawny Corn,Switzerland,3,NA,NA,G
+4099,Tax Collector,Scotland,3,1,80.5,D
+4100,Taylor,United States,1,NA,NA,G
+4101,Tayside,Scotland,3,2,81,D
+4102,Té Bheag,Scotland,8,6,81.73,D
+4103,Teacher's,Scotland,44,26,79.09,E
+4104,Teaghlach,Germany,1,1,89.86,C
+4105,Teaninich,Scotland,301,208,86.22,C
+4106,Tecker,Germany,19,9,72.28,F
+4107,Teeling,Ireland,193,158,84.58,D
+4108,Teerenpeli,Finland,29,26,80.74,D
+4109,Teith Mill,Scotland,3,NA,NA,G
+4110,Telser,Liechtenstein,17,13,77.7,E
+4111,Temperance Distilling,United States,1,NA,NA,G
+4112,Temperance Trader,United States,4,1,83,D
+4113,Templeton,United States,7,7,81.51,D
+4114,Temptation,United States,1,NA,NA,G
+4115,Ten Distilleries,Japan,1,NA,NA,G
+4116,Ten High,United States,11,5,83.4,D
+4117,Tennessee Bourbon,United States,6,5,86.98,C
+4118,Tennessee Spirits Company,United States,3,1,84,D
+4119,Tennessee Straight Bourbon,United States,1,NA,NA,G
+4120,Tennessee Walker,United States,1,NA,NA,G
+4121,Tennessee Whisky,United States,2,1,85.67,C
+4122,Texa Dram,Scotland,1,1,87.85,C
+4123,Texas Ligation,United States,2,1,80,D
+4124,Texas Longhorn,United States,1,NA,NA,G
+4125,Texelse,Netherlands,6,5,77.28,E
+4126,Thane of Cawdor,Scotland,1,NA,NA,G
+4127,The '90s,Scotland,1,1,90,B
+4128,The 15 Para Blend,Scotland,1,NA,NA,G
+4129,The Abbot's Choice,Scotland,15,4,80.13,D
+4130,The Akkeshi,Japan,2,1,76.67,E
+4131,The Alloway,Scotland,1,1,89,C
+4132,The Alrik,Germany,13,13,90.34,B
+4133,The Ambassador,United States,1,1,88,C
+4134,The An Linnean Blend,Scotland,1,1,91,B
+4135,The Annan,Scotland,1,1,89,C
+4136,The Antiquary,Scotland,41,23,81.14,D
+4137,The Argyll And Sutherland Highlanders,Scotland,3,NA,NA,G
+4138,The Aubigny Auld Alliance,France,1,NA,NA,G
+4139,The Auchtertyre,Scotland,1,1,87,C
+4140,The Auld Brig,Scotland,1,1,81,D
+4141,The Bailie Nicol Jarvie,Scotland,6,4,80.2,D
+4142,The Ballydoyle,Ireland,1,NA,NA,G
+4143,The Banks O' Doon,Scotland,1,1,87,C
+4144,The Bard's Best,Scotland,1,1,19,G
+4145,The Belgian Owl,Belgium,69,43,78.14,E
+4146,The Bennachie,Scotland,12,4,82.31,D
+4147,The Big Smoke,Scotland,7,5,83.38,D
+4148,The Big Strand,Scotland,1,1,83.29,D
+4149,The Big T,United States,1,NA,NA,G
+4150,The Biggar,Scotland,1,1,81,D
+4151,The Bitter Truth,United States,1,1,89.75,C
+4152,The Black Diamond,Scotland,1,1,87,C
+4153,The Black Prince,Scotland,6,NA,NA,G
+4154,The Black Tulip,Scotland,1,NA,NA,G
+4155,The Blender's Reserve,Scotland,1,NA,NA,G
+4156,The Bomb,Scotland,3,1,84,D
+4157,The Breeder's Choice,Argentina,4,NA,NA,G
+4158,The Brisbane,,1,1,86,C
+4159,The Brook,Scotland,1,NA,NA,G
+4160,The Buchanan,Scotland,4,NA,NA,G
+4161,The Budgie Bar,Scotland,1,NA,NA,G
+4162,The Burning Chair,United States,1,NA,NA,G
+4163,The Captain's,Scotland,2,1,80,D
+4164,The Càrn Mòr Blend,Scotland,1,1,78.67,E
+4165,The Carnoustie,Scotland,1,NA,NA,G
+4166,The Centenary Blend,Scotland,1,NA,NA,G
+4167,The Chairman's,Scotland,1,NA,NA,G
+4168,The Challenge,Scotland,2,1,80,D
+4169,The Charles House,Scotland,5,3,50.33,G
+4170,The Chivas and Glenlivet Group,Scotland,1,NA,NA,G
+4171,The Cigar Malt,Scotland,13,9,88.52,C
+4172,The Circus,Scotland,1,1,86.53,C
+4173,The Class,Scotland,1,1,61,G
+4174,The Classic Cask,United States,14,6,91.89,B
+4175,The Claymore,Scotland,8,3,76.33,E
+4176,The Clydeside Distillery,Scotland,1,1,77,E
+4177,The Coaster,New Zealand,2,1,71,F
+4178,The Coldstream Guard,Scotland,1,NA,NA,G
+4179,The Connoisseur's,Scotland,1,1,1,G
+4180,The Corriemhor,Scotland,3,3,83.72,D
+4181,The Dalvey,Scotland,2,1,85,C
+4182,The Dark Secret,Scotland,5,5,87.7,C
+4183,The Dark Side of Islay,Scotland,4,3,88.16,C
+4184,The Darkness,,2,NA,NA,G
+4185,The Deacons Dram,Scotland,1,NA,NA,G
+4186,The Dead Rabbit,United States,1,NA,NA,G
+4187,The Deveron,Scotland,6,6,65.31,G
+4188,The Dew Of The Grampians,Scotland,1,1,84,D
+4189,The Directors' Blend,Scotland,1,NA,NA,G
+4190,The Dirk,Scotland,1,NA,NA,G
+4191,The Doborn,Scotland,1,NA,NA,G
+4192,The Dogs,Scotland,1,1,15,G
+4193,The Doonhamers,Scotland,1,NA,NA,G
+4194,The Double,Scotland,3,2,82.88,D
+4195,The Double Single,Scotland,3,3,88.23,C
+4196,The Douglas Blend,Scotland,1,NA,NA,G
+4197,The Dragon,Scotland,8,7,88.66,C
+4198,The Drake,Scotland,1,NA,NA,G
+4199,The Drumnadrochit Dram,Scotland,1,NA,NA,G
+4200,The Dublin Liberties,Ireland,2,2,79.85,E
+4201,The Dubliner,Ireland,3,2,76.6,E
+4202,The Dundee,Scotland,2,NA,NA,G
+4203,The Earl of Gosford's,Scotland,1,NA,NA,G
+4204,The Earl's,Scotland,1,1,84.67,D
+4205,The Eaton's,Scotland,1,NA,NA,G
+4206,The Edge,Germany,1,1,80.67,D
+4207,The Edrington Blend,Scotland,1,1,87,C
+4208,The Ellisland,Scotland,1,1,82,D
+4209,The Emerald 1865,United States,2,NA,NA,G
+4210,The English Whisky,United Kingdom,237,142,79.79,E
+4211,The Entertainer,Scotland,1,1,89.2,C
+4212,The Epicurean,Scotland,5,2,80.74,D
+4213,The Eriskay,Scotland,1,1,90.33,B
+4214,The Exceptional,Scotland,4,3,88.67,C
+4215,The Exclusive Blend,Scotland,7,5,86.3,C
+4216,The Exec,Scotland,1,NA,NA,G
+4217,The Falkirk Wheel,Scotland,2,NA,NA,G
+4218,The Falls of Dochart,Scotland,1,NA,NA,G
+4219,The Famous Glen,Scotland,1,NA,NA,G
+4220,The Famous Grouse,Scotland,139,88,78.78,E
+4221,The Famous Sinclair 1612,Scotland,1,NA,NA,G
+4222,The Fat Trout,Scotland,4,3,77.67,E
+4223,The Favourite,Scotland,1,NA,NA,G
+4224,The Feathery,Scotland,2,2,82.67,D
+4225,The Final Blend,Scotland,1,NA,NA,G
+4226,The Firkin Whisky,Scotland,NA,NA,NA,G
+4227,The First Footer,Scotland,1,NA,NA,G
+4228,The Fisherman,Scotland,1,1,88,C
+4229,The Five,Scotland,3,1,89,C
+4230,The Formidable Jock of Bennachie,Scotland,2,NA,NA,G
+4231,The Founders Reserve,Scotland,1,1,88,C
+4232,The Four,Scotland,4,3,88.33,C
+4233,The Frankenporter,New Zealand,1,NA,NA,G
+4234,The Friars Carse,Scotland,1,1,87,C
+4235,The Friend at Hand,Ireland,1,NA,NA,G
+4236,The Fujisan,Japan,1,NA,NA,G
+4237,The Gauldrons,Scotland,2,2,85.09,C
+4238,The General,Scotland,2,1,91.85,B
+4239,The Generous Spirit,Scotland,3,3,78.36,E
+4240,The Gentleman's Blend,Scotland,1,NA,NA,G
+4241,The Gifted Horse,United States,1,1,100,A
+4242,The Gild,Scotland,1,1,77.25,E
+4243,The Glen Dowan,Scotland,5,2,74.5,F
+4244,The Glen Peel,Scotland,2,1,82.33,D
+4245,The Glen Silver's,Scotland,5,4,72.94,F
+4246,The Glenfohry,Scotland,3,2,34,G
+4247,The Glenlivet-Blend,Scotland,2,NA,NA,G
+4248,The Glover,Scotland,4,4,88.6,C
+4249,The Golan Heights Distillery,Israel,3,3,82.56,D
+4250,The Gold Label Whisky,Scotland,1,NA,NA,G
+4251,The Golden Age Blend,Scotland,1,1,89.83,C
+4252,The Good Spirits Co.,Scotland,23,9,82.94,D
+4253,The Gordon Highlander's,Scotland,1,1,79.11,E
+4254,The Great Glen,Scotland,3,3,69.56,G
+4255,The Great Macaulay,Scotland,2,2,75,E
+4256,The Green Welly Stop,United Kingdom,1,NA,NA,G
+4257,The Greybeard,Scotland,1,1,72,F
+4258,The Grove,Australia,1,1,40,G
+4259,The Half-Century Blend,Scotland,3,3,88.71,C
+4260,The Hampden Roar,Scotland,1,NA,NA,G
+4261,The Hielanman,Scotland,4,NA,NA,G
+4262,The Highland Fox,Scotland,1,NA,NA,G
+4263,The Highlander,Scotland,1,1,82,D
+4264,The Hilhaven Lodge,United States,1,NA,NA,G
+4265,The Hive,Scotland,8,6,79.87,E
+4266,The Hoebeg,Scotland,4,2,81.67,D
+4267,The Hollow Mountain,Scotland,1,NA,NA,G
+4268,The House of Alister MacKenzie,,1,1,84.5,D
+4269,The House of Bruar,Scotland,1,1,80,D
+4270,The Hunter,Scotland,1,NA,NA,G
+4271,The Huntly,Scotland,3,3,84,D
+4272,The Ileach,Scotland,11,8,82.49,D
+4273,The Infamous,Scotland,1,1,86.8,C
+4274,The Inverarity,Scotland,10,5,78.1,E
+4275,The Inverness Courier,Scotland,1,NA,NA,G
+4276,The Irish Fiddler,Ireland,1,1,78,E
+4277,The Irishman,Ireland,47,36,82.98,D
+4278,The Isle Of Islay,Scotland,1,1,87,C
+4279,The Jacobite,Scotland,2,NA,NA,G
+4280,The Junior,Scotland,2,NA,NA,G
+4281,The Kenmore,Scotland,1,1,82,D
+4282,The Kincardine,,1,1,86.8,C
+4283,The Knot,Ireland,1,1,70,F
+4284,The Kurayoshi,Japan,13,10,78.46,E
+4285,The Kylesku,Scotland,1,NA,NA,G
+4286,The Lakes,United Kingdom,6,2,81,D
+4287,The Langlander,Poland,1,1,74,F
+4288,The Last Drop,Scotland,10,6,93.24,B
+4289,The Last Fetish,Scotland,1,1,89.8,C
+4290,The Last Hunter,Scotland,1,NA,NA,G
+4291,The Last Vatted Grain,Scotland,1,1,89.8,C
+4292,The Last Vatted Malt,Scotland,1,1,90.27,B
+4293,The Latitude 55°,Scotland,2,1,58,G
+4294,The Legendary,Scotland,20,15,83.79,D
+4295,The Legendary Salty Sea-Dog,Scotland,3,3,80.5,D
+4296,The Lincluden,Scotland,1,1,84,D
+4297,The Little Lighthouse,Scotland,1,1,89,C
+4298,The little smoking monster,Scotland,1,1,80,D
+4299,The Liverpool Whiskey,Ireland,1,NA,NA,G
+4300,The Living Cask,Scotland,2,1,86,C
+4301,The Loch Fyne,Scotland,13,9,80.61,D
+4302,The Lochmaben,Scotland,1,1,87.5,C
+4303,The Lochside,Scotland,1,NA,NA,G
+4304,The London Distillery Company,United Kingdom,2,2,80.5,D
+4305,The London Single Malt Whisky,United Kingdom,8,2,77.5,E
+4306,The Loner,Scotland,1,1,80.25,D
+4307,The Lord Balliol,Scotland,1,NA,NA,G
+4308,The Lord Provost's,Scotland,1,NA,NA,G
+4309,The Lost Blend,Scotland,6,4,83.35,D
+4310,The Lost Distilleries Blend,Scotland,10,8,87.84,C
+4311,The Lübbehusen,Germany,1,1,82.86,D
+4312,The MacKenzie,New Zealand,2,NA,NA,G
+4313,The Maclennan Reserve,Scotland,1,NA,NA,G
+4314,The MacPhunn,Scotland,6,5,87.4,C
+4315,The Manchester Whiskey,Ireland,1,NA,NA,G
+4316,The Mc. Kenney,Scotland,1,NA,NA,G
+4317,The Merry Go Round,Scotland,1,1,91.83,B
+4318,The Mill Burn,Scotland,1,NA,NA,G
+4319,The Modern Masters,Scotland,1,1,89,C
+4320,The Monarch,Scotland,3,NA,NA,G
+4321,The Moray Brand,Scotland,2,NA,NA,G
+4322,The Moray District,Scotland,1,NA,NA,G
+4323,The Most Righteous,United States,1,1,81.5,D
+4324,The Mu-Mei,Japan,1,NA,NA,G
+4325,The Muir of Ord,Scotland,1,NA,NA,G
+4326,The Munro's,Scotland,12,NA,NA,G
+4327,The Murrayfield,Scotland,2,NA,NA,G
+4328,The Naked Grouse,Scotland,4,4,77.09,E
+4329,The Nameless One,Scotland,1,1,86.32,C
+4330,The Nameless Two,Scotland,1,1,86.57,C
+4331,The National Choice,Scotland,2,2,82.25,D
+4332,The Nectar,Scotland,1,1,88.94,C
+4333,The Nine Springs,Germany,12,11,79.5,E
+4334,The Norfolk,United Kingdom,4,2,77.5,E
+4335,The Notch,United States,3,1,89,C
+4336,The Numinous Cask,Scotland,1,1,85.78,C
+4337,The OA Islay,Scotland,5,4,82.49,D
+4338,The Oamaruvian,New Zealand,13,7,86.59,C
+4339,The Octave Cask,Scotland,1,1,88,C
+4340,The Old Man of Hoy,Scotland,13,7,85.88,C
+4341,The Olde Deer,Switzerland,6,4,80.56,D
+4342,The One,United Kingdom,16,10,80.38,D
+4343,The Original Mackinlay,Scotland,14,3,78,E
+4344,The Original Texas Legend Distillery,United States,2,NA,NA,G
+4345,The Osprey,Scotland,3,NA,NA,G
+4346,The Otago,New Zealand,2,NA,NA,G
+4347,The Palace Bar,Ireland,4,4,88.19,C
+4348,The Pauls Malt,Scotland,2,NA,NA,G
+4349,The Peat Bog,Scotland,1,1,87.95,C
+4350,The Peat Monster,Scotland,16,15,84.62,D
+4351,The Pibroch,Scotland,1,1,82,D
+4352,The Pipers Choice,Scotland,5,5,85.4,C
+4353,The Pitlochry Original,Scotland,1,NA,NA,G
+4354,The Pogues,Ireland,3,3,77.51,E
+4355,The Post-Factual Hopsky,,1,1,86.37,C
+4356,The Pot Still,Scotland,1,1,81,D
+4357,The Precentor's Peg,Scotland,1,NA,NA,G
+4358,The President's Choice,United States,1,NA,NA,G
+4359,The Presidential Dram,United States,3,NA,NA,G
+4360,The Prestonfield,Scotland,11,5,93.24,B
+4361,The Prince of the Highlands,Scotland,1,1,89.5,C
+4362,The Ptarmigan,Scotland,1,NA,NA,G
+4363,The Quartet,Scotland,1,1,84.5,D
+4364,The Queen's Seal,Scotland,2,NA,NA,G
+4365,The Queens,Scotland,1,NA,NA,G
+4366,The Quiet Man,Ireland,11,11,80.38,D
+4367,The Real Mackenzie,Scotland,17,5,82.03,D
+4368,The Real McTavish,Scotland,1,NA,NA,G
+4369,The Riddle of Islay,Scotland,1,1,86.5,C
+4370,The Royal & Ancient,Scotland,2,NA,NA,G
+4371,The Royal Household,Scotland,1,NA,NA,G
+4372,The Royal Wee,Scotland,1,NA,NA,G
+4373,The Sailor,Scotland,1,NA,NA,G
+4374,The Saint,Scotland,1,1,83.6,D
+4375,The Scotch House,Scotland,1,NA,NA,G
+4376,The Scotch Whisky Experience,Scotland,2,1,86,C
+4377,The Scots Whisky Forum,Scotland,1,1,87.23,C
+4378,The Scotsman,Scotland,1,NA,NA,G
+4379,The Scottish Blend,Scotland,1,NA,NA,G
+4380,The Scottish Gathering,Scotland,1,NA,NA,G
+4381,The Scottish Gourmet,Scotland,1,NA,NA,G
+4382,The Scottish Referendum,Scotland,3,3,86.96,C
+4383,The Seaforth Club Malt Whisky,Scotland,1,NA,NA,G
+4384,The Secret Cask,Scotland,6,4,88.46,C
+4385,The Secret Islay,Scotland,4,3,81.78,D
+4386,The Secret Orkney,Scotland,1,1,81.67,D
+4387,The Secret Speyside,Scotland,2,2,84.63,D
+4388,The Sexton,Ireland,1,1,80.33,D
+4389,The Sheiling,Scotland,1,NA,NA,G
+4390,The Singleton of Auchroisk,Scotland,27,18,83.88,D
+4391,The Singleton of Dufftown,Scotland,26,22,78.3,E
+4392,The Singleton of Glen Ord,Scotland,20,14,82.21,D
+4393,The Singleton of Glendullan,Scotland,15,10,80.93,D
+4394,The Sinner,Scotland,1,1,83.5,D
+4395,The Six Isles,Scotland,9,9,82.6,D
+4396,The Smoking Steamship,Scotland,1,1,82,D
+4397,The smoky vineyard,Scotland,1,1,86,C
+4398,The Society's,Scotland,6,1,78,E
+4399,The Sovereign,Scotland,6,NA,NA,G
+4400,The Spaniard,Scotland,1,NA,NA,G
+4401,The Speaker,Scotland,8,1,83,D
+4402,The Spey Cast,Scotland,8,4,81.55,D
+4403,The Speyside,Scotland,1,NA,NA,G
+4404,The Spice Tree,Scotland,10,9,85.59,C
+4405,The Spirit of Burns,Scotland,1,NA,NA,G
+4406,The Spirit of Dunedin,New Zealand,1,NA,NA,G
+4407,The Spirit of Shawnee,United States,1,1,81,D
+4408,The Steward's Solera,United States,1,NA,NA,G
+4409,The Stewart MacDuff,Scotland,1,NA,NA,G
+4410,The Strathspey Malt,Scotland,1,1,80.25,D
+4411,The Strathspey Reserve,Scotland,10,5,82.5,D
+4412,The Stuart Arms,Scotland,1,1,85.5,C
+4413,The Swiss Malt Blend,Switzerland,3,NA,NA,G
+4414,The Talisman,Scotland,6,4,70.5,F
+4415,The Tarbolton,Scotland,1,1,55,G
+4416,The Targe,Scotland,1,1,73.33,F
+4417,The Tasmanian Collection,Australia,1,NA,NA,G
+4418,The Ted,,1,NA,NA,G
+4419,The Temple Bar,Ireland,9,7,81.66,D
+4420,The Three Scotches,Scotland,6,3,78.22,E
+4421,The Tiger's Eye,Scotland,1,1,75.5,E
+4422,The Torran,Scotland,4,1,71.5,F
+4423,The Trail of Tears,United States,1,1,82.63,D
+4424,The Transition,Scotland,1,1,90.5,B
+4425,The Trinity,Scotland,3,NA,NA,G
+4426,The Trojan,Scotland,1,1,87.67,C
+4427,The Tulliallan,Scotland,3,NA,NA,G
+4428,The TWA Brigs,Scotland,1,1,89,C
+4429,The Tweeddale,Scotland,8,8,83.92,D
+4430,The Two,Scotland,4,2,82,D
+4431,The Unnameable,Scotland,1,1,76,E
+4432,The Vogel,Germany,2,2,78.2,E
+4433,The Wallace Monument,Scotland,1,NA,NA,G
+4434,The Wanderer,Scotland,1,1,88.6,C
+4435,The Westfalian,Germany,14,10,85.17,C
+4436,The Whisky Club,Scotland,3,NA,NA,G
+4437,The Whisky Lyon,Egypt,1,NA,NA,G
+4438,The Whisky of 1990,Scotland,3,NA,NA,G
+4439,The Whisky that Cannot be Named,Scotland,1,1,92.79,B
+4440,The Whistler,Ireland,4,4,82.24,D
+4441,The White,Scotland,1,NA,NA,G
+4442,The Wild Geese,Ireland,18,11,78.7,E
+4443,The Winner,Scotland,1,NA,NA,G
+4444,The Winter Queen,,1,1,88.26,C
+4445,The Witch's Brew,Scotland,1,1,84,D
+4446,The Wolf of Badenoch,Scotland,1,1,75.5,E
+4447,The World Pipe Band Championships,Scotland,1,NA,NA,G
+4448,The Yellow Rose of Texas,United States,4,1,71,F
+4449,The Young Pretender,Scotland,1,NA,NA,G
+4450,Thedford Colonial Style,United States,1,NA,NA,G
+4451,Thirsty Sailors Malt,Switzerland,1,1,82,D
+4452,Thirteen Corners,United States,2,NA,NA,G
+4453,Thirteenth Colony,United States,3,1,81,D
+4454,This is not a luxury Whisky,Scotland,1,1,88.99,C
+4455,Thistle,Scotland,3,1,84,D
+4456,Thomas Dirk,,1,NA,NA,G
+4457,Thomas H. Handy Sazerac,United States,12,12,89.3,C
+4458,Thompson's,Scotland,2,2,82.5,D
+4459,Thomson,New Zealand,18,12,77.37,E
+4460,Thor Boyo,France,1,1,68.25,G
+4461,Thorne's,Scotland,4,NA,NA,G
+4462,Thorneke,Germany,2,2,73,F
+4463,Thousand Mountains,Germany,7,5,83.41,D
+4464,Three Capes,Australia,1,NA,NA,G
+4465,Three Castles,Scotland,1,NA,NA,G
+4466,Three Islay Distilleries,Scotland,1,1,88.5,C
+4467,Three Oaks,United States,1,1,53,G
+4468,Three Ships,South Africa,12,10,79.16,E
+4469,Three Year Old Deluxe,Scotland,2,2,88.68,C
+4470,Threeland,Germany,23,12,70.09,F
+4471,Thumb Butte,United States,4,NA,NA,G
+4472,Thunder Road,United States,NA,NA,NA,G
+4473,Thunder's Whisky,Scotland,1,NA,NA,G
+4474,Thursky,Switzerland,2,2,79.15,E
+4475,Thy Whisky,Denmark,10,7,83.95,D
+4476,Tiger Juice Distillery,United States,1,NA,NA,G
+4477,Tiger Snake,Australia,4,3,79.67,E
+4478,Tight Lines,Scotland,1,NA,NA,G
+4479,Tim Smith's,United States,2,1,50,G
+4480,Timboon,Australia,3,2,81.5,D
+4481,Time Slip,Japan,1,1,92.06,B
+4482,Timeless Selected Spirits,Germany,1,1,73,F
+4483,Timorous Beastie,Scotland,8,7,84.31,D
+4484,Tincup,United States,3,3,82.12,D
+4485,Tinkers Dram,Scotland,1,NA,NA,G
+4486,Tipperary,Ireland,11,10,83.29,D
+4487,Tirado,United States,1,NA,NA,G
+4488,Tiroler Single Malt Whisky,Austria,2,1,78,E
+4489,Titanic,Ireland,2,2,81.5,D
+4490,TKO,Scotland,1,NA,NA,G
+4491,To the Ends of the Earth,Scotland,1,NA,NA,G
+4492,Tobermory,Scotland,419,334,84.9,D
+4493,Togouchi,Japan,11,11,80.61,D
+4494,Tom Derry,Scotland,1,1,78.67,E
+4495,Tom Dooley,United States,1,NA,NA,G
+4496,Tom Maher's,Ireland,1,1,78,E
+4497,Tom Moore,United States,4,NA,NA,G
+4498,Tom's,United States,1,NA,NA,G
+4499,Tom's,Ireland,1,1,77,E
+4500,Tom's Foolery,United States,7,3,79.67,E
+4501,Tomatin,Scotland,830,669,86.33,C
+4502,Tomfarclas,Scotland,1,1,87.29,C
+4503,Tomfarclas Wood,Scotland,1,1,87.21,C
+4504,Tomintoul,Scotland,300,229,85.69,C
+4505,Tomintoul Scotland,Scotland,1,1,59,G
+4506,Toolmaker,Germany,1,1,83,D
+4507,Top Secret,Scotland,2,2,69.5,G
+4508,Top Ten,Scotland,1,NA,NA,G
+4509,Top Vat,Scotland,1,NA,NA,G
+4510,TOPO,United States,1,NA,NA,G
+4511,Torba,Scotland,1,1,86,C
+4512,Tormore,Scotland,316,233,85.12,C
+4513,Toronto Distillery Co.,Canada,3,NA,NA,G
+4514,Torys,Japan,5,2,42.25,G
+4515,Tottori,Japan,5,3,75.5,E
+4516,Tove Mill,United Kingdom,2,NA,NA,G
+4517,Tovuz,Azerbaijan,1,NA,NA,G
+4518,Tower Gate 19,Scotland,1,NA,NA,G
+4519,Towiemore,Scotland,3,2,81.28,D
+4520,Town Branch,United States,5,1,73.4,F
+4521,Trader,Germany,6,4,84.25,D
+4522,Trader Joe's,United States,1,1,76,E
+4523,Trader Joe's - Highland,Scotland,3,NA,NA,G
+4524,Trader Joe's - Speyside,Scotland,4,NA,NA,G
+4525,Trail Town Still,United States,1,NA,NA,G
+4526,Trail's End,United States,2,NA,NA,G
+4527,Transatlantic,Scotland,1,1,84.67,D
+4528,Traunstein-Whisky,Austria,2,1,88,C
+4529,Travelers Club,United States,1,NA,NA,G
+4530,Traverse City Whiskey Co.,United States,1,1,75,E
+4531,Treacle Chest,Scotland,1,1,81.67,D
+4532,Treaty Oak,United States,1,NA,NA,G
+4533,Trebitsch,Czech Republic,9,1,67,G
+4534,Tri Tiaghean-Staile Ileach,Scotland,1,1,89,C
+4535,Tribute,Scotland,2,NA,NA,G
+4536,Trinity,Belgium,3,NA,NA,G
+4537,Triple Crown,United States,1,NA,NA,G
+4538,Triple Malt Whisky,Germany,1,1,82.5,D
+4539,Triple S,Scotland,1,NA,NA,G
+4540,Triple Smoke,United States,12,8,79.09,E
+4541,Triumph,Scotland,1,1,82,D
+4542,Trolden,Denmark,4,2,70.75,F
+4543,Tropical Trudy,Scotland,1,1,85.21,C
+4544,Troy & Sons,United States,2,NA,NA,G
+4545,Tsunuki,Japan,5,2,77.61,E
+4546,Tullahoma,United States,5,3,84.12,D
+4547,Tullamore Dew,Ireland,101,66,77.89,E
+4548,Tullibardine,Scotland,409,320,84.65,D
+4549,Tullibardine Royal,Scotland,1,1,86.67,C
+4550,Tullichmhor,Scotland,1,1,90,B
+4551,Tulloch,Scotland,1,NA,NA,G
+4552,Tulloch Wood,Scotland,1,1,87.26,C
+4553,Tunnarius,Germany,1,1,79.5,E
+4554,Turley Mill,United States,1,NA,NA,G
+4555,Turnberry,Scotland,1,NA,NA,G
+4556,Turnhouse,Scotland,1,NA,NA,G
+4557,Turv Exloo,Netherlands,1,1,63.87,G
+4558,Tuxedo,Scotland,3,1,84,D
+4559,Tweedronk,South Africa,1,1,82,D
+4560,Twelve Pointer,Scotland,1,NA,NA,G
+4561,Twenty Twenty,Scotland,1,1,83,D
+4562,Two Brewers,Canada,8,2,86,C
+4563,Two Brothers Selection,Scotland,1,1,87.67,C
+4564,Two Casks,,1,NA,NA,G
+4565,Two Doves,Serbia And Montenegro,2,2,61.67,G
+4566,Two Horses,United States,1,NA,NA,G
+4567,Two James,United States,4,NA,NA,G
+4568,Two Keys,South Africa,1,NA,NA,G
+4569,Two Speysiders by a stream,Scotland,1,NA,NA,G
+4570,Two Trees,Ireland,1,NA,NA,G
+4571,Two With A Teaspoon Of The Second,Scotland,1,1,86.67,C
+4572,Two-Faced,United States,1,NA,NA,G
+4573,TX,United States,2,NA,NA,G
+4574,Tylosand Speyside,Scotland,1,NA,NA,G
+4575,Tyrconnell,Ireland,62,42,82.27,D
+4576,Uberach,France,18,14,78.54,E
+4577,Ubique,Scotland,1,1,60,G
+4578,UD,Scotland,2,NA,NA,G
+4579,Ueli's Whisky,Switzerland,2,NA,NA,G
+4580,Ugly's Moonshine,United States,1,NA,NA,G
+4581,Uisce Beatha,Ireland,1,1,75.29,E
+4582,Uisge Beatha,Scotland,8,4,89.5,C
+4583,Uisge Beatha Taigh,Ireland,1,1,85.75,C
+4584,Uncle Duke's,Scotland,1,NA,NA,G
+4585,Uncle Nearest 1856,United States,2,NA,NA,G
+4586,Uncle Sam's,United States,1,NA,NA,G
+4587,Undercover,Scotland,4,4,88.34,C
+4588,Undercover Islay,Scotland,2,2,84,D
+4589,Underground,United States,10,7,84.1,D
+4590,Undisclosed Distillery,,3,1,83,D
+4591,Union Distillery Maltwhisky do Brasil,Brazil,1,1,31,G
+4592,Union Horse,United States,1,NA,NA,G
+4593,Union Park,Scotland,1,NA,NA,G
+4594,Unique,Scotland,1,1,77.64,E
+4595,Uniting Nations,,1,1,91.5,B
+4596,Unknown Speyside,Scotland,1,1,85.46,C
+4597,Unnamed Orkney,Scotland,3,2,86.59,C
+4598,Unnamed Speyside,Scotland,1,1,81.87,D
+4599,Unvanquished,Scotland,1,NA,NA,G
+4600,Upper Ten,Scotland,5,3,73.31,F
+4601,Upshot,Australia,1,NA,NA,G
+4602,Urquhart Castle,Scotland,1,NA,NA,G
+4603,Usher's,Scotland,9,4,80.58,D
+4604,Usquaebach,Scotland,17,8,82.04,D
+4605,V. S. O.,Scotland,1,1,92.5,B
+4606,V.O.E.,Scotland,1,1,78.5,E
+4607,Valamo,Finland,11,3,78.69,E
+4608,Valley,Netherlands,1,NA,NA,G
+4609,Van Brunt Stillhouse,United States,12,4,72.88,F
+4610,van Kleef,Netherlands,1,1,86,C
+4611,Van Loon,Germany,7,4,71.63,F
+4612,Van Winkle,United States,30,14,86.72,C
+4613,Vangiones,Germany,3,2,54,G
+4614,Vanilla Burst,Scotland,1,1,76.75,E
+4615,VAT 69,Scotland,33,17,78.66,E
+4616,Vatted Grain,Scotland,1,1,85.6,C
+4617,Vatted Islay,Scotland,6,5,88.52,C
+4618,Vatted Islay Malt,Scotland,2,1,85,C
+4619,Vatted Malt,Scotland,2,1,83,D
+4620,Vega,Scotland,3,2,89.52,C
+4621,Velvet Fig,Scotland,1,1,83.63,D
+4622,Vendôme,Scotland,1,NA,NA,G
+4623,Venice Simplon Orient Express,Scotland,1,NA,NA,G
+4624,Venture,Scotland,1,NA,NA,G
+4625,Vernal Awakening,Scotland,1,1,90.67,B
+4626,Very Old,Scotland,NA,NA,NA,G
+4627,Very Old Barton,United States,10,4,82.67,D
+4628,Very Old Fitzgerald,United States,27,NA,NA,G
+4629,Very Old Highland Whisky,Scotland,1,NA,NA,G
+4630,Very Old Irish Whiskey,Ireland,1,NA,NA,G
+4631,Very Old Malt Whisky,Scotland,2,2,86.11,C
+4632,Very Olde St. Nick,United States,27,9,91.11,B
+4633,Very Rare Old Liqueur Scotch Whisky,Scotland,1,1,91.21,B
+4634,Very Sherried,Scotland,7,6,92.2,B
+4635,Very Very Old Fitzgerald,United States,19,1,3,G
+4636,Very Xtra Old Fitzgerald,United States,7,NA,NA,G
+4637,VETO,Scotland,1,1,84.75,D
+4638,Vicomte,France,1,1,72.6,F
+4639,Vielanker Brauhaus,Germany,2,2,51.63,G
+4640,Vier Tannen,Germany,1,NA,NA,G
+4641,Vieux Malt,France,1,NA,NA,G
+4642,Viking,Scotland,1,1,81,D
+4643,Vilanova,France,4,4,76.5,E
+4644,Vingården Lille Gadegård,Denmark,6,6,64.75,G
+4645,Vinn,United States,1,NA,NA,G
+4646,Vintage,Scotland,40,24,78.05,E
+4647,Vintage Bourbon,United States,3,2,83.1,D
+4648,Vintage Rye,United States,2,2,86.27,C
+4649,Vintners Choice,Scotland,12,6,78.2,E
+4650,Virgil Kaine,United States,2,NA,NA,G
+4651,Virgin Bourbon,United States,5,1,91,B
+4652,Virginia,United States,8,2,82,D
+4653,Virginia Black,United States,1,NA,NA,G
+4654,Virginia Gentleman,United States,3,1,76.33,E
+4655,Virginia Sweetwater,United States,1,NA,NA,G
+4656,Vulson,France,3,2,82.63,D
+4657,VXV,Scotland,1,1,85,C
+4658,W. MacLand,Scotland,1,NA,NA,G
+4659,W. Turkey,Scotland,1,NA,NA,G
+4660,W.B. Samuels,United States,1,NA,NA,G
+4661,W.H. Harrison,United States,3,NA,NA,G
+4662,W.L. Weller,United States,29,18,84.35,D
+4663,W5,Scotland,3,1,82.67,D
+4664,Wachauer Whisky,Austria,9,3,69.33,G
+4665,Wädi-Brau-Huus,Switzerland,8,3,57.67,G
+4666,Waitrose,Scotland,7,2,76,E
+4667,Waitrose Island,Scotland,1,NA,NA,G
+4668,Waitui,New Zealand,3,2,62,G
+4669,Waldviertler Whisky J.H.,Austria,31,27,61.17,G
+4670,Walkers,Scotland,1,1,83,D
+4671,Walking Stick,United States,1,NA,NA,G
+4672,Wall Street,Brazil,1,NA,NA,G
+4673,Walleye Rye,United States,2,1,85,C
+4674,Wallner,Austria,1,1,80,D
+4675,Wambrechies,France,5,5,65.96,G
+4676,Wanigan,United States,1,NA,NA,G
+4677,Wannborga,Sweden,3,3,65.78,G
+4678,War Eagle,United States,1,NA,NA,G
+4679,Wardhead,Scotland,16,13,84.72,D
+4680,Warlock,,7,7,86.55,C
+4681,Wasmund's,United States,15,8,61.58,G
+4682,Waterfill & Frazier,United States,1,NA,NA,G
+4683,Watergate,United States,1,NA,NA,G
+4684,Watershed,United States,2,NA,NA,G
+4685,Wathen's,United States,13,4,85.56,C
+4686,Watkins Select,United States,1,1,56,G
+4687,WAW,France,1,1,78,E
+4688,Waxed Jackets,Scotland,4,1,89,C
+4689,Wayne Gretzky No.99,Canada,5,4,82.54,D
+4690,Wayward,United States,2,1,80.75,D
+4691,WB,France,3,2,70.75,F
+4692,Websters International,,1,NA,NA,G
+4693,Wecklein,Germany,4,2,66.75,G
+4694,Wedgwood,Scotland,1,NA,NA,G
+4695,Weidenauer,Austria,7,6,80.83,D
+4696,Weidhöfler,Switzerland,4,1,74,F
+4697,Weinbau zur Krone,Switzerland,1,1,81.67,D
+4698,Weingut Clerc Bamert,Switzerland,1,NA,NA,G
+4699,Weingut Dotzauer,Germany,1,1,86,C
+4700,Weingut Mößlein,Germany,3,2,78.46,E
+4701,Welche's Whisky,France,6,5,83.82,D
+4702,Weller,United States,3,2,90.88,B
+4703,Weller's Antique Reserve,United States,3,NA,NA,G
+4704,Weller's Original,United States,6,1,88,C
+4705,Weltfein,Scotland,6,1,85,C
+4706,West Coast Whisky Fèis,Scotland,1,NA,NA,G
+4707,West Cork,Ireland,22,18,78.89,E
+4708,West Highland Walkway,Scotland,1,NA,NA,G
+4709,West Islay,Scotland,1,1,88.65,C
+4710,West of Kentucky,United States,7,2,78.5,E
+4711,West Port,Scotland,2,2,86.71,C
+4712,West Virginia,United States,1,NA,NA,G
+4713,Westbury,France,1,NA,NA,G
+4714,Western Gold,United States,3,3,63.52,G
+4715,Western Highland,Scotland,1,1,92.55,B
+4716,Western Isles,Scotland,1,1,86.5,C
+4717,Westland,United States,70,42,84.31,D
+4718,Westlind,Germany,1,NA,NA,G
+4719,Westmhor,Scotland,1,NA,NA,G
+4720,Westminster,Scotland,1,NA,NA,G
+4721,Weston's,Scotland,2,NA,NA,G
+4722,Westport,Scotland,75,53,85.89,C
+4723,Weutz,Austria,21,9,68.01,G
+4724,Whalligoe,Scotland,1,1,90,B
+4725,Wheskykôrka,Sweden,2,2,86.5,C
+4726,Whesskey,Germany,21,13,50.87,G
+4727,Whip Saw,United States,1,NA,NA,G
+4728,Whiskey Row,United States,1,NA,NA,G
+4729,Whiskey Sister,United States,1,NA,NA,G
+4730,Whiskey Thief,United States,3,1,82,D
+4731,Whiskey Trails,United States,1,NA,NA,G
+4732,Whisky & Dreams,Scotland,1,1,85.83,C
+4733,Whisky = People,Scotland,1,1,89.75,C
+4734,Whisky Alpin,Austria,12,5,54.03,G
+4735,Whisky aus dem Steigerwald,Germany,2,1,65,G
+4736,Whisky Babbler,,1,1,81,D
+4737,Whisky By X,Scotland,2,1,79,E
+4738,Whisky Castle,Switzerland,69,26,64.05,G
+4739,Whisky Classics,Scotland,1,1,85,C
+4740,Whisky de Bretagne,France,1,NA,NA,G
+4741,Whisky de Table,Scotland,3,2,82.47,D
+4742,Whisky Galore,Scotland,10,1,74.5,F
+4743,Whisky Gold,,1,NA,NA,G
+4744,Whisky like an Angel,Switzerland,2,NA,NA,G
+4745,Whisky oet Grunn,Netherlands,4,3,72.61,F
+4746,Whisky of GDR,Germany,1,1,90.31,B
+4747,Whisky or Die,,2,1,86.4,C
+4748,Whisky Senador,Scotland,1,1,80,D
+4749,Whiskyclub Bielefeld,Germany,2,NA,NA,G
+4750,Whiskyfreunde Baden,Germany,2,2,86.88,C
+4751,Whiskyladen Radebeul,Germany,4,4,86.25,C
+4752,Whiskyland Franken,Germany,1,1,87.5,C
+4753,Whiskymania Klub,Germany,12,7,83.33,D
+4754,WhistlePig,United States,35,22,86.81,C
+4755,Whistling Andy,United States,2,NA,NA,G
+4756,White - Brook,Luxembourg,4,4,80.08,D
+4757,White 5,Scotland,1,NA,NA,G
+4758,White Abbey,Scotland,1,NA,NA,G
+4759,White Castle,Philippines,5,3,21,G
+4760,White Hart,Scotland,2,1,72.5,F
+4761,White Heather,Scotland,34,14,84.8,D
+4762,White Horse,Scotland,95,45,85.65,C
+4763,White Lion,Scotland,4,2,39.88,G
+4764,White Oak,Japan,62,48,82.72,D
+4765,White Pike Whiskey,United States,1,NA,NA,G
+4766,White Seal,Scotland,1,NA,NA,G
+4767,White Star Line,Scotland,1,NA,NA,G
+4768,White Turkey,Scotland,1,NA,NA,G
+4769,Whitmeyer's,United States,1,1,89,C
+4770,Whoop & Holler,United States,1,NA,NA,G
+4771,Whyte & Mackay,Scotland,73,44,78.84,E
+4772,Wicked,United States,1,1,73,F
+4773,Wicked Wendy,Scotland,1,1,84.21,D
+4774,Widow Jane,United States,34,12,85.81,C
+4775,Wieser,Austria,11,8,72.26,F
+4776,Wigle,United States,16,2,79,E
+4777,Wilcox,United States,1,1,68,G
+4778,Wild Boar,United States,1,NA,NA,G
+4779,Wild Folks Malt,Switzerland,1,1,77,E
+4780,Wild Oak,Canada,1,1,81,D
+4781,Wild Saxon,Scotland,2,1,73,F
+4782,Wild Scarlet,Scotland,1,1,86.72,C
+4783,Wild Scotsman,Scotland,1,1,75.25,E
+4784,Wild Shamrock,Ireland,1,1,85,C
+4785,Wild Thing,Scotland,1,1,85,C
+4786,Wild Turkey,United States,189,90,84.03,D
+4787,Wild Weasel,Belgium,14,8,72.66,F
+4788,Wild Whisky,Germany,2,2,74.33,F
+4789,Wilderness Trail,United States,1,NA,NA,G
+4790,Willett,United States,576,177,86.64,C
+4791,William & Son,Scotland,1,1,87,C
+4792,William Cadenhead,Scotland,17,14,85.93,C
+4793,William Fonbelle,United States,1,NA,NA,G
+4794,William Grant & Sons Limited,Scotland,23,13,85.66,C
+4795,William Heavenhill,United States,8,5,87.73,C
+4796,William Hepburn,Scotland,2,NA,NA,G
+4797,William Jameson,Ireland,2,1,82,D
+4798,William Larue Weller,United States,15,15,89.9,C
+4799,William Lawson's,Scotland,28,14,65.78,G
+4800,William Peel,Scotland,13,8,65.84,G
+4801,William Riddell,Scotland,2,1,72,F
+4802,William Scott,Scotland,1,NA,NA,G
+4803,William The Conqueror,Scotland,1,NA,NA,G
+4804,William Wolf,United States,2,NA,NA,G
+4805,William Younger,Scotland,1,NA,NA,G
+4806,Williamson,Scotland,18,12,86.08,C
+4807,Willie's,United States,1,NA,NA,G
+4808,Willowbank,New Zealand,18,12,85.55,C
+4809,Willy Macheiner,Austria,1,1,73,F
+4810,Willy's Hootch,Netherlands,1,NA,NA,G
+4811,Wilson,United States,1,NA,NA,G
+4812,Wilson's,Scotland,5,NA,NA,G
+4813,Winchester,United States,15,4,69.92,G
+4814,Windmill,United States,1,NA,NA,G
+4815,Windsor,Canada,3,1,74,F
+4816,Windsor,Scotland,3,3,75.58,E
+4817,Windsor Castle,Scotland,1,1,86,C
+4818,Winter Wedding,Switzerland,8,4,81.32,D
+4819,Winterhauch,Germany,1,NA,NA,G
+4820,Wirtemberg,Germany,2,1,82,D
+4821,Wisconsin,United States,1,NA,NA,G
+4822,Wiser's,Canada,15,10,80.71,D
+4823,WitchHill,Germany,1,1,85.5,C
+4824,Witherspoon,United States,1,1,83,D
+4825,Wm. Maxwell,Scotland,7,2,76.5,E
+4826,Wolf Legend,Scotland,2,1,94,B
+4827,Wolfburn,Scotland,50,40,86.15,C
+4828,Wolfenweiler,Germany,2,1,24,G
+4829,Wolverhampton & Dudley Breweries Ltd.,Scotland,1,NA,NA,G
+4830,Wood Pecker,Scotland,1,NA,NA,G
+4831,Wood's,United States,4,1,77,E
+4832,Woodford Reserve,United States,167,103,82.12,D
+4833,Woodinville,United States,10,3,58,G
+4834,Woodstock Bourbon,United States,1,NA,NA,G
+4835,Woodstone Creek,United States,8,NA,NA,G
+4836,Woodward Limited,United States,2,2,84.33,D
+4837,Workshops Whisky,New Zealand,3,2,75,E
+4838,World Bar Tour,Scotland,2,1,87,C
+4839,World Whisky Day,Scotland,3,1,82,D
+4840,Writer's Tears,Ireland,14,12,82.81,D
+4841,Wry Moon,United States,1,1,68.75,G
+4842,Wylie Howell,United States,1,NA,NA,G
+4843,Wyoming Whiskey,United States,17,8,86.09,C
+4844,Wyzour,Scotland,11,NA,NA,G
+4845,X-Mas Dram,Scotland,1,1,87.25,C
+4846,XXX Shine,United States,1,NA,NA,G
+4847,Yacht Club,Scotland,1,1,71,F
+4848,Yahara Bay,United States,8,NA,NA,G
+4849,Yamazaki,Japan,305,248,88.64,C
+4850,Yamazakura,Japan,32,15,83.93,D
+4851,Yates Brothers,Scotland,1,NA,NA,G
+4852,Ye Auld Toun,Scotland,2,1,87,C
+4853,Ye Franciscan,Scotland,2,NA,NA,G
+4854,Ye Monks,Scotland,8,5,82.4,D
+4855,Yellow Rose,United States,6,3,71.67,F
+4856,Yellow Rose,Scotland,5,NA,NA,G
+4857,Yellow Spot,Ireland,2,2,85.04,C
+4858,Yellowstone,United States,12,4,76.53,E
+4859,Yippee Ki-Yay,United States,2,1,66.5,G
+4860,Yn Kerrin,Scotland,1,1,81,D
+4861,Yoichi,Japan,216,115,87.32,C
+4862,Yoni Brother's,Scotland,2,NA,NA,G
+4863,Young Bear,Switzerland,2,NA,NA,G
+4864,Young Deer,Switzerland,2,1,75,E
+4865,Young Malt,Denmark,2,1,74,F
+4866,Yukon Jack,Canada,1,NA,NA,G
+4867,Yula,Scotland,3,3,88.57,C
+4868,Z'Graggen,Switzerland,6,4,79,E
+4869,Z. Kozuba,Poland,1,1,19.67,G
+4870,Zackariah Harris,United States,2,1,71.5,F
+4871,Zaiser,Germany,8,NA,NA,G
+4872,ZAT 77,Scotland,1,NA,NA,G
+4873,Zauser,Austria,1,NA,NA,G
+4874,ZAVONG,Scotland,1,1,85.8,C
+4875,Zebundus,Germany,2,1,49,G
+4876,Zeeuwse Vatted,Netherlands,1,NA,NA,G
+4877,Zeeuwse Whisky,Netherlands,1,NA,NA,G
+4878,Zeppelin Bend,United States,2,1,85.67,C
+4879,Zitcy,Germany,1,1,77.67,E
+4880,Zweiger,Austria,2,1,66,G

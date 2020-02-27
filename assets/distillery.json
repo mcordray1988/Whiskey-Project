@@ -1,0 +1,8812 @@
+﻿[
+  {
+    "index": 0,
+    "Company": "'t Koelschip",
+    "Country": "Netherlands",
+    "Rating": 32.63,
+    "Whisky": 8,
+    "Collection": 18,
+    "lon": 5.229148,
+    "lat": 52.3705804
+  },
+  {
+    "index": 1,
+    "Company": "10th Mountain",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -106.3734687,
+    "lat": 39.6406408
+  },
+  {
+    "index": 2,
+    "Company": "2bar Spirits",
+    "Country": "United States",
+    "Rating": 73.67,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -122.3281104,
+    "lat": 47.5764854
+  },
+  {
+    "index": 3,
+    "Company": "3 Badge Beverage",
+    "Country": "United States",
+    "Rating": 84.4,
+    "Whisky": 10,
+    "Collection": 65,
+    "lon": -122.4573835,
+    "lat": 38.2902396
+  },
+  {
+    "index": 6,
+    "Company": "66 Gilead Distillery",
+    "Country": "Canada",
+    "Rating": 81,
+    "Whisky": 2,
+    "Collection": 11,
+    "lon": -77.2684887,
+    "lat": 43.9940363
+  },
+  {
+    "index": 7,
+    "Company": "66 Gilead Distillery",
+    "Country": "Canada",
+    "Rating": 81,
+    "Whisky": 2,
+    "Collection": 11,
+    "lon": -77.2684887,
+    "lat": 43.9940363
+  },
+  {
+    "index": 8,
+    "Company": "A. Smith Bowman",
+    "Country": "United States",
+    "Rating": 82.89,
+    "Whisky": 23,
+    "Collection": 113,
+    "lon": -77.450789,
+    "lat": 38.281535
+  },
+  {
+    "index": 10,
+    "Company": "Acha",
+    "Country": "Spain",
+    "Rating": 77,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -2.9999474,
+    "lat": 43.047315
+  },
+  {
+    "index": 11,
+    "Company": "Adirondack Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": -75.2413885,
+    "lat": 43.1041606
+  },
+  {
+    "index": 12,
+    "Company": "Adnams",
+    "Country": "United Kingdom",
+    "Rating": 74.65,
+    "Whisky": 8,
+    "Collection": 76,
+    "lon": 1.6806639,
+    "lat": 52.3270927
+  },
+  {
+    "index": 16,
+    "Company": "Agárdi Pálinkafőzde",
+    "Country": "Hungary",
+    "Rating": 80.67,
+    "Whisky": 1,
+    "Collection": 6,
+    "lon": 18.598814,
+    "lat": 47.1866319
+  },
+  {
+    "index": 17,
+    "Company": "Agder Brenneri",
+    "Country": "Norway",
+    "Rating": 64.61,
+    "Whisky": 3,
+    "Collection": 49,
+    "lon": 8.5541109,
+    "lat": 58.3173075
+  },
+  {
+    "index": 18,
+    "Company": "Aichinger",
+    "Country": "Austria",
+    "Rating": 74.76,
+    "Whisky": 5,
+    "Collection": 56,
+    "lon": 14.550072,
+    "lat": 47.516231
+  },
+  {
+    "index": 19,
+    "Company": "Aichinger",
+    "Country": "Austria",
+    "Rating": 74.76,
+    "Whisky": 5,
+    "Collection": 56,
+    "lon": 14.550072,
+    "lat": 47.516231
+  },
+  {
+    "index": 20,
+    "Company": "Aichinger",
+    "Country": "Austria",
+    "Rating": 74.76,
+    "Whisky": 5,
+    "Collection": 56,
+    "lon": 14.550072,
+    "lat": 47.516231
+  },
+  {
+    "index": 21,
+    "Company": "Aioi Unibio Co. Ltd.",
+    "Country": "Japan",
+    "Rating": 79,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 137.0389764,
+    "lat": 34.8743541
+  },
+  {
+    "index": 22,
+    "Company": "Akkeshi Distillery",
+    "Country": "Japan",
+    "Rating": 75.75,
+    "Whisky": 2,
+    "Collection": 13,
+    "lon": 144.8207031,
+    "lat": 43.0706646
+  },
+  {
+    "index": 23,
+    "Company": "Alambik",
+    "Country": "Netherlands",
+    "Rating": 76.32,
+    "Whisky": 3,
+    "Collection": 29,
+    "lon": 6.990224,
+    "lat": 53.1857059
+  },
+  {
+    "index": 24,
+    "Company": "Alaska Distillery",
+    "Country": "United States",
+    "Rating": 55,
+    "Whisky": 2,
+    "Collection": 5,
+    "lon": -149.3400492,
+    "lat": 61.5961466
+  },
+  {
+    "index": 26,
+    "Company": "Alberta Distillers Ltd.",
+    "Country": "Canada",
+    "Rating": 83.61,
+    "Whisky": 37,
+    "Collection": 407,
+    "lon": -114.0270621,
+    "lat": 51.0229636
+  },
+  {
+    "index": 27,
+    "Company": "Alde Gott",
+    "Country": "Germany",
+    "Rating": 84.6,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": 8.1294008,
+    "lat": 48.6136781
+  },
+  {
+    "index": 29,
+    "Company": "Allgäu-Brennerei Günther GmbH",
+    "Country": "Germany",
+    "Rating": 63.17,
+    "Whisky": 4,
+    "Collection": 9,
+    "lon": 10.3259357,
+    "lat": 47.6803325
+  },
+  {
+    "index": 30,
+    "Company": "Alpenwhisky-Destillerie",
+    "Country": "Austria",
+    "Rating": 84.33,
+    "Whisky": 11,
+    "Collection": 9,
+    "lon": 9.6374868,
+    "lat": 47.2090625
+  },
+  {
+    "index": 31,
+    "Company": "Alpirsbacher Klosterbräu",
+    "Country": "Germany",
+    "Rating": 83,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 8.40305,
+    "lat": 48.34566
+  },
+  {
+    "index": 32,
+    "Company": "Alt Enderle",
+    "Country": "Germany",
+    "Rating": 83.66,
+    "Whisky": 17,
+    "Collection": 61,
+    "lon": 9.453592,
+    "lat": 49.4863501
+  },
+  {
+    "index": 33,
+    "Company": "Alte Brennerei",
+    "Country": "Switzerland",
+    "Rating": 72,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 7.692812,
+    "lat": 47.4695888
+  },
+  {
+    "index": 34,
+    "Company": "Alte Hausbrennerei A. Wecklein",
+    "Country": "Germany",
+    "Rating": 66.75,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 10.0082987,
+    "lat": 49.9502797
+  },
+  {
+    "index": 35,
+    "Company": "Altore",
+    "Country": "France",
+    "Rating": 64.63,
+    "Whisky": 2,
+    "Collection": 12,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 36,
+    "Company": "Altore",
+    "Country": "France",
+    "Rating": 64.63,
+    "Whisky": 2,
+    "Collection": 12,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 37,
+    "Company": "Altore",
+    "Country": "France",
+    "Rating": 64.63,
+    "Whisky": 2,
+    "Collection": 12,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 38,
+    "Company": "Amador Distillery",
+    "Country": "United States",
+    "Rating": 85,
+    "Whisky": 5,
+    "Collection": 7,
+    "lon": -120.7546162,
+    "lat": 38.3373593
+  },
+  {
+    "index": 39,
+    "Company": "Amrut",
+    "Country": "India",
+    "Rating": 85.06,
+    "Whisky": 316,
+    "Collection": 7365,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 40,
+    "Company": "Amrut",
+    "Country": "India",
+    "Rating": 85.06,
+    "Whisky": 316,
+    "Collection": 7365,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 41,
+    "Company": "Amrut",
+    "Country": "India",
+    "Rating": 85.06,
+    "Whisky": 316,
+    "Collection": 7365,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 42,
+    "Company": "Anchor Distilling Company",
+    "Country": "United States",
+    "Rating": 84,
+    "Whisky": 19,
+    "Collection": 105,
+    "lon": -122.4007997,
+    "lat": 37.763304
+  },
+  {
+    "index": 45,
+    "Company": "Archie Rose Distilling Co.",
+    "Country": "Australia",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 151.2022642,
+    "lat": -33.9170937
+  },
+  {
+    "index": 46,
+    "Company": "Arcus",
+    "Country": "Norway",
+    "Rating": 78.13,
+    "Whisky": 5,
+    "Collection": 25,
+    "lon": 10.9422992,
+    "lat": 59.9901238
+  },
+  {
+    "index": 47,
+    "Company": "Arizona High Spirits Distillery",
+    "Country": "United States",
+    "Rating": 72,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -111.5862777,
+    "lat": 35.2183676
+  },
+  {
+    "index": 48,
+    "Company": "Arnsteiner Brauerei",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 9.97331,
+    "lat": 49.97702
+  },
+  {
+    "index": 49,
+    "Company": "Asaka",
+    "Country": "Japan",
+    "Rating": 87,
+    "Whisky": 11,
+    "Collection": 55,
+    "lon": 140.3597421,
+    "lat": 37.400529
+  },
+  {
+    "index": 50,
+    "Company": "Ascendant Spirits",
+    "Country": "United States",
+    "Rating": 86,
+    "Whisky": 4,
+    "Collection": 4,
+    "lon": -120.202332,
+    "lat": 34.609976
+  },
+  {
+    "index": 51,
+    "Company": "Asheville Distilling Co.",
+    "Country": "United States",
+    "Rating": 50,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": -82.4978929,
+    "lat": 35.5708064
+  },
+  {
+    "index": 52,
+    "Company": "Astidama",
+    "Country": "Indonesia",
+    "Rating": 71,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": 115.1113622,
+    "lat": -8.5337414
+  },
+  {
+    "index": 53,
+    "Company": "ASW",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -84.3819669,
+    "lat": 33.8095316
+  },
+  {
+    "index": 56,
+    "Company": "Augustus Rex",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 13.7683162,
+    "lat": 51.111439
+  },
+  {
+    "index": 58,
+    "Company": "Authentic Seacoast Distilling Co. Ltd.",
+    "Country": "Canada",
+    "Rating": 72,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -61.5034382,
+    "lat": 45.4015045
+  },
+  {
+    "index": 59,
+    "Company": "Avadis Distillery",
+    "Country": "Germany",
+    "Rating": 70.09,
+    "Whisky": 23,
+    "Collection": 53,
+    "lon": 6.4518313,
+    "lat": 49.5978374
+  },
+  {
+    "index": 61,
+    "Company": "bachgau-Destille",
+    "Country": "Germany",
+    "Rating": 58.5,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": 9.0179278,
+    "lat": 49.8883851
+  },
+  {
+    "index": 62,
+    "Company": "Badmils Black Distillery",
+    "Country": "Austria",
+    "Rating": 84,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 11.5346285,
+    "lat": 47.2918157
+  },
+  {
+    "index": 63,
+    "Company": "Bainbridge",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 4,
+    "lon": -122.5247099,
+    "lat": 47.6481346
+  },
+  {
+    "index": 64,
+    "Company": "Bakery Hill Distillery",
+    "Country": "Australia",
+    "Rating": 81.7,
+    "Whisky": 11,
+    "Collection": 50,
+    "lon": 145.297478,
+    "lat": -37.819692
+  },
+  {
+    "index": 65,
+    "Company": "Balcones Distilling",
+    "Country": "United States",
+    "Rating": 80.22,
+    "Whisky": 54,
+    "Collection": 386,
+    "lon": -97.1412275,
+    "lat": 31.5461569
+  },
+  {
+    "index": 66,
+    "Company": "Ballast Point",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 4,
+    "Collection": 4,
+    "lon": -117.1109407,
+    "lat": 32.8985252
+  },
+  {
+    "index": 69,
+    "Company": "Bardstown Bourbon Company",
+    "Country": "United States",
+    "Rating": 79,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -85.4079807,
+    "lat": 37.8097483
+  },
+  {
+    "index": 71,
+    "Company": "Barrell Craft Spirits",
+    "Country": "United States",
+    "Rating": 85.99,
+    "Whisky": 39,
+    "Collection": 117,
+    "lon": -85.7022337,
+    "lat": 38.1879667
+  },
+  {
+    "index": 72,
+    "Company": "Barton 1792 Distillery",
+    "Country": "United States",
+    "Rating": 83.6,
+    "Whisky": 55,
+    "Collection": 437,
+    "lon": -85.4778283,
+    "lat": 37.8049058
+  },
+  {
+    "index": 73,
+    "Company": "Basilico France",
+    "Country": "France",
+    "Rating": 78.5,
+    "Whisky": 4,
+    "Collection": 5,
+    "lon": 5.6867963,
+    "lat": 45.2187193
+  },
+  {
+    "index": 74,
+    "Company": "Békési Manufaktúra",
+    "Country": "Hungary",
+    "Rating": 57.34,
+    "Whisky": 3,
+    "Collection": 21,
+    "lon": 21.128792,
+    "lat": 46.771189
+  },
+  {
+    "index": 75,
+    "Company": "Belgrove",
+    "Country": "Australia",
+    "Rating": 86,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": 147.1869912,
+    "lat": -42.5025237
+  },
+  {
+    "index": 78,
+    "Company": "Belmont Farm Distillery",
+    "Country": "United States",
+    "Rating": 50,
+    "Whisky": 6,
+    "Collection": 14,
+    "lon": -77.992574,
+    "lat": 38.3729283
+  },
+  {
+    "index": 79,
+    "Company": "Bendistillery",
+    "Country": "United States",
+    "Rating": 76,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": -121.357355,
+    "lat": 44.1597801
+  },
+  {
+    "index": 81,
+    "Company": "Berkshire Mountain Distillers",
+    "Country": "United States",
+    "Rating": 82,
+    "Whisky": 6,
+    "Collection": 8,
+    "lon": -73.3621656,
+    "lat": 42.1949961
+  },
+  {
+    "index": 82,
+    "Company": "Bernheim",
+    "Country": "United States",
+    "Rating": 85.06,
+    "Whisky": 25,
+    "Collection": 425,
+    "lon": -85.7812008,
+    "lat": 38.2451276
+  },
+  {
+    "index": 83,
+    "Company": "Bertrand",
+    "Country": "France",
+    "Rating": 78.54,
+    "Whisky": 18,
+    "Collection": 64,
+    "lon": 1.4626576,
+    "lat": 48.4296841
+  },
+  {
+    "index": 84,
+    "Company": "BFLO Distilling Company",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -78.845276,
+    "lat": 42.8750418
+  },
+  {
+    "index": 85,
+    "Company": "Bières Michard",
+    "Country": "France",
+    "Rating": 77,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": 1.2875998,
+    "lat": 45.85463
+  },
+  {
+    "index": 86,
+    "Company": "Bieri Brennerei Bauernhof",
+    "Country": "Switzerland",
+    "Rating": 79.6,
+    "Whisky": 11,
+    "Collection": 40,
+    "lon": 8.5457272,
+    "lat": 47.1764904
+  },
+  {
+    "index": 87,
+    "Company": "Bieri Brennerei Bauernhof",
+    "Country": "Switzerland",
+    "Rating": 79.6,
+    "Whisky": 11,
+    "Collection": 40,
+    "lon": 8.5457272,
+    "lat": 47.1764904
+  },
+  {
+    "index": 88,
+    "Company": "Big Bottom Distilling",
+    "Country": "United States",
+    "Rating": 82.38,
+    "Whisky": 15,
+    "Collection": 27,
+    "lon": -122.8953519,
+    "lat": 45.531753
+  },
+  {
+    "index": 89,
+    "Company": "Bimber Distillery",
+    "Country": "United Kingdom",
+    "Rating": 77.5,
+    "Whisky": 8,
+    "Collection": 4,
+    "lon": -0.2645734,
+    "lat": 51.525927
+  },
+  {
+    "index": 90,
+    "Company": "Birgitta Rust - Piekfeine Brände e.K.",
+    "Country": "Germany",
+    "Rating": 71.63,
+    "Whisky": 7,
+    "Collection": 21,
+    "lon": 8.7776422,
+    "lat": 53.0862075
+  },
+  {
+    "index": 91,
+    "Company": "Birkenhof-Brennerei GmbH",
+    "Country": "Germany",
+    "Rating": 77.92,
+    "Whisky": 20,
+    "Collection": 107,
+    "lon": 7.9003643,
+    "lat": 50.6359322
+  },
+  {
+    "index": 93,
+    "Company": "Black Canyon Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -104.9714231,
+    "lat": 40.201819
+  },
+  {
+    "index": 94,
+    "Company": "Black Dirt Distillery",
+    "Country": "United States",
+    "Rating": 79,
+    "Whisky": 18,
+    "Collection": 6,
+    "lon": -74.4377452,
+    "lat": 41.2934814
+  },
+  {
+    "index": 95,
+    "Company": "Black Gate Distillery",
+    "Country": "Australia",
+    "Rating": 0,
+    "Whisky": 5,
+    "Collection": 3,
+    "lon": 149.1172064,
+    "lat": -31.8342192
+  },
+  {
+    "index": 96,
+    "Company": "Black Heron Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -119.3919592,
+    "lat": 46.2874645
+  },
+  {
+    "index": 98,
+    "Company": "Blaue Maus",
+    "Country": "Germany",
+    "Rating": 73.68,
+    "Whisky": 85,
+    "Collection": 159,
+    "lon": 11.0335825,
+    "lat": 49.7732755
+  },
+  {
+    "index": 99,
+    "Company": "Blaum Bros. Distilling Co.",
+    "Country": "United States",
+    "Rating": 89,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -90.4103828,
+    "lat": 42.4065501
+  },
+  {
+    "index": 101,
+    "Company": "Blue Ridge Distilling Co.",
+    "Country": "United States",
+    "Rating": 63.11,
+    "Whisky": 2,
+    "Collection": 15,
+    "lon": -81.7930283,
+    "lat": 35.5394275
+  },
+  {
+    "index": 104,
+    "Company": "Boann Distillery",
+    "Country": "Ireland",
+    "Rating": 79,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -6.3677521,
+    "lat": 53.6948348
+  },
+  {
+    "index": 105,
+    "Company": "Böckl",
+    "Country": "Austria",
+    "Rating": 69,
+    "Whisky": 4,
+    "Collection": 4,
+    "lon": 16.5552231,
+    "lat": 48.2964235
+  },
+  {
+    "index": 106,
+    "Company": "Bolanachi",
+    "Country": "Egypt",
+    "Rating": 11.25,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": 30.802498,
+    "lat": 26.820553
+  },
+  {
+    "index": 107,
+    "Company": "Bolanachi",
+    "Country": "Egypt",
+    "Rating": 11.25,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": 30.802498,
+    "lat": 26.820553
+  },
+  {
+    "index": 109,
+    "Company": "Boldizar",
+    "Country": "Germany",
+    "Rating": 72,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 8.5641247,
+    "lat": 49.8710508
+  },
+  {
+    "index": 111,
+    "Company": "Boone County Distilling Co.",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 5,
+    "lon": -84.613656,
+    "lat": 38.94681
+  },
+  {
+    "index": 112,
+    "Company": "Bosch-Edelbrand",
+    "Country": "Germany",
+    "Rating": 69.65,
+    "Whisky": 4,
+    "Collection": 25,
+    "lon": 9.4633957,
+    "lat": 48.5616724
+  },
+  {
+    "index": 113,
+    "Company": "Boston Harbor Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -71.0410241,
+    "lat": 42.2921331
+  },
+  {
+    "index": 114,
+    "Company": "Böttchehof",
+    "Country": "Germany",
+    "Rating": 24,
+    "Whisky": 2,
+    "Collection": 6,
+    "lon": 7.75764,
+    "lat": 47.9572
+  },
+  {
+    "index": 115,
+    "Company": "Bow Street Distillery",
+    "Country": "Ireland",
+    "Rating": 85.61,
+    "Whisky": 47,
+    "Collection": 86,
+    "lon": -6.2769754,
+    "lat": 53.3476218
+  },
+  {
+    "index": 116,
+    "Company": "Box",
+    "Country": "Sweden",
+    "Rating": 83.18,
+    "Whisky": 99,
+    "Collection": 4105,
+    "lon": 17.798573,
+    "lat": 63.0015247
+  },
+  {
+    "index": 117,
+    "Company": "Braeckman Distillers",
+    "Country": "Belgium",
+    "Rating": 88.27,
+    "Whisky": 1,
+    "Collection": 40,
+    "lon": 3.5754165,
+    "lat": 50.8191447
+  },
+  {
+    "index": 118,
+    "Company": "Brænderiet Limfjorden",
+    "Country": "Denmark",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 119,
+    "Company": "Brænderiet Limfjorden",
+    "Country": "Denmark",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 120,
+    "Company": "Brænderiet Limfjorden",
+    "Country": "Denmark",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 122,
+    "Company": "Brasserie de Bercloux",
+    "Country": "France",
+    "Rating": 62.67,
+    "Whisky": 6,
+    "Collection": 25,
+    "lon": -0.4704064,
+    "lat": 45.8348788
+  },
+  {
+    "index": 123,
+    "Company": "Brauerei Aare Bier / Old River",
+    "Country": "Switzerland",
+    "Rating": 72,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": 7.243981,
+    "lat": 47.0411534
+  },
+  {
+    "index": 124,
+    "Company": "Brauerei Baumgartner Tiroler Bier",
+    "Country": "Austria",
+    "Rating": 78,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 11.3881346,
+    "lat": 47.2543545
+  },
+  {
+    "index": 125,
+    "Company": "Brauerei Falken AG",
+    "Country": "Switzerland",
+    "Rating": 79.95,
+    "Whisky": 8,
+    "Collection": 25,
+    "lon": 8.6435888,
+    "lat": 47.7104657
+  },
+  {
+    "index": 126,
+    "Company": "Brauerei Locher",
+    "Country": "Switzerland",
+    "Rating": 82.81,
+    "Whisky": 196,
+    "Collection": 2229,
+    "lon": 9.4124588,
+    "lat": 47.3309868
+  },
+  {
+    "index": 127,
+    "Company": "Brauerei Monstein",
+    "Country": "Switzerland",
+    "Rating": 70.21,
+    "Whisky": 22,
+    "Collection": 18,
+    "lon": 9.7716255,
+    "lat": 46.7118549
+  },
+  {
+    "index": 129,
+    "Company": "Braugasthof Papiermühle",
+    "Country": "Germany",
+    "Rating": 75,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": 11.557931,
+    "lat": 50.9373018
+  },
+  {
+    "index": 130,
+    "Company": "Brauhaus am Lohberg zu Wismar",
+    "Country": "Germany",
+    "Rating": 81.08,
+    "Whisky": 4,
+    "Collection": 22,
+    "lon": 11.461062,
+    "lat": 53.8953629
+  },
+  {
+    "index": 131,
+    "Company": "Braunstein",
+    "Country": "Denmark",
+    "Rating": 79.36,
+    "Whisky": 34,
+    "Collection": 403,
+    "lon": 12.1886963,
+    "lat": 55.4531315
+  },
+  {
+    "index": 132,
+    "Company": "Breckenridge Distillery",
+    "Country": "United States",
+    "Rating": 83.03,
+    "Whisky": 5,
+    "Collection": 55,
+    "lon": -106.0522157,
+    "lat": 39.5096692
+  },
+  {
+    "index": 133,
+    "Company": "Brenne",
+    "Country": "France",
+    "Rating": 68.47,
+    "Whisky": 5,
+    "Collection": 28,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 134,
+    "Company": "Brenne",
+    "Country": "France",
+    "Rating": 68.47,
+    "Whisky": 5,
+    "Collection": 28,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 135,
+    "Company": "Brenne",
+    "Country": "France",
+    "Rating": 68.47,
+    "Whisky": 5,
+    "Collection": 28,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 136,
+    "Company": "Brennerei & Mosterei Stadelmann",
+    "Country": "Switzerland",
+    "Rating": 77.2,
+    "Whisky": 20,
+    "Collection": 65,
+    "lon": 7.8806817,
+    "lat": 47.1817222
+  },
+  {
+    "index": 137,
+    "Company": "Brennerei Brehmer-Knauer",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 12.6514753,
+    "lat": 50.7439046
+  },
+  {
+    "index": 138,
+    "Company": "Brennerei Druffel",
+    "Country": "Germany",
+    "Rating": 73.67,
+    "Whisky": 5,
+    "Collection": 37,
+    "lon": 8.214424,
+    "lat": 51.8011654
+  },
+  {
+    "index": 139,
+    "Company": "Brennerei E. & R. Brasch",
+    "Country": "Germany",
+    "Rating": 65,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 10.60856,
+    "lat": 49.94401
+  },
+  {
+    "index": 140,
+    "Company": "Brennerei Ehringhausen",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 7.5871,
+    "lat": 51.68374
+  },
+  {
+    "index": 141,
+    "Company": "Brennerei Eiger",
+    "Country": "Switzerland",
+    "Rating": 84,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 7.861424,
+    "lat": 46.66296
+  },
+  {
+    "index": 142,
+    "Company": "Brennerei Feller",
+    "Country": "Germany",
+    "Rating": 81.31,
+    "Whisky": 14,
+    "Collection": 47,
+    "lon": 10.0606729,
+    "lat": 48.2394394
+  },
+  {
+    "index": 144,
+    "Company": "Brennerei Gruel",
+    "Country": "Germany",
+    "Rating": 72.28,
+    "Whisky": 19,
+    "Collection": 68,
+    "lon": 9.44744,
+    "lat": 48.58819
+  },
+  {
+    "index": 145,
+    "Company": "Brennerei Henrich",
+    "Country": "Germany",
+    "Rating": 65.22,
+    "Whisky": 13,
+    "Collection": 68,
+    "lon": 8.46116,
+    "lat": 50.07869
+  },
+  {
+    "index": 146,
+    "Company": "Brennerei Höck",
+    "Country": "Austria",
+    "Rating": 60,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 12.1301971,
+    "lat": 47.5349059
+  },
+  {
+    "index": 147,
+    "Company": "Brennerei Höhler",
+    "Country": "Germany",
+    "Rating": 53.11,
+    "Whisky": 22,
+    "Collection": 51,
+    "lon": 8.0748501,
+    "lat": 50.24546
+  },
+  {
+    "index": 148,
+    "Company": "Brennerei Kramer",
+    "Country": "Switzerland",
+    "Rating": 78.78,
+    "Whisky": 6,
+    "Collection": 13,
+    "lon": 7.6515326,
+    "lat": 47.0612783
+  },
+  {
+    "index": 149,
+    "Company": "Brennerei L. Psenner",
+    "Country": "Italy",
+    "Rating": 61.33,
+    "Whisky": 1,
+    "Collection": 8,
+    "lon": 8.5386279,
+    "lat": 47.3717306
+  },
+  {
+    "index": 150,
+    "Company": "Brennerei Lanz",
+    "Country": "Switzerland",
+    "Rating": 77.5,
+    "Whisky": 1,
+    "Collection": 6,
+    "lon": 7.7835126,
+    "lat": 47.1874148
+  },
+  {
+    "index": 151,
+    "Company": "Brennerei Ludwig Faber",
+    "Country": "Germany",
+    "Rating": 38.67,
+    "Whisky": 1,
+    "Collection": 6,
+    "lon": 6.4073866,
+    "lat": 49.8619151
+  },
+  {
+    "index": 152,
+    "Company": "Brennerei Martin Meier",
+    "Country": "Germany",
+    "Rating": 64.17,
+    "Whisky": 4,
+    "Collection": 4,
+    "lon": 9.7635507,
+    "lat": 47.6411965
+  },
+  {
+    "index": 153,
+    "Company": "Brennerei Mühlenthal",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 6.8414223,
+    "lat": 49.2955307
+  },
+  {
+    "index": 155,
+    "Company": "Brennerei Schwab",
+    "Country": "Switzerland",
+    "Rating": 80.61,
+    "Whisky": 21,
+    "Collection": 21,
+    "lon": 7.4078754,
+    "lat": 47.1235171
+  },
+  {
+    "index": 156,
+    "Company": "Brennerei Volker Theurer im Gasthof Lamm",
+    "Country": "Germany",
+    "Rating": 73.5,
+    "Whisky": 5,
+    "Collection": 8,
+    "lon": 8.9790952,
+    "lat": 48.526585
+  },
+  {
+    "index": 157,
+    "Company": "Brennerei Wild",
+    "Country": "Germany",
+    "Rating": 74.33,
+    "Whisky": 2,
+    "Collection": 11,
+    "lon": 8.0200464,
+    "lat": 48.387471
+  },
+  {
+    "index": 158,
+    "Company": "Brennerei Ziegler",
+    "Country": "Germany",
+    "Rating": 79.23,
+    "Whisky": 21,
+    "Collection": 271,
+    "lon": 9.3201314,
+    "lat": 49.7400911
+  },
+  {
+    "index": 159,
+    "Company": "Brennerei Zürcher",
+    "Country": "Switzerland",
+    "Rating": 80.39,
+    "Whisky": 13,
+    "Collection": 27,
+    "lon": 7.2438613,
+    "lat": 47.117243
+  },
+  {
+    "index": 160,
+    "Company": "Breuckelen Distilling",
+    "Country": "United States",
+    "Rating": 67.83,
+    "Whisky": 4,
+    "Collection": 7,
+    "lon": -73.9977529,
+    "lat": 40.6659522
+  },
+  {
+    "index": 161,
+    "Company": "Brickway Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -95.9314358,
+    "lat": 41.2547355
+  },
+  {
+    "index": 162,
+    "Company": "Broad Branch Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -80.2462243,
+    "lat": 36.10365
+  },
+  {
+    "index": 164,
+    "Company": "Broger",
+    "Country": "Austria",
+    "Rating": 60.81,
+    "Whisky": 12,
+    "Collection": 19,
+    "lon": 9.639232,
+    "lat": 47.3092272
+  },
+  {
+    "index": 165,
+    "Company": "Brouwerij de Molen",
+    "Country": "Netherlands",
+    "Rating": 61.03,
+    "Whisky": 2,
+    "Collection": 14,
+    "lon": 4.7426709,
+    "lat": 52.0852595
+  },
+  {
+    "index": 166,
+    "Company": "Brouwerij Wilderen",
+    "Country": "Belgium",
+    "Rating": 72.66,
+    "Whisky": 14,
+    "Collection": 109,
+    "lon": 5.140169,
+    "lat": 50.8152908
+  },
+  {
+    "index": 167,
+    "Company": "Brouwerij-Stokerij PIRLOT",
+    "Country": "Belgium",
+    "Rating": 73.41,
+    "Whisky": 5,
+    "Collection": 77,
+    "lon": 4.6741707,
+    "lat": 51.2280791
+  },
+  {
+    "index": 168,
+    "Company": "Brown-Forman Distillery",
+    "Country": "United States",
+    "Rating": 82.32,
+    "Whisky": 77,
+    "Collection": 433,
+    "lon": -85.7979927,
+    "lat": 38.2085124
+  },
+  {
+    "index": 169,
+    "Company": "Bruckners Erz Bräu",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 15.0624894,
+    "lat": 47.8881202
+  },
+  {
+    "index": 170,
+    "Company": "Brûlerie du Revermont",
+    "Country": "France",
+    "Rating": 74,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 5.6304415,
+    "lat": 46.7385317
+  },
+  {
+    "index": 171,
+    "Company": "Brunschwiler Brennerei",
+    "Country": "Switzerland",
+    "Rating": 75.5,
+    "Whisky": 12,
+    "Collection": 25,
+    "lon": 9.1339308,
+    "lat": 47.4273762
+  },
+  {
+    "index": 172,
+    "Company": "Buffalo Trace Distillery",
+    "Country": "United States",
+    "Rating": 84.89,
+    "Whisky": 894,
+    "Collection": 9938,
+    "lon": -84.8708894,
+    "lat": 38.2166916
+  },
+  {
+    "index": 173,
+    "Company": "Bull Run Distilling Co.",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 4,
+    "Collection": 7,
+    "lon": -122.6980377,
+    "lat": 45.5336476
+  },
+  {
+    "index": 174,
+    "Company": "Bulleit Distilling Co.",
+    "Country": "United States",
+    "Rating": 82.27,
+    "Whisky": 2,
+    "Collection": 56,
+    "lon": -84.8981534,
+    "lat": 37.9730559
+  },
+  {
+    "index": 175,
+    "Company": "Bully Boy Distillers",
+    "Country": "United States",
+    "Rating": 80,
+    "Whisky": 4,
+    "Collection": 2,
+    "lon": -71.0711798,
+    "lat": 42.3254589
+  },
+  {
+    "index": 176,
+    "Company": "Burgdorfer",
+    "Country": "Switzerland",
+    "Rating": 71.83,
+    "Whisky": 8,
+    "Collection": 11,
+    "lon": 7.6299485,
+    "lat": 47.0584991
+  },
+  {
+    "index": 177,
+    "Company": "Burger Hofbrennerei",
+    "Country": "Germany",
+    "Rating": 76,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 14.08857,
+    "lat": 51.84348
+  },
+  {
+    "index": 178,
+    "Company": "Bushmills",
+    "Country": "Ireland",
+    "Rating": 82.81,
+    "Whisky": 247,
+    "Collection": 6950,
+    "lon": -6.5195477,
+    "lat": 55.202017
+  },
+  {
+    "index": 179,
+    "Company": "C. W. Falckenthal Söhne",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 13.1636906,
+    "lat": 52.0903895
+  },
+  {
+    "index": 180,
+    "Company": "Cadushy Distillery",
+    "Country": "Netherlands Antilles",
+    "Rating": 65.75,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": -72.1972175,
+    "lat": 16.6487427
+  },
+  {
+    "index": 181,
+    "Company": "Caldera Distilling",
+    "Country": "Canada",
+    "Rating": 83,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -63.0454371,
+    "lat": 45.7566751
+  },
+  {
+    "index": 184,
+    "Company": "Canadian Mist",
+    "Country": "Canada",
+    "Rating": 58.88,
+    "Whisky": 6,
+    "Collection": 13,
+    "lon": -80.2169047,
+    "lat": 44.5007687
+  },
+  {
+    "index": 187,
+    "Company": "Cascade Hollow Distillery",
+    "Country": "United States",
+    "Rating": 81.28,
+    "Whisky": 65,
+    "Collection": 362,
+    "lon": -86.244465,
+    "lat": 35.4382849
+  },
+  {
+    "index": 190,
+    "Company": "Catoctin Creek Distillery",
+    "Country": "United States",
+    "Rating": 76.77,
+    "Whisky": 18,
+    "Collection": 19,
+    "lon": -77.7150274,
+    "lat": 39.1365006
+  },
+  {
+    "index": 191,
+    "Company": "Catskill Distilling Company",
+    "Country": "United States",
+    "Rating": 79.42,
+    "Whisky": 8,
+    "Collection": 18,
+    "lon": -74.7357905,
+    "lat": 41.702671
+  },
+  {
+    "index": 192,
+    "Company": "Cave de la Crausaz",
+    "Country": "Switzerland",
+    "Rating": 76,
+    "Whisky": 4,
+    "Collection": 10,
+    "lon": 6.370958,
+    "lat": 46.479791
+  },
+  {
+    "index": 193,
+    "Company": "Cedar Ridge Winery & Distillery",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": -91.6775116,
+    "lat": 41.8313381
+  },
+  {
+    "index": 194,
+    "Company": "Central City Brewers + Distillers",
+    "Country": "Canada",
+    "Rating": 77,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -122.8637738,
+    "lat": 49.2099613
+  },
+  {
+    "index": 196,
+    "Company": "Charbay Distillery & Winery",
+    "Country": "United States",
+    "Rating": 85.61,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -122.541779,
+    "lat": 38.5219434
+  },
+  {
+    "index": 197,
+    "Company": "Charles Medley Distillery",
+    "Country": "United States",
+    "Rating": 85.56,
+    "Whisky": 15,
+    "Collection": 47,
+    "lon": -87.1021601,
+    "lat": 37.750561
+  },
+  {
+    "index": 199,
+    "Company": "Chichibu",
+    "Country": "Japan",
+    "Rating": 87.41,
+    "Whisky": 212,
+    "Collection": 6256,
+    "lon": 139.0543551,
+    "lat": 36.0465647
+  },
+  {
+    "index": 200,
+    "Company": "Chicken Cock Distilleries",
+    "Country": "United States",
+    "Rating": 77,
+    "Whisky": 11,
+    "Collection": 7,
+    "lon": -80.1088334,
+    "lat": 32.9611679
+  },
+  {
+    "index": 201,
+    "Company": "Chicken Hill",
+    "Country": "Switzerland",
+    "Rating": 76.75,
+    "Whisky": 14,
+    "Collection": 28,
+    "lon": 8.5457272,
+    "lat": 47.1764904
+  },
+  {
+    "index": 202,
+    "Company": "Chicken Hill",
+    "Country": "Switzerland",
+    "Rating": 76.75,
+    "Whisky": 14,
+    "Collection": 28,
+    "lon": 8.5457272,
+    "lat": 47.1764904
+  },
+  {
+    "index": 204,
+    "Company": "Chugoku Jozo",
+    "Country": "Japan",
+    "Rating": 80.61,
+    "Whisky": 11,
+    "Collection": 545,
+    "lon": 132.331622,
+    "lat": 34.3482578
+  },
+  {
+    "index": 207,
+    "Company": "Clear Creek Distillery",
+    "Country": "United States",
+    "Rating": 81.1,
+    "Whisky": 16,
+    "Collection": 99,
+    "lon": -122.7004134,
+    "lat": 45.5378193
+  },
+  {
+    "index": 208,
+    "Company": "Cleveland Whiskey",
+    "Country": "United States",
+    "Rating": 82.96,
+    "Whisky": 22,
+    "Collection": 66,
+    "lon": -81.6720769,
+    "lat": 41.506046
+  },
+  {
+    "index": 209,
+    "Company": "Clonakilty Distillery",
+    "Country": "Ireland",
+    "Rating": 84.42,
+    "Whisky": 2,
+    "Collection": 26,
+    "lon": -8.891429,
+    "lat": 51.623434
+  },
+  {
+    "index": 210,
+    "Company": "Coillmór",
+    "Country": "Germany",
+    "Rating": 70.24,
+    "Whisky": 50,
+    "Collection": 143,
+    "lon": 12.85765,
+    "lat": 49.17629
+  },
+  {
+    "index": 211,
+    "Company": "Collier and McKeel",
+    "Country": "United States",
+    "Rating": 72,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -86.796061,
+    "lat": 36.1646805
+  },
+  {
+    "index": 212,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 213,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 214,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 215,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 216,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 217,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 218,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 219,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 220,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 221,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 222,
+    "Company": "Colorado Gold Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 223,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 224,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 225,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 226,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 227,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 228,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 229,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 230,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 231,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 232,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 233,
+    "Company": "Conecuh Ridge Distillery",
+    "Country": "United States",
+    "Rating": 79.72,
+    "Whisky": 9,
+    "Collection": 24,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 234,
+    "Company": "Connacht Distillery",
+    "Country": "Ireland",
+    "Rating": 81.5,
+    "Whisky": 7,
+    "Collection": 9,
+    "lon": -9.1520198,
+    "lat": 54.1253001
+  },
+  {
+    "index": 235,
+    "Company": "Cooley Distillery",
+    "Country": "Ireland",
+    "Rating": 82.36,
+    "Whisky": 381,
+    "Collection": 8247,
+    "lon": -6.3671103,
+    "lat": 53.9769818
+  },
+  {
+    "index": 237,
+    "Company": "Cooperstown Distillery",
+    "Country": "United States",
+    "Rating": 72,
+    "Whisky": 6,
+    "Collection": 3,
+    "lon": -74.9318888,
+    "lat": 42.6994819
+  },
+  {
+    "index": 238,
+    "Company": "Copper Fox Distillery",
+    "Country": "United States",
+    "Rating": 65.53,
+    "Whisky": 18,
+    "Collection": 119,
+    "lon": -78.218071,
+    "lat": 38.658863
+  },
+  {
+    "index": 239,
+    "Company": "Copper Rivet Distillery",
+    "Country": "United Kingdom",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 0.531718,
+    "lat": 51.403199
+  },
+  {
+    "index": 240,
+    "Company": "Copper Run Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -93.2444761,
+    "lat": 36.8012618
+  },
+  {
+    "index": 241,
+    "Company": "Coppersea Distilling",
+    "Country": "United States",
+    "Rating": 88,
+    "Whisky": 4,
+    "Collection": 3,
+    "lon": -73.9603646,
+    "lat": 41.8117704
+  },
+  {
+    "index": 242,
+    "Company": "Copperworks Distilling Co.",
+    "Country": "United States",
+    "Rating": 87,
+    "Whisky": 5,
+    "Collection": 4,
+    "lon": -122.339745,
+    "lat": 47.606032
+  },
+  {
+    "index": 243,
+    "Company": "Corby Spirit and Wine Ltd.",
+    "Country": "Canada",
+    "Rating": 82.19,
+    "Whisky": 30,
+    "Collection": 509,
+    "lon": -106.346771,
+    "lat": 56.130366
+  },
+  {
+    "index": 244,
+    "Company": "Corby Spirit and Wine Ltd.",
+    "Country": "Canada",
+    "Rating": 82.19,
+    "Whisky": 30,
+    "Collection": 509,
+    "lon": -106.346771,
+    "lat": 56.130366
+  },
+  {
+    "index": 245,
+    "Company": "Cornelius Pass Roadhouse Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -122.9004755,
+    "lat": 45.5490951
+  },
+  {
+    "index": 246,
+    "Company": "Corsair Artisan Distillery",
+    "Country": "United States",
+    "Rating": 76.99,
+    "Whisky": 41,
+    "Collection": 86,
+    "lon": -86.796061,
+    "lat": 36.1646805
+  },
+  {
+    "index": 247,
+    "Company": "Cotswolds Distillery",
+    "Country": "United Kingdom",
+    "Rating": 82,
+    "Whisky": 21,
+    "Collection": 356,
+    "lon": -1.565349,
+    "lat": 52.025586
+  },
+  {
+    "index": 248,
+    "Company": "Cradle Mountain",
+    "Country": "Australia",
+    "Rating": 84.26,
+    "Whisky": 8,
+    "Collection": 49,
+    "lon": 146.1872071,
+    "lat": -41.1702632
+  },
+  {
+    "index": 249,
+    "Company": "Craft Distillers",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 8,
+    "Collection": 6,
+    "lon": -123.2077708,
+    "lat": 39.1480992
+  },
+  {
+    "index": 251,
+    "Company": "Cut Spike Distillery",
+    "Country": "United States",
+    "Rating": 87,
+    "Whisky": 2,
+    "Collection": 13,
+    "lon": -96.099639,
+    "lat": 41.169704
+  },
+  {
+    "index": 253,
+    "Company": "Dachstein Destillerie Mandlberggut",
+    "Country": "Austria",
+    "Rating": 60.64,
+    "Whisky": 7,
+    "Collection": 27,
+    "lon": 13.5622645,
+    "lat": 47.4092371
+  },
+  {
+    "index": 255,
+    "Company": "Dallas Distilleries Inc.",
+    "Country": "United States",
+    "Rating": 72,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": -96.6966879,
+    "lat": 32.9048107
+  },
+  {
+    "index": 256,
+    "Company": "Dancing Cows Distillery",
+    "Country": "United Kingdom",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -1.551129,
+    "lat": 50.742034
+  },
+  {
+    "index": 257,
+    "Company": "Dancing Goat Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -89.0297608,
+    "lat": 43.0177961
+  },
+  {
+    "index": 260,
+    "Company": "Dark Horse",
+    "Country": "United States",
+    "Rating": 80,
+    "Whisky": 4,
+    "Collection": 5,
+    "lon": -94.7214237,
+    "lat": 38.9729167
+  },
+  {
+    "index": 262,
+    "Company": "De Graal",
+    "Country": "Belgium",
+    "Rating": 71.28,
+    "Whisky": 2,
+    "Collection": 28,
+    "lon": 3.7711008,
+    "lat": 50.8003397
+  },
+  {
+    "index": 263,
+    "Company": "De Lepelaar",
+    "Country": "Netherlands",
+    "Rating": 78.17,
+    "Whisky": 5,
+    "Collection": 25,
+    "lon": 4.7387488,
+    "lat": 53.0313727
+  },
+  {
+    "index": 264,
+    "Company": "De Lepelaar",
+    "Country": "Netherlands",
+    "Rating": 78.17,
+    "Whisky": 5,
+    "Collection": 25,
+    "lon": 4.7387488,
+    "lat": 53.0313727
+  },
+  {
+    "index": 268,
+    "Company": "De Tweekoppige Phoenix",
+    "Country": "Netherlands",
+    "Rating": 58,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": -111.0937311,
+    "lat": 34.0489281
+  },
+  {
+    "index": 269,
+    "Company": "Death's Door Distillery",
+    "Country": "United States",
+    "Rating": 74,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -89.5284023,
+    "lat": 43.0999829
+  },
+  {
+    "index": 271,
+    "Company": "Deerhammer",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -106.1298394,
+    "lat": 38.842333
+  },
+  {
+    "index": 272,
+    "Company": "Deheck",
+    "Country": "Germany",
+    "Rating": 81,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 8.1866994,
+    "lat": 49.7863429
+  },
+  {
+    "index": 273,
+    "Company": "Delaware Phoenix Distillery",
+    "Country": "United States",
+    "Rating": 79,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": -75.1302524,
+    "lat": 42.1684486
+  },
+  {
+    "index": 274,
+    "Company": "Demmel & Cie.",
+    "Country": "Germany",
+    "Rating": 61.5,
+    "Whisky": 2,
+    "Collection": 6,
+    "lon": 10.83482,
+    "lat": 52.0195
+  },
+  {
+    "index": 275,
+    "Company": "Destileria Limtuaco & Co., Inc.",
+    "Country": "Philippines",
+    "Rating": 21,
+    "Whisky": 6,
+    "Collection": 5,
+    "lon": 121.0348442,
+    "lat": 14.6481656
+  },
+  {
+    "index": 276,
+    "Company": "Destilerías Aldea, S.L.",
+    "Country": "Spain",
+    "Rating": 77.5,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -17.7629185,
+    "lat": 28.8099198
+  },
+  {
+    "index": 277,
+    "Company": "Destilerías Y Crianza",
+    "Country": "Spain",
+    "Rating": 67.59,
+    "Whisky": 18,
+    "Collection": 172,
+    "lon": -4.063951,
+    "lat": 40.92543
+  },
+  {
+    "index": 278,
+    "Company": "Destilérka Svach",
+    "Country": "Czech Republic",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 14.3644653,
+    "lat": 48.8273547
+  },
+  {
+    "index": 279,
+    "Company": "Destillate Siegfried Herzog",
+    "Country": "Austria",
+    "Rating": 63.33,
+    "Whisky": 1,
+    "Collection": 5,
+    "lon": 12.833139,
+    "lat": 47.4077579
+  },
+  {
+    "index": 280,
+    "Company": "Destille Kaltenthaler",
+    "Country": "Germany",
+    "Rating": 54,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": 8.2546435,
+    "lat": 49.7030731
+  },
+  {
+    "index": 281,
+    "Company": "Destillerie & Genussmanufaktur Rieger & Hofmeister",
+    "Country": "Germany",
+    "Rating": 59,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 9.2810818,
+    "lat": 48.8051157
+  },
+  {
+    "index": 282,
+    "Company": "Destillerie Egnach",
+    "Country": "Switzerland",
+    "Rating": 79.15,
+    "Whisky": 2,
+    "Collection": 23,
+    "lon": 9.383887,
+    "lat": 47.5414655
+  },
+  {
+    "index": 284,
+    "Company": "Destillerie Gößwein",
+    "Country": "Germany",
+    "Rating": 40.67,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 9.84646,
+    "lat": 49.87525
+  },
+  {
+    "index": 287,
+    "Company": "Destillerie Ralf Hauer",
+    "Country": "Germany",
+    "Rating": 82.48,
+    "Whisky": 10,
+    "Collection": 60,
+    "lon": 8.1796739,
+    "lat": 49.4638565
+  },
+  {
+    "index": 288,
+    "Company": "Destillerie Rogner",
+    "Country": "Austria",
+    "Rating": 75,
+    "Whisky": 6,
+    "Collection": 6,
+    "lon": 15.1279484,
+    "lat": 48.5302575
+  },
+  {
+    "index": 289,
+    "Company": "Destillerie Wilhelm Behr",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 11.98956,
+    "lat": 51.75463
+  },
+  {
+    "index": 290,
+    "Company": "Destylarnia Piasecki",
+    "Country": "Poland",
+    "Rating": 74,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 20.438208,
+    "lat": 53.721762
+  },
+  {
+    "index": 291,
+    "Company": "Det Norske Brenneri",
+    "Country": "Norway",
+    "Rating": 81.21,
+    "Whisky": 6,
+    "Collection": 19,
+    "lon": 10.7233206,
+    "lat": 59.9202568
+  },
+  {
+    "index": 292,
+    "Company": "Detroit City Distillery",
+    "Country": "United States",
+    "Rating": 76,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": -83.0381095,
+    "lat": 42.3463445
+  },
+  {
+    "index": 294,
+    "Company": "Die Kleinbrennerei Rackelmann",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 11.2218602,
+    "lat": 49.7207035
+  },
+  {
+    "index": 295,
+    "Company": "Die kleine Destillerie",
+    "Country": "Germany",
+    "Rating": 70,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 9.4010764,
+    "lat": 48.8259498
+  },
+  {
+    "index": 299,
+    "Company": "Dillon's Small Batch  Distillers",
+    "Country": "Canada",
+    "Rating": 77,
+    "Whisky": 3,
+    "Collection": 11,
+    "lon": -79.4452484,
+    "lat": 43.1891296
+  },
+  {
+    "index": 300,
+    "Company": "Distilleerderij Keuris",
+    "Country": "Netherlands",
+    "Rating": 77.43,
+    "Whisky": 1,
+    "Collection": 7,
+    "lon": 4.8508086,
+    "lat": 52.0831996
+  },
+  {
+    "index": 301,
+    "Company": "Distillerie Castan",
+    "Country": "France",
+    "Rating": 76.5,
+    "Whisky": 4,
+    "Collection": 20,
+    "lon": 2.0348228,
+    "lat": 44.0142374
+  },
+  {
+    "index": 302,
+    "Company": "Distillerie Claeyssens de Wambrechies",
+    "Country": "France",
+    "Rating": 65.96,
+    "Whisky": 6,
+    "Collection": 44,
+    "lon": 3.0518497,
+    "lat": 50.6883003
+  },
+  {
+    "index": 303,
+    "Company": "Distillerie de Biercée",
+    "Country": "Belgium",
+    "Rating": 52,
+    "Whisky": 1,
+    "Collection": 18,
+    "lon": 4.2879346,
+    "lat": 50.3083773
+  },
+  {
+    "index": 304,
+    "Company": "Distillerie de Monsieur Balthazar",
+    "Country": "France",
+    "Rating": 74.17,
+    "Whisky": 2,
+    "Collection": 17,
+    "lon": 2.7113616,
+    "lat": 46.5083737
+  },
+  {
+    "index": 305,
+    "Company": "Distillerie de Paris",
+    "Country": "France",
+    "Rating": 42.5,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": 2.349928,
+    "lat": 48.8737579
+  },
+  {
+    "index": 306,
+    "Company": "Distillerie des Menhirs",
+    "Country": "France",
+    "Rating": 78.75,
+    "Whisky": 13,
+    "Collection": 296,
+    "lon": -4.152334,
+    "lat": 47.938491
+  },
+  {
+    "index": 307,
+    "Company": "Distillerie Diedenacker",
+    "Country": "Luxembourg",
+    "Rating": 68.33,
+    "Whisky": 7,
+    "Collection": 46,
+    "lon": 6.4009516,
+    "lat": 49.6352907
+  },
+  {
+    "index": 308,
+    "Company": "Distillerie Dreum",
+    "Country": "France",
+    "Rating": 73,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 3.5846691,
+    "lat": 50.19697
+  },
+  {
+    "index": 309,
+    "Company": "Distillerie du Pays d'Othe",
+    "Country": "France",
+    "Rating": 71.83,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 310,
+    "Company": "Distillerie du Pays d'Othe",
+    "Country": "France",
+    "Rating": 71.83,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 311,
+    "Company": "Distillerie du Pays d'Othe",
+    "Country": "France",
+    "Rating": 71.83,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": 2.213749,
+    "lat": 46.227638
+  },
+  {
+    "index": 312,
+    "Company": "Distillerie du Périgord",
+    "Country": "France",
+    "Rating": 74.43,
+    "Whisky": 2,
+    "Collection": 22,
+    "lon": 1.1877185,
+    "lat": 44.8650281
+  },
+  {
+    "index": 313,
+    "Company": "Distillerie du St. Laurent",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -68.5049057,
+    "lat": 48.4557113
+  },
+  {
+    "index": 314,
+    "Company": "Distillerie Ergaster",
+    "Country": "France",
+    "Rating": 73,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 2.9648522,
+    "lat": 49.5518789
+  },
+  {
+    "index": 315,
+    "Company": "Distillerie G. Miclo",
+    "Country": "France",
+    "Rating": 83.82,
+    "Whisky": 6,
+    "Collection": 35,
+    "lon": -118.2436849,
+    "lat": 34.0522342
+  },
+  {
+    "index": 316,
+    "Company": "Distillerie Grallet-Dupic",
+    "Country": "France",
+    "Rating": 78.26,
+    "Whisky": 14,
+    "Collection": 135,
+    "lon": 6.4343952,
+    "lat": 48.4498813
+  },
+  {
+    "index": 317,
+    "Company": "Distillerie Janot",
+    "Country": "France",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 4,
+    "lon": 5.6082056,
+    "lat": 43.2815672
+  },
+  {
+    "index": 318,
+    "Company": "Distillerie La Rouget de L'Isle",
+    "Country": "France",
+    "Rating": 85.08,
+    "Whisky": 4,
+    "Collection": 19,
+    "lon": 5.444184,
+    "lat": 46.7490829
+  },
+  {
+    "index": 319,
+    "Company": "Distillerie Mavela",
+    "Country": "France",
+    "Rating": 73.46,
+    "Whisky": 16,
+    "Collection": 162,
+    "lon": 9.456406,
+    "lat": 42.084254
+  },
+  {
+    "index": 320,
+    "Company": "Distillerie Meyer",
+    "Country": "France",
+    "Rating": 75.34,
+    "Whisky": 3,
+    "Collection": 95,
+    "lon": 7.3542126,
+    "lat": 48.3372983
+  },
+  {
+    "index": 321,
+    "Company": "Distillerie Moutard",
+    "Country": "France",
+    "Rating": 73,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 4.3946455,
+    "lat": 48.054724
+  },
+  {
+    "index": 322,
+    "Company": "Distillerie Muller-Lemmer",
+    "Country": "Luxembourg",
+    "Rating": 78,
+    "Whisky": 1,
+    "Collection": 6,
+    "lon": 6.2261253,
+    "lat": 49.5847992
+  },
+  {
+    "index": 324,
+    "Company": "Distillerie Seetal GmbH",
+    "Country": "Switzerland",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 5,
+    "lon": 8.3218395,
+    "lat": 47.1811341
+  },
+  {
+    "index": 325,
+    "Company": "Distillerie Theo Preiss",
+    "Country": "France",
+    "Rating": 75.5,
+    "Whisky": 2,
+    "Collection": 11,
+    "lon": 7.3226637,
+    "lat": 48.150669
+  },
+  {
+    "index": 326,
+    "Company": "Distillery 291",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 6,
+    "Collection": 13,
+    "lon": -104.8257169,
+    "lat": 38.8098644
+  },
+  {
+    "index": 328,
+    "Company": "Dobson's",
+    "Country": "Australia",
+    "Rating": 76,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": 151.4445301,
+    "lat": -30.7556202
+  },
+  {
+    "index": 329,
+    "Company": "Doc Porter's Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -80.879757,
+    "lat": 35.1882872
+  },
+  {
+    "index": 330,
+    "Company": "Dolleruper Destille",
+    "Country": "Germany",
+    "Rating": 62.84,
+    "Whisky": 4,
+    "Collection": 12,
+    "lon": 9.6924201,
+    "lat": 54.7853739
+  },
+  {
+    "index": 331,
+    "Company": "Domaine de Bourjac",
+    "Country": "France",
+    "Rating": 71,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 6.1317955,
+    "lat": 49.6117863
+  },
+  {
+    "index": 332,
+    "Company": "Domaine des Hautes Glaces",
+    "Country": "France",
+    "Rating": 79.15,
+    "Whisky": 26,
+    "Collection": 125,
+    "lon": 5.7359266,
+    "lat": 44.8359269
+  },
+  {
+    "index": 333,
+    "Company": "Don Quixote Distillery",
+    "Country": "United States",
+    "Rating": 82,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -105.992683,
+    "lat": 35.6598174
+  },
+  {
+    "index": 334,
+    "Company": "Donner-Peltier Distillers",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -90.8174836,
+    "lat": 29.8184361
+  },
+  {
+    "index": 335,
+    "Company": "Door County Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -87.335846,
+    "lat": 44.951908
+  },
+  {
+    "index": 337,
+    "Company": "Doz de Dauzanges",
+    "Country": "France",
+    "Rating": 65,
+    "Whisky": 1,
+    "Collection": 5,
+    "lon": -1.1744223,
+    "lat": 48.545701
+  },
+  {
+    "index": 339,
+    "Company": "Drexler",
+    "Country": "Germany",
+    "Rating": 72.7,
+    "Whisky": 37,
+    "Collection": 55,
+    "lon": 13.00184,
+    "lat": 49.19262
+  },
+  {
+    "index": 341,
+    "Company": "Dry Fly Distilling",
+    "Country": "United States",
+    "Rating": 80.36,
+    "Whisky": 15,
+    "Collection": 62,
+    "lon": -117.3941863,
+    "lat": 47.6627053
+  },
+  {
+    "index": 344,
+    "Company": "DÜRR Edelbranntweine GmbH",
+    "Country": "Germany",
+    "Rating": 77.17,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": 8.6258082,
+    "lat": 48.6388204
+  },
+  {
+    "index": 345,
+    "Company": "Duvel Moortgat",
+    "Country": "Belgium",
+    "Rating": 43.73,
+    "Whisky": 2,
+    "Collection": 127,
+    "lon": 4.469936,
+    "lat": 50.503887
+  },
+  {
+    "index": 346,
+    "Company": "Duvel Moortgat",
+    "Country": "Belgium",
+    "Rating": 43.73,
+    "Whisky": 2,
+    "Collection": 127,
+    "lon": 4.469936,
+    "lat": 50.503887
+  },
+  {
+    "index": 348,
+    "Company": "Eaglesburn Distillery",
+    "Country": "Netherlands",
+    "Rating": 81,
+    "Whisky": 6,
+    "Collection": 16,
+    "lon": 4.3943288,
+    "lat": 51.214874
+  },
+  {
+    "index": 350,
+    "Company": "Eastside Distilling",
+    "Country": "United States",
+    "Rating": 78.13,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": -122.6623549,
+    "lat": 45.5097499
+  },
+  {
+    "index": 351,
+    "Company": "Eau Claire Distillery Ltd.",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -114.2797768,
+    "lat": 50.6737826
+  },
+  {
+    "index": 352,
+    "Company": "Echlinville Distillery Ltd",
+    "Country": "Ireland",
+    "Rating": 76.06,
+    "Whisky": 8,
+    "Collection": 96,
+    "lon": -5.51128,
+    "lat": 54.46584
+  },
+  {
+    "index": 353,
+    "Company": "Edelbrände Senft",
+    "Country": "Germany",
+    "Rating": 72.43,
+    "Whisky": 13,
+    "Collection": 75,
+    "lon": 9.2616158,
+    "lat": 47.7959479
+  },
+  {
+    "index": 354,
+    "Company": "Edelbrennerei Anton Bischof",
+    "Country": "Germany",
+    "Rating": 61,
+    "Whisky": 2,
+    "Collection": 7,
+    "lon": 9.78499,
+    "lat": 50.16698
+  },
+  {
+    "index": 355,
+    "Company": "Edelbrennerei Dirker",
+    "Country": "Germany",
+    "Rating": 76.83,
+    "Whisky": 4,
+    "Collection": 10,
+    "lon": 9.1462621,
+    "lat": 50.0917226
+  },
+  {
+    "index": 356,
+    "Company": "Edelbrennerei Haas",
+    "Country": "Germany",
+    "Rating": 76.19,
+    "Whisky": 11,
+    "Collection": 11,
+    "lon": 11.1753378,
+    "lat": 49.7556354
+  },
+  {
+    "index": 357,
+    "Company": "Edelbrennerei Schloss Neuenburg",
+    "Country": "Germany",
+    "Rating": 79.38,
+    "Whisky": 3,
+    "Collection": 20,
+    "lon": 11.7774225,
+    "lat": 51.2088678
+  },
+  {
+    "index": 358,
+    "Company": "Edelobst & Whiskydestille Höning",
+    "Country": "Germany",
+    "Rating": 79,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": 7.8465372,
+    "lat": 49.5693303
+  },
+  {
+    "index": 359,
+    "Company": "Edgefield Distillery",
+    "Country": "United States",
+    "Rating": 81,
+    "Whisky": 7,
+    "Collection": 12,
+    "lon": -122.4065816,
+    "lat": 45.537115
+  },
+  {
+    "index": 360,
+    "Company": "Eifel Destillate",
+    "Country": "Germany",
+    "Rating": 77.81,
+    "Whisky": 29,
+    "Collection": 80,
+    "lon": 7.6022217,
+    "lat": 50.3456843
+  },
+  {
+    "index": 361,
+    "Company": "Eigashima Shuzo",
+    "Country": "Japan",
+    "Rating": 82.67,
+    "Whisky": 65,
+    "Collection": 1118,
+    "lon": 134.939081,
+    "lat": 34.681955
+  },
+  {
+    "index": 362,
+    "Company": "Eimverk Distillery",
+    "Country": "Iceland",
+    "Rating": 69.08,
+    "Whisky": 27,
+    "Collection": 243,
+    "lon": -21.9377714,
+    "lat": 64.0900175
+  },
+  {
+    "index": 363,
+    "Company": "Eleven Wells Spirit",
+    "Country": "United States",
+    "Rating": 76,
+    "Whisky": 6,
+    "Collection": 2,
+    "lon": -93.0401351,
+    "lat": 44.9635588
+  },
+  {
+    "index": 365,
+    "Company": "Emperador Distillers, Inc.",
+    "Country": "Philippines",
+    "Rating": 38,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 121.059285,
+    "lat": 14.2642086
+  },
+  {
+    "index": 366,
+    "Company": "Enghaven",
+    "Country": "Denmark",
+    "Rating": 68.5,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": 10.2113069,
+    "lat": 56.524281
+  },
+  {
+    "index": 368,
+    "Company": "English Spirit Distillery (Old Salt Depot)",
+    "Country": "United Kingdom",
+    "Rating": 87.13,
+    "Whisky": 5,
+    "Collection": 4,
+    "lon": 0.3839066,
+    "lat": 52.1952857
+  },
+  {
+    "index": 370,
+    "Company": "Erismann",
+    "Country": "Switzerland",
+    "Rating": 79.5,
+    "Whisky": 2,
+    "Collection": 13,
+    "lon": 8.5669806,
+    "lat": 47.5158058
+  },
+  {
+    "index": 371,
+    "Company": "Erlebnisbrennerei Kallnach",
+    "Country": "Switzerland",
+    "Rating": 73.83,
+    "Whisky": 3,
+    "Collection": 16,
+    "lon": 7.2257061,
+    "lat": 47.0294637
+  },
+  {
+    "index": 372,
+    "Company": "Etter",
+    "Country": "Switzerland",
+    "Rating": 77.24,
+    "Whisky": 16,
+    "Collection": 62,
+    "lon": 8.4867991,
+    "lat": 47.1852142
+  },
+  {
+    "index": 374,
+    "Company": "Fary Lochan",
+    "Country": "Denmark",
+    "Rating": 79.66,
+    "Whisky": 22,
+    "Collection": 117,
+    "lon": 9.253021,
+    "lat": 55.802346
+  },
+  {
+    "index": 375,
+    "Company": "Feinbrennerei Simon's",
+    "Country": "Germany",
+    "Rating": 71.5,
+    "Whisky": 2,
+    "Collection": 23,
+    "lon": 9.1309118,
+    "lat": 50.0970964
+  },
+  {
+    "index": 376,
+    "Company": "Feiner Kappler",
+    "Country": "Germany",
+    "Rating": 85.5,
+    "Whisky": 1,
+    "Collection": 14,
+    "lon": 8.1114755,
+    "lat": 48.5992458
+  },
+  {
+    "index": 377,
+    "Company": "Feisty Spirits Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -105.0461068,
+    "lat": 40.5851246
+  },
+  {
+    "index": 378,
+    "Company": "FEW Spirits",
+    "Country": "United States",
+    "Rating": 82.32,
+    "Whisky": 27,
+    "Collection": 171,
+    "lon": -87.6799324,
+    "lat": 42.0349222
+  },
+  {
+    "index": 379,
+    "Company": "Filibuster Distillery",
+    "Country": "United States",
+    "Rating": 82.38,
+    "Whisky": 5,
+    "Collection": 9,
+    "lon": -78.4648234,
+    "lat": 38.9295687
+  },
+  {
+    "index": 380,
+    "Company": "Finch Whiskydestillerie",
+    "Country": "Germany",
+    "Rating": 79.1,
+    "Whisky": 36,
+    "Collection": 208,
+    "lon": 9.7920129,
+    "lat": 48.5411402
+  },
+  {
+    "index": 381,
+    "Company": "Finger Lakes Distilling",
+    "Country": "United States",
+    "Rating": 78.62,
+    "Whisky": 11,
+    "Collection": 30,
+    "lon": -76.8635775,
+    "lat": 42.4601992
+  },
+  {
+    "index": 382,
+    "Company": "Fisselier",
+    "Country": "France",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -1.6122393,
+    "lat": 48.0821222
+  },
+  {
+    "index": 383,
+    "Company": "Fleurieu Distillery",
+    "Country": "Australia",
+    "Rating": 0,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 138.7783094,
+    "lat": -35.4980286
+  },
+  {
+    "index": 395,
+    "Company": "Florida Farm Distillers",
+    "Country": "United States",
+    "Rating": 76.88,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": -81.6679885,
+    "lat": 28.9299201
+  },
+  {
+    "index": 396,
+    "Company": "Fogs's End Distillery",
+    "Country": "United States",
+    "Rating": 69,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -121.4475373,
+    "lat": 36.5066626
+  },
+  {
+    "index": 397,
+    "Company": "Foothills Distillery",
+    "Country": "United States",
+    "Rating": 80.29,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -81.201206,
+    "lat": 35.696508
+  },
+  {
+    "index": 398,
+    "Company": "Forgan Distillery Ltd.",
+    "Country": "United Kingdom",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -2.924223,
+    "lat": 53.682264
+  },
+  {
+    "index": 399,
+    "Company": "Forschungs- und Lehrbrennerei der UNI Hohenheim",
+    "Country": "Germany",
+    "Rating": 50,
+    "Whisky": 5,
+    "Collection": 3,
+    "lon": 9.2086875,
+    "lat": 48.7112232
+  },
+  {
+    "index": 400,
+    "Company": "Forty Creek",
+    "Country": "Canada",
+    "Rating": 82.33,
+    "Whisky": 20,
+    "Collection": 323,
+    "lon": -79.5830771,
+    "lat": 43.2031108
+  },
+  {
+    "index": 401,
+    "Company": "Four Roses Distillery",
+    "Country": "United States",
+    "Rating": 83.79,
+    "Whisky": 839,
+    "Collection": 2751,
+    "lon": -84.8981534,
+    "lat": 37.9730559
+  },
+  {
+    "index": 405,
+    "Company": "Franz Kostenzer",
+    "Country": "Austria",
+    "Rating": 54.03,
+    "Whisky": 12,
+    "Collection": 27,
+    "lon": 11.7090438,
+    "lat": 47.4619634
+  },
+  {
+    "index": 406,
+    "Company": "Franz Stettner & Sohn GmbH",
+    "Country": "Germany",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 11.7429433,
+    "lat": 48.0756809
+  },
+  {
+    "index": 407,
+    "Company": "Franzlahof",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 13.8219326,
+    "lat": 47.1247444
+  },
+  {
+    "index": 408,
+    "Company": "Fremont Mischief Distillery",
+    "Country": "United States",
+    "Rating": 60,
+    "Whisky": 4,
+    "Collection": 4,
+    "lon": -122.3565504,
+    "lat": 47.6515791
+  },
+  {
+    "index": 409,
+    "Company": "Fuji Gotemba",
+    "Country": "Japan",
+    "Rating": 84.34,
+    "Whisky": 66,
+    "Collection": 520,
+    "lon": 138.93487,
+    "lat": 35.3087148
+  },
+  {
+    "index": 411,
+    "Company": "Gammelstilla Whisky AB",
+    "Country": "Sweden",
+    "Rating": 85.84,
+    "Whisky": 2,
+    "Collection": 45,
+    "lon": 16.635551,
+    "lat": 60.4406806
+  },
+  {
+    "index": 412,
+    "Company": "Garrison Brothers Distillery",
+    "Country": "United States",
+    "Rating": 78.12,
+    "Whisky": 11,
+    "Collection": 46,
+    "lon": -98.5640821,
+    "lat": 30.2172788
+  },
+  {
+    "index": 413,
+    "Company": "Gasthausbrauerei Wismar GmbH",
+    "Country": "Germany",
+    "Rating": 82.22,
+    "Whisky": 4,
+    "Collection": 17,
+    "lon": 11.4620212,
+    "lat": 53.8952752
+  },
+  {
+    "index": 414,
+    "Company": "Gasthof Hirsch",
+    "Country": "Germany",
+    "Rating": 58,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 9.9594444,
+    "lat": 48.6442599
+  },
+  {
+    "index": 416,
+    "Company": "Gelephu Distillery",
+    "Country": "Bhutan",
+    "Rating": 77.67,
+    "Whisky": 4,
+    "Collection": 16,
+    "lon": 90.4927134,
+    "lat": 26.8725114
+  },
+  {
+    "index": 417,
+    "Company": "Gemenc Distillery",
+    "Country": "Hungary",
+    "Rating": 78,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 18.8167477,
+    "lat": 46.2039375
+  },
+  {
+    "index": 418,
+    "Company": "George Washington's Grist Mill and Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": -77.1327082,
+    "lat": 38.7168526
+  },
+  {
+    "index": 420,
+    "Company": "Georgia Distilling Company",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -83.2710118,
+    "lat": 33.0933746
+  },
+  {
+    "index": 421,
+    "Company": "Gerhard Büchner",
+    "Country": "Germany",
+    "Rating": 66.28,
+    "Whisky": 4,
+    "Collection": 16,
+    "lon": 11.7707819,
+    "lat": 51.4859398
+  },
+  {
+    "index": 422,
+    "Company": "Gerlachus Stokerij",
+    "Country": "Netherlands",
+    "Rating": 64.5,
+    "Whisky": 7,
+    "Collection": 7,
+    "lon": 5.8541139,
+    "lat": 50.8852091
+  },
+  {
+    "index": 423,
+    "Company": "Gilbert Holl",
+    "Country": "France",
+    "Rating": 80.83,
+    "Whisky": 3,
+    "Collection": 4,
+    "lon": 7.2819459,
+    "lat": 48.2024371
+  },
+  {
+    "index": 424,
+    "Company": "Gimli",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -97.002736,
+    "lat": 50.6548
+  },
+  {
+    "index": 425,
+    "Company": "Ginebra San Miguel Inc.",
+    "Country": "Philippines",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 121.0579987,
+    "lat": 14.5812998
+  },
+  {
+    "index": 426,
+    "Company": "Glacier Distilling",
+    "Country": "United States",
+    "Rating": 63,
+    "Whisky": 5,
+    "Collection": 4,
+    "lon": -113.8808779,
+    "lat": 48.4261735
+  },
+  {
+    "index": 429,
+    "Company": "Glann ar Mor",
+    "Country": "France",
+    "Rating": 84.91,
+    "Whisky": 82,
+    "Collection": 814,
+    "lon": -3.0813611,
+    "lat": 48.8605162
+  },
+  {
+    "index": 430,
+    "Company": "Glen Els",
+    "Country": "Germany",
+    "Rating": 86.34,
+    "Whisky": 226,
+    "Collection": 6474,
+    "lon": 10.64585,
+    "lat": 51.625829
+  },
+  {
+    "index": 431,
+    "Company": "Glen Els",
+    "Country": "Germany",
+    "Rating": 86.34,
+    "Whisky": 226,
+    "Collection": 6474,
+    "lon": 10.64585,
+    "lat": 51.625829
+  },
+  {
+    "index": 432,
+    "Company": "Glen Kella",
+    "Country": "United Kingdom",
+    "Rating": 69.58,
+    "Whisky": 5,
+    "Collection": 19,
+    "lon": -2.2426305,
+    "lat": 53.4807593
+  },
+  {
+    "index": 434,
+    "Company": "Glendalough",
+    "Country": "Ireland",
+    "Rating": 79.28,
+    "Whisky": 21,
+    "Collection": 599,
+    "lon": -6.32984,
+    "lat": 53.01198
+  },
+  {
+    "index": 435,
+    "Company": "Glenmore Distilleries Co.",
+    "Country": "United States",
+    "Rating": 88.5,
+    "Whisky": 16,
+    "Collection": 9,
+    "lon": -87.112891,
+    "lat": 37.7717717
+  },
+  {
+    "index": 436,
+    "Company": "Glenora Distillery",
+    "Country": "Canada",
+    "Rating": 77.4,
+    "Whisky": 29,
+    "Collection": 263,
+    "lon": -61.31873,
+    "lat": 46.1509535
+  },
+  {
+    "index": 437,
+    "Company": "Glina Whisky Destillerie",
+    "Country": "Germany",
+    "Rating": 72.6,
+    "Whisky": 13,
+    "Collection": 28,
+    "lon": 12.8824954,
+    "lat": 52.3502863
+  },
+  {
+    "index": 438,
+    "Company": "Goalong Liquor",
+    "Country": "China",
+    "Rating": 58,
+    "Whisky": 4,
+    "Collection": 1,
+    "lon": 113.0419899,
+    "lat": 28.1921489
+  },
+  {
+    "index": 441,
+    "Company": "Golden Moon Distillery",
+    "Country": "United States",
+    "Rating": 84.84,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -105.1971018,
+    "lat": 39.7232786
+  },
+  {
+    "index": 443,
+    "Company": "Gooderham & Worts",
+    "Country": "Canada",
+    "Rating": 85.75,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -79.3831843,
+    "lat": 43.653226
+  },
+  {
+    "index": 444,
+    "Company": "Goodridge & Willams",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -123.0282602,
+    "lat": 49.1359125
+  },
+  {
+    "index": 445,
+    "Company": "Gotland Whisky",
+    "Country": "Sweden",
+    "Rating": 81.92,
+    "Whisky": 4,
+    "Collection": 278,
+    "lon": 18.45,
+    "lat": 57.516667
+  },
+  {
+    "index": 446,
+    "Company": "Gouden Carolus",
+    "Country": "Belgium",
+    "Rating": 73.19,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 4.4731253,
+    "lat": 51.031858
+  },
+  {
+    "index": 447,
+    "Company": "Gourmet Berner GmbH & Co. KG",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 9.3843738,
+    "lat": 48.8136263
+  },
+  {
+    "index": 448,
+    "Company": "Graanbranderij De IJsvogel",
+    "Country": "Netherlands",
+    "Rating": 75.88,
+    "Whisky": 5,
+    "Collection": 36,
+    "lon": 6.182528,
+    "lat": 51.4700103
+  },
+  {
+    "index": 449,
+    "Company": "Graanstokerij Filliers",
+    "Country": "Belgium",
+    "Rating": 72.86,
+    "Whisky": 31,
+    "Collection": 405,
+    "lon": 3.5443138,
+    "lat": 50.9910142
+  },
+  {
+    "index": 450,
+    "Company": "Grand Traverse Distillery",
+    "Country": "United States",
+    "Rating": 80.34,
+    "Whisky": 3,
+    "Collection": 11,
+    "lon": -85.5589734,
+    "lat": 44.7210079
+  },
+  {
+    "index": 451,
+    "Company": "GrandTen Distilling",
+    "Country": "United States",
+    "Rating": 70,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -71.0576696,
+    "lat": 42.3349239
+  },
+  {
+    "index": 452,
+    "Company": "Granit Destillerie",
+    "Country": "Austria",
+    "Rating": 20.75,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 15.3422,
+    "lat": 48.8271501
+  },
+  {
+    "index": 453,
+    "Company": "Great Lakes Distillery",
+    "Country": "United States",
+    "Rating": 80.83,
+    "Whisky": 6,
+    "Collection": 4,
+    "lon": -87.9186562,
+    "lat": 43.0267725
+  },
+  {
+    "index": 454,
+    "Company": "Great Northern Distillery",
+    "Country": "Ireland",
+    "Rating": 87.29,
+    "Whisky": 5,
+    "Collection": 11,
+    "lon": -6.4232059,
+    "lat": 54.0016576
+  },
+  {
+    "index": 455,
+    "Company": "Great Outback",
+    "Country": "Australia",
+    "Rating": 75.25,
+    "Whisky": 2,
+    "Collection": 22,
+    "lon": 133.775136,
+    "lat": -25.274398
+  },
+  {
+    "index": 456,
+    "Company": "Great Outback",
+    "Country": "Australia",
+    "Rating": 75.25,
+    "Whisky": 2,
+    "Collection": 22,
+    "lon": 133.775136,
+    "lat": -25.274398
+  },
+  {
+    "index": 457,
+    "Company": "Great Southern Distilling Company",
+    "Country": "Australia",
+    "Rating": 75.28,
+    "Whisky": 20,
+    "Collection": 20,
+    "lon": 117.8477499,
+    "lat": -35.0409184
+  },
+  {
+    "index": 458,
+    "Company": "Great Southern Distilling Company",
+    "Country": "Australia",
+    "Rating": 75.28,
+    "Whisky": 20,
+    "Collection": 20,
+    "lon": 117.8477499,
+    "lat": -35.0409184
+  },
+  {
+    "index": 459,
+    "Company": "Great Wagon Road Distilling Company",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -80.8814186,
+    "lat": 35.1860008
+  },
+  {
+    "index": 461,
+    "Company": "Greenbar Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -118.228132,
+    "lat": 34.02986
+  },
+  {
+    "index": 464,
+    "Company": "Grythyttan",
+    "Country": "Sweden",
+    "Rating": 81.93,
+    "Whisky": 25,
+    "Collection": 762,
+    "lon": 15.0223968,
+    "lat": 59.5138514
+  },
+  {
+    "index": 465,
+    "Company": "Guglhof",
+    "Country": "Austria",
+    "Rating": 73.52,
+    "Whisky": 12,
+    "Collection": 28,
+    "lon": 13.0996125,
+    "lat": 47.7184527
+  },
+  {
+    "index": 466,
+    "Company": "Guillon",
+    "Country": "France",
+    "Rating": 75.05,
+    "Whisky": 18,
+    "Collection": 126,
+    "lon": 4.139468,
+    "lat": 49.113734
+  },
+  {
+    "index": 467,
+    "Company": "Gute Destilleri",
+    "Country": "Sweden",
+    "Rating": 73.84,
+    "Whisky": 2,
+    "Collection": 50,
+    "lon": 18.262701,
+    "lat": 57.1876455
+  },
+  {
+    "index": 471,
+    "Company": "Habbel's Destillerie & Brennerei",
+    "Country": "Germany",
+    "Rating": 66.33,
+    "Whisky": 8,
+    "Collection": 30,
+    "lon": 7.291935,
+    "lat": 51.3218278
+  },
+  {
+    "index": 473,
+    "Company": "Hagen-Rühli",
+    "Country": "Switzerland",
+    "Rating": 80.25,
+    "Whisky": 12,
+    "Collection": 12,
+    "lon": 8.872307,
+    "lat": 47.6091195
+  },
+  {
+    "index": 474,
+    "Company": "Hakushu",
+    "Country": "Japan",
+    "Rating": 87.46,
+    "Whisky": 134,
+    "Collection": 4658,
+    "lon": 138.5684486,
+    "lat": 35.6641575
+  },
+  {
+    "index": 475,
+    "Company": "Hali'imaile Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -156.3400615,
+    "lat": 20.8690453
+  },
+  {
+    "index": 476,
+    "Company": "Hamilton Distillers",
+    "Country": "United States",
+    "Rating": 81.9,
+    "Whisky": 6,
+    "Collection": 15,
+    "lon": -110.9933459,
+    "lat": 32.2475493
+  },
+  {
+    "index": 477,
+    "Company": "Hanyu",
+    "Country": "Japan",
+    "Rating": 88.87,
+    "Whisky": 166,
+    "Collection": 3486,
+    "lon": 139.5794718,
+    "lat": 35.9253022
+  },
+  {
+    "index": 478,
+    "Company": "Harald Keckeis",
+    "Country": "Austria",
+    "Rating": 67.71,
+    "Whisky": 3,
+    "Collection": 4,
+    "lon": 9.6413706,
+    "lat": 47.2681638
+  },
+  {
+    "index": 481,
+    "Company": "Hausbrauerei Altstadthof",
+    "Country": "Germany",
+    "Rating": 82.21,
+    "Whisky": 37,
+    "Collection": 98,
+    "lon": 11.0748632,
+    "lat": 49.4569762
+  },
+  {
+    "index": 482,
+    "Company": "Hausbrennerei Hettig",
+    "Country": "Germany",
+    "Rating": 71,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 7.9809322,
+    "lat": 48.5065994
+  },
+  {
+    "index": 484,
+    "Company": "Healey's Cornish Cyder Farm",
+    "Country": "United Kingdom",
+    "Rating": 87.5,
+    "Whisky": 4,
+    "Collection": 14,
+    "lon": -5.1284321,
+    "lat": 50.3107738
+  },
+  {
+    "index": 485,
+    "Company": "Heaven Hill Distilleries, Inc.",
+    "Country": "United States",
+    "Rating": 83.63,
+    "Whisky": 654,
+    "Collection": 6029,
+    "lon": -85.4641269,
+    "lat": 37.7949751
+  },
+  {
+    "index": 486,
+    "Company": "Helios Distillery",
+    "Country": "Japan",
+    "Rating": 76.54,
+    "Whisky": 3,
+    "Collection": 18,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 487,
+    "Company": "Helios Distillery",
+    "Country": "Japan",
+    "Rating": 76.54,
+    "Whisky": 3,
+    "Collection": 18,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 488,
+    "Company": "Helios Distillery",
+    "Country": "Japan",
+    "Rating": 76.54,
+    "Whisky": 3,
+    "Collection": 18,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 489,
+    "Company": "Helios Distillery",
+    "Country": "Japan",
+    "Rating": 76.54,
+    "Whisky": 3,
+    "Collection": 18,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 490,
+    "Company": "Hellyers Road Distillery",
+    "Country": "Australia",
+    "Rating": 80.23,
+    "Whisky": 28,
+    "Collection": 247,
+    "lon": 145.9083315,
+    "lat": -41.0886377
+  },
+  {
+    "index": 491,
+    "Company": "Henry Farms Prairie Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 7,
+    "Collection": 4,
+    "lon": -89.4150417,
+    "lat": 43.2882308
+  },
+  {
+    "index": 492,
+    "Company": "Hepp",
+    "Country": "France",
+    "Rating": 78.21,
+    "Whisky": 28,
+    "Collection": 76,
+    "lon": 7.6187435,
+    "lat": 48.849655
+  },
+  {
+    "index": 493,
+    "Company": "Heritage Distilling Company",
+    "Country": "United States",
+    "Rating": 79.25,
+    "Whisky": 11,
+    "Collection": 2,
+    "lon": -122.5823059,
+    "lat": 47.3106061
+  },
+  {
+    "index": 495,
+    "Company": "Hiebl Destillerie",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 14.5622311,
+    "lat": 48.1440121
+  },
+  {
+    "index": 496,
+    "Company": "Hierber Brennerei",
+    "Country": "Luxembourg",
+    "Rating": 51,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 6.4254356,
+    "lat": 49.7075162
+  },
+  {
+    "index": 497,
+    "Company": "High West Distillery",
+    "Country": "United States",
+    "Rating": 84.21,
+    "Whisky": 97,
+    "Collection": 673,
+    "lon": -111.4985493,
+    "lat": 40.6464897
+  },
+  {
+    "index": 498,
+    "Company": "HighGlen Whisky Distillery",
+    "Country": "Switzerland",
+    "Rating": 78.33,
+    "Whisky": 5,
+    "Collection": 10,
+    "lon": 10.4174025,
+    "lat": 46.6003202
+  },
+  {
+    "index": 500,
+    "Company": "Highwood Distillers",
+    "Country": "Canada",
+    "Rating": 80.98,
+    "Whisky": 17,
+    "Collection": 100,
+    "lon": -113.867241,
+    "lat": 50.57419
+  },
+  {
+    "index": 501,
+    "Company": "Hillrock Estate Distillery",
+    "Country": "United States",
+    "Rating": 84.44,
+    "Whisky": 4,
+    "Collection": 42,
+    "lon": -73.626499,
+    "lat": 42.026291
+  },
+  {
+    "index": 502,
+    "Company": "Hiram Walker",
+    "Country": "Canada",
+    "Rating": 78.05,
+    "Whisky": 100,
+    "Collection": 625,
+    "lon": -106.346771,
+    "lat": 56.130366
+  },
+  {
+    "index": 503,
+    "Company": "Hiram Walker",
+    "Country": "Canada",
+    "Rating": 78.05,
+    "Whisky": 100,
+    "Collection": 625,
+    "lon": -106.346771,
+    "lat": 56.130366
+  },
+  {
+    "index": 505,
+    "Company": "Höllberg Brennerei",
+    "Country": "Germany",
+    "Rating": 48,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 8.08456,
+    "lat": 48.53012
+  },
+  {
+    "index": 506,
+    "Company": "Hollen",
+    "Country": "Switzerland",
+    "Rating": 77.59,
+    "Whisky": 36,
+    "Collection": 65,
+    "lon": 7.6707902,
+    "lat": 47.3840734
+  },
+  {
+    "index": 507,
+    "Company": "Homberg KG Weinbrennerei - Schloss Magenheim",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 9.0341654,
+    "lat": 49.0428391
+  },
+  {
+    "index": 508,
+    "Company": "Hood River Distillers Inc.",
+    "Country": "United States",
+    "Rating": 71.39,
+    "Whisky": 7,
+    "Collection": 40,
+    "lon": -121.5135644,
+    "lat": 45.7089905
+  },
+  {
+    "index": 509,
+    "Company": "Horstman Destilleerderij",
+    "Country": "Netherlands",
+    "Rating": 69.54,
+    "Whisky": 4,
+    "Collection": 19,
+    "lon": 7.0131814,
+    "lat": 52.2601859
+  },
+  {
+    "index": 510,
+    "Company": "House Spirits Distillery",
+    "Country": "United States",
+    "Rating": 84,
+    "Whisky": 7,
+    "Collection": 21,
+    "lon": -122.6590832,
+    "lat": 45.5082821
+  },
+  {
+    "index": 511,
+    "Company": "Humbel Distillery",
+    "Country": "Switzerland",
+    "Rating": 74.69,
+    "Whisky": 21,
+    "Collection": 32,
+    "lon": 8.3035955,
+    "lat": 47.4004254
+  },
+  {
+    "index": 512,
+    "Company": "Hven",
+    "Country": "Sweden",
+    "Rating": 82.05,
+    "Whisky": 12,
+    "Collection": 863,
+    "lon": 12.6948777,
+    "lat": 55.9154227
+  },
+  {
+    "index": 514,
+    "Company": "Ingendael",
+    "Country": "Belgium",
+    "Rating": 85,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 5.7391583,
+    "lat": 50.9484989
+  },
+  {
+    "index": 515,
+    "Company": "Iron Smoke",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -76.7966215,
+    "lat": 42.9106219
+  },
+  {
+    "index": 516,
+    "Company": "Ironbridge Spirit Company",
+    "Country": "United Kingdom",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -2.5208129,
+    "lat": 52.7008197
+  },
+  {
+    "index": 530,
+    "Company": "It's 5 Artisan Distillery",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -120.4661102,
+    "lat": 47.5209919
+  },
+  {
+    "index": 531,
+    "Company": "Ivy Mountain",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -83.4536844,
+    "lat": 34.5656244
+  },
+  {
+    "index": 533,
+    "Company": "J. Riley Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -117.2189983,
+    "lat": 34.0620412
+  },
+  {
+    "index": 534,
+    "Company": "Jack Daniel's",
+    "Country": "United States",
+    "Rating": 77.98,
+    "Whisky": 381,
+    "Collection": 7548,
+    "lon": -86.3683442,
+    "lat": 35.2852833
+  },
+  {
+    "index": 535,
+    "Company": "James Sedgwick",
+    "Country": "South Africa",
+    "Rating": 78.94,
+    "Whisky": 17,
+    "Collection": 375,
+    "lon": 18.9861703,
+    "lat": -33.6439473
+  },
+  {
+    "index": 536,
+    "Company": "Jersey Spirits Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -74.3166401,
+    "lat": 40.858467
+  },
+  {
+    "index": 538,
+    "Company": "Jim Beam",
+    "Country": "United States",
+    "Rating": 78.9,
+    "Whisky": 474,
+    "Collection": 6575,
+    "lon": -85.6527829,
+    "lat": 37.9312682
+  },
+  {
+    "index": 539,
+    "Company": "Joh. B. Geuting",
+    "Country": "Germany",
+    "Rating": 75.52,
+    "Whisky": 18,
+    "Collection": 94,
+    "lon": 6.57033,
+    "lat": 51.86918
+  },
+  {
+    "index": 540,
+    "Company": "John Distilleries",
+    "Country": "India",
+    "Rating": 84.32,
+    "Whisky": 84,
+    "Collection": 1378,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 541,
+    "Company": "John Distilleries",
+    "Country": "India",
+    "Rating": 84.32,
+    "Whisky": 84,
+    "Collection": 1378,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 542,
+    "Company": "John Distilleries",
+    "Country": "India",
+    "Rating": 84.32,
+    "Whisky": 84,
+    "Collection": 1378,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 544,
+    "Company": "John's Lane Distillery",
+    "Country": "Ireland",
+    "Rating": 85.06,
+    "Whisky": 17,
+    "Collection": 35,
+    "lon": -6.2804912,
+    "lat": 53.3430446
+  },
+  {
+    "index": 545,
+    "Company": "Jones Road Distillery",
+    "Country": "Ireland",
+    "Rating": 84.75,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -6.2603097,
+    "lat": 53.3498053
+  },
+  {
+    "index": 546,
+    "Company": "Jones Road Distillery",
+    "Country": "Ireland",
+    "Rating": 84.75,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -6.2603097,
+    "lat": 53.3498053
+  },
+  {
+    "index": 547,
+    "Company": "Jones Road Distillery",
+    "Country": "Ireland",
+    "Rating": 84.75,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -6.2603097,
+    "lat": 53.3498053
+  },
+  {
+    "index": 548,
+    "Company": "Jos. A. Magnus & Co.",
+    "Country": "United States",
+    "Rating": 90.75,
+    "Whisky": 5,
+    "Collection": 13,
+    "lon": -76.981435,
+    "lat": 38.914857
+  },
+  {
+    "index": 550,
+    "Company": "Journeyman Distillery",
+    "Country": "United States",
+    "Rating": 85.1,
+    "Whisky": 41,
+    "Collection": 56,
+    "lon": -86.6115642,
+    "lat": 41.8027594
+  },
+  {
+    "index": 551,
+    "Company": "Kaerilis",
+    "Country": "France",
+    "Rating": 84.34,
+    "Whisky": 12,
+    "Collection": 17,
+    "lon": -3.1545455,
+    "lat": 47.34568
+  },
+  {
+    "index": 552,
+    "Company": "Kagoshima",
+    "Country": "Japan",
+    "Rating": 86.44,
+    "Whisky": 7,
+    "Collection": 69,
+    "lon": 130.515913,
+    "lat": 31.541601
+  },
+  {
+    "index": 553,
+    "Company": "Kalkwijck Distillers",
+    "Country": "Netherlands",
+    "Rating": 79.58,
+    "Whisky": 7,
+    "Collection": 159,
+    "lon": 6.5926629,
+    "lat": 52.4651138
+  },
+  {
+    "index": 554,
+    "Company": "Kampen Destillateurs",
+    "Country": "Netherlands",
+    "Rating": 0,
+    "Whisky": 8,
+    "Collection": 46,
+    "lon": 4.0967071,
+    "lat": 51.6644125
+  },
+  {
+    "index": 555,
+    "Company": "Kanosuke",
+    "Country": "Japan",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 130.3356139,
+    "lat": 31.6094791
+  },
+  {
+    "index": 556,
+    "Company": "Karuizawa",
+    "Country": "Japan",
+    "Rating": 88.71,
+    "Whisky": 529,
+    "Collection": 13655,
+    "lon": 138.5847245,
+    "lat": 36.5928337
+  },
+  {
+    "index": 557,
+    "Company": "Kauzen Bräu",
+    "Country": "Germany",
+    "Rating": 76.81,
+    "Whisky": 7,
+    "Collection": 36,
+    "lon": 10.0720204,
+    "lat": 49.6578369
+  },
+  {
+    "index": 558,
+    "Company": "Kavalan",
+    "Country": "Taiwan",
+    "Rating": 86.75,
+    "Whisky": 925,
+    "Collection": 8610,
+    "lon": 121.6918385,
+    "lat": 24.7138799
+  },
+  {
+    "index": 559,
+    "Company": "Kawasaki",
+    "Country": "Japan",
+    "Rating": 90.13,
+    "Whisky": 17,
+    "Collection": 344,
+    "lon": 139.7024039,
+    "lat": 35.5298198
+  },
+  {
+    "index": 562,
+    "Company": "Kentucky Bourbon Distillers",
+    "Country": "United States",
+    "Rating": 84.76,
+    "Whisky": 459,
+    "Collection": 1444,
+    "lon": -85.4593812,
+    "lat": 37.7872778
+  },
+  {
+    "index": 563,
+    "Company": "Kentucky Peerless Distilling Co.",
+    "Country": "United States",
+    "Rating": 89,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": -85.7667446,
+    "lat": 38.258636
+  },
+  {
+    "index": 566,
+    "Company": "Kilbeggan Distillery",
+    "Country": "Ireland",
+    "Rating": 82.23,
+    "Whisky": 14,
+    "Collection": 63,
+    "lon": -7.4997261,
+    "lat": 53.3685447
+  },
+  {
+    "index": 567,
+    "Company": "Kings County Distillery",
+    "Country": "United States",
+    "Rating": 75.15,
+    "Whisky": 13,
+    "Collection": 51,
+    "lon": -73.9726753,
+    "lat": 40.7033193
+  },
+  {
+    "index": 570,
+    "Company": "Kinzigbrennerei",
+    "Country": "Germany",
+    "Rating": 73.44,
+    "Whisky": 15,
+    "Collection": 22,
+    "lon": 8.02838,
+    "lat": 48.33588
+  },
+  {
+    "index": 571,
+    "Company": "Kiwi Spirit Distillery Ltd.",
+    "Country": "New Zealand",
+    "Rating": 62,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": 173.2839653,
+    "lat": -41.2706319
+  },
+  {
+    "index": 573,
+    "Company": "Kleinbrennerei Fitzke",
+    "Country": "Germany",
+    "Rating": 74,
+    "Whisky": 4,
+    "Collection": 10,
+    "lon": 7.8261382,
+    "lat": 48.2192531
+  },
+  {
+    "index": 580,
+    "Company": "Kord Distillery",
+    "Country": "Czech Republic",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 15.7927419,
+    "lat": 50.2025144
+  },
+  {
+    "index": 581,
+    "Company": "Kornbrennerei Gerhard Wagner",
+    "Country": "Germany",
+    "Rating": 66.33,
+    "Whisky": 5,
+    "Collection": 6,
+    "lon": 8.1775249,
+    "lat": 50.3309999
+  },
+  {
+    "index": 582,
+    "Company": "Kornbrennerei J.J. Kemper",
+    "Country": "Germany",
+    "Rating": 84.43,
+    "Whisky": 2,
+    "Collection": 14,
+    "lon": 7.8492229,
+    "lat": 51.0308863
+  },
+  {
+    "index": 583,
+    "Company": "KOVAL Distillery",
+    "Country": "United States",
+    "Rating": 76.91,
+    "Whisky": 52,
+    "Collection": 211,
+    "lon": -87.6740245,
+    "lat": 41.9749864
+  },
+  {
+    "index": 584,
+    "Company": "Kozuba & Sons Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -82.6599059,
+    "lat": 27.7662558
+  },
+  {
+    "index": 585,
+    "Company": "Kuenz Naturbrennerei",
+    "Country": "Austria",
+    "Rating": 90.5,
+    "Whisky": 2,
+    "Collection": 7,
+    "lon": 12.8455499,
+    "lat": 46.8212817
+  },
+  {
+    "index": 586,
+    "Company": "Kümin Weinbau",
+    "Country": "Switzerland",
+    "Rating": 74.13,
+    "Whisky": 5,
+    "Collection": 15,
+    "lon": 8.7549209,
+    "lat": 47.2062027
+  },
+  {
+    "index": 587,
+    "Company": "Kymsee Whisky",
+    "Country": "Germany",
+    "Rating": 78.43,
+    "Whisky": 6,
+    "Collection": 33,
+    "lon": 12.5422378,
+    "lat": 47.850768
+  },
+  {
+    "index": 588,
+    "Company": "Kyrö Distillery Company",
+    "Country": "Finland",
+    "Rating": 79.06,
+    "Whisky": 11,
+    "Collection": 57,
+    "lon": 22.3529731,
+    "lat": 62.9842215
+  },
+  {
+    "index": 590,
+    "Company": "Lagler",
+    "Country": "Austria",
+    "Rating": 80.63,
+    "Whisky": 4,
+    "Collection": 19,
+    "lon": 7.447814,
+    "lat": 46.9478438
+  },
+  {
+    "index": 591,
+    "Company": "Lahnsteiner Brauerei",
+    "Country": "Germany",
+    "Rating": 68.25,
+    "Whisky": 2,
+    "Collection": 16,
+    "lon": 7.6079135,
+    "lat": 50.2990881
+  },
+  {
+    "index": 592,
+    "Company": "Lake George Distilling Co.",
+    "Country": "United States",
+    "Rating": 77.5,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": -73.5021219,
+    "lat": 43.3836707
+  },
+  {
+    "index": 593,
+    "Company": "Lambay Irish Whiskey Company",
+    "Country": "Ireland",
+    "Rating": 78.5,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -6.2537625,
+    "lat": 53.3354484
+  },
+  {
+    "index": 595,
+    "Company": "Langatun",
+    "Country": "Switzerland",
+    "Rating": 82.3,
+    "Whisky": 165,
+    "Collection": 609,
+    "lon": 7.7992664,
+    "lat": 47.2199774
+  },
+  {
+    "index": 596,
+    "Company": "Lark Distillery",
+    "Country": "Australia",
+    "Rating": 82,
+    "Whisky": 66,
+    "Collection": 115,
+    "lon": 147.3319837,
+    "lat": -42.8828986
+  },
+  {
+    "index": 597,
+    "Company": "Las Vegas Distillery",
+    "Country": "United States",
+    "Rating": 80.41,
+    "Whisky": 16,
+    "Collection": 10,
+    "lon": -115.019259,
+    "lat": 36.0543807
+  },
+  {
+    "index": 598,
+    "Company": "Last Mountain Distillery",
+    "Country": "Canada",
+    "Rating": 77.5,
+    "Whisky": 4,
+    "Collection": 9,
+    "lon": -94.616358,
+    "lat": 39.1139886
+  },
+  {
+    "index": 599,
+    "Company": "Lava Bräu Braumanufaktur",
+    "Country": "Austria",
+    "Rating": 54,
+    "Whisky": 20,
+    "Collection": 6,
+    "lon": 15.8664182,
+    "lat": 47.0006149
+  },
+  {
+    "index": 600,
+    "Company": "Lawrenceburg Distillery",
+    "Country": "United States",
+    "Rating": 81.22,
+    "Whisky": 16,
+    "Collection": 63,
+    "lon": -84.855695,
+    "lat": 39.092449
+  },
+  {
+    "index": 601,
+    "Company": "Laws Whiskey House",
+    "Country": "United States",
+    "Rating": 83.33,
+    "Whisky": 10,
+    "Collection": 5,
+    "lon": -104.9884019,
+    "lat": 39.6907065
+  },
+  {
+    "index": 602,
+    "Company": "LB Distillers",
+    "Country": "Canada",
+    "Rating": 79.67,
+    "Whisky": 3,
+    "Collection": 5,
+    "lon": -106.6520042,
+    "lat": 52.1669955
+  },
+  {
+    "index": 603,
+    "Company": "Lebe & Geniesse - Langenrohr",
+    "Country": "Austria",
+    "Rating": 84.25,
+    "Whisky": 4,
+    "Collection": 3,
+    "lon": 16.0120292,
+    "lat": 48.309042
+  },
+  {
+    "index": 604,
+    "Company": "Lechtaler Haussegen",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": 10.4339135,
+    "lat": 47.2876235
+  },
+  {
+    "index": 605,
+    "Company": "Leopold Bros",
+    "Country": "United States",
+    "Rating": 70.59,
+    "Whisky": 6,
+    "Collection": 19,
+    "lon": -104.8518742,
+    "lat": 39.7873698
+  },
+  {
+    "index": 606,
+    "Company": "Lexington Brewing and Distilling Co.",
+    "Country": "United States",
+    "Rating": 76.7,
+    "Whisky": 7,
+    "Collection": 24,
+    "lon": -84.5095608,
+    "lat": 38.0498626
+  },
+  {
+    "index": 607,
+    "Company": "Liber",
+    "Country": "Spain",
+    "Rating": 70.67,
+    "Whisky": 1,
+    "Collection": 17,
+    "lon": -3.5985571,
+    "lat": 37.1773363
+  },
+  {
+    "index": 608,
+    "Company": "Liberty Call Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -116.9685472,
+    "lat": 32.7301234
+  },
+  {
+    "index": 609,
+    "Company": "Likörfabrik Mikolasch",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 16.3738189,
+    "lat": 48.2081743
+  },
+  {
+    "index": 610,
+    "Company": "Limeburners",
+    "Country": "Australia",
+    "Rating": 77.05,
+    "Whisky": 20,
+    "Collection": 15,
+    "lon": 117.8477499,
+    "lat": -35.0409184
+  },
+  {
+    "index": 611,
+    "Company": "Limeburners",
+    "Country": "Australia",
+    "Rating": 77.05,
+    "Whisky": 20,
+    "Collection": 15,
+    "lon": 117.8477499,
+    "lat": -35.0409184
+  },
+  {
+    "index": 612,
+    "Company": "Limestone Branch Distillery",
+    "Country": "United States",
+    "Rating": 84.22,
+    "Whisky": 14,
+    "Collection": 34,
+    "lon": -85.2719756,
+    "lat": 37.5818055
+  },
+  {
+    "index": 614,
+    "Company": "Lo Artisan Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -87.542441,
+    "lat": 44.749665
+  },
+  {
+    "index": 615,
+    "Company": "Lobangernich",
+    "Country": "Germany",
+    "Rating": 75.34,
+    "Whisky": 4,
+    "Collection": 7,
+    "lon": 16.351781,
+    "lat": 48.2107018
+  },
+  {
+    "index": 616,
+    "Company": "London Distillers (K) Ltd.",
+    "Country": "Kenya",
+    "Rating": 56,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 36.8302738,
+    "lat": -1.3003974
+  },
+  {
+    "index": 618,
+    "Company": "Long Island Spirits",
+    "Country": "United States",
+    "Rating": 81.78,
+    "Whisky": 23,
+    "Collection": 19,
+    "lon": -72.7530943,
+    "lat": 40.9562235
+  },
+  {
+    "index": 619,
+    "Company": "Longhorn Distillery",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": 11.6672841,
+    "lat": 49.8147539
+  },
+  {
+    "index": 620,
+    "Company": "Los 2 Compadres",
+    "Country": "Mexico",
+    "Rating": 81,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": -105.3149479,
+    "lat": 20.5122192
+  },
+  {
+    "index": 621,
+    "Company": "Lost Spirits Distillery",
+    "Country": "United States",
+    "Rating": 72.47,
+    "Whisky": 21,
+    "Collection": 152,
+    "lon": -121.8946761,
+    "lat": 36.6002378
+  },
+  {
+    "index": 622,
+    "Company": "Louisville Distilling Co LLC",
+    "Country": "United States",
+    "Rating": 83.41,
+    "Whisky": 22,
+    "Collection": 325,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 624,
+    "Company": "Lüthy",
+    "Country": "Switzerland",
+    "Rating": 81.32,
+    "Whisky": 31,
+    "Collection": 121,
+    "lon": 8.055755,
+    "lat": 47.3443174
+  },
+  {
+    "index": 625,
+    "Company": "Luxco",
+    "Country": "United States",
+    "Rating": 80.76,
+    "Whisky": 67,
+    "Collection": 286,
+    "lon": -90.2745579,
+    "lat": 38.6037395
+  },
+  {
+    "index": 626,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 627,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 628,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 629,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 630,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 631,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 632,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 633,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 634,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 635,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 636,
+    "Company": "Lynchburg Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 637,
+    "Company": "Macardo",
+    "Country": "Switzerland",
+    "Rating": 78.67,
+    "Whisky": 13,
+    "Collection": 18,
+    "lon": 9.014691,
+    "lat": 47.551586
+  },
+  {
+    "index": 638,
+    "Company": "Mackmyra",
+    "Country": "Sweden",
+    "Rating": 82.27,
+    "Whisky": 241,
+    "Collection": 11297,
+    "lon": 17.1021146,
+    "lat": 60.6631083
+  },
+  {
+    "index": 639,
+    "Company": "Mad River Distillers",
+    "Country": "United States",
+    "Rating": 79.5,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -72.9175431,
+    "lat": 44.2024842
+  },
+  {
+    "index": 640,
+    "Company": "Mahrs Bräu",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 10.9062801,
+    "lat": 49.8898923
+  },
+  {
+    "index": 642,
+    "Company": "Maison Du Vigneron",
+    "Country": "France",
+    "Rating": 83,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": 5.6674441,
+    "lat": 46.6889252
+  },
+  {
+    "index": 643,
+    "Company": "Maker''s Mark Distillery, Inc.",
+    "Country": "United States",
+    "Rating": 81.54,
+    "Whisky": 196,
+    "Collection": 1856,
+    "lon": -85.3494543,
+    "lat": 37.6481072
+  },
+  {
+    "index": 644,
+    "Company": "Malibreiz",
+    "Country": "France",
+    "Rating": 65,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -1.6122393,
+    "lat": 48.0821222
+  },
+  {
+    "index": 645,
+    "Company": "Manly Spirits Co. Distillery",
+    "Country": "Australia",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 151.2777573,
+    "lat": -33.7640995
+  },
+  {
+    "index": 646,
+    "Company": "Marder Distillery",
+    "Country": "Germany",
+    "Rating": 79.62,
+    "Whisky": 8,
+    "Collection": 54,
+    "lon": 8.1293805,
+    "lat": 47.6494195
+  },
+  {
+    "index": 647,
+    "Company": "Marillenhof - Destillerie - Kausl",
+    "Country": "Austria",
+    "Rating": 69.33,
+    "Whisky": 7,
+    "Collection": 15,
+    "lon": 15.4748897,
+    "lat": 48.3896089
+  },
+  {
+    "index": 648,
+    "Company": "Märkische Spezialitätenbrennerei KG",
+    "Country": "Germany",
+    "Rating": 76,
+    "Whisky": 11,
+    "Collection": 38,
+    "lon": 7.5357476,
+    "lat": 51.3050222
+  },
+  {
+    "index": 652,
+    "Company": "Matsui Shuzo",
+    "Country": "Japan",
+    "Rating": 77.78,
+    "Whisky": 18,
+    "Collection": 161,
+    "lon": 135.5021651,
+    "lat": 34.6937378
+  },
+  {
+    "index": 654,
+    "Company": "McCormick Distilling Co.",
+    "Country": "United States",
+    "Rating": 73.96,
+    "Whisky": 9,
+    "Collection": 70,
+    "lon": -94.9017149,
+    "lat": 39.4111533
+  },
+  {
+    "index": 655,
+    "Company": "McDowell's",
+    "Country": "India",
+    "Rating": 49.25,
+    "Whisky": 5,
+    "Collection": 16,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 656,
+    "Company": "McDowell's",
+    "Country": "India",
+    "Rating": 49.25,
+    "Whisky": 5,
+    "Collection": 16,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 657,
+    "Company": "McDowell's",
+    "Country": "India",
+    "Rating": 49.25,
+    "Whisky": 5,
+    "Collection": 16,
+    "lon": 78.96288,
+    "lat": 20.593684
+  },
+  {
+    "index": 660,
+    "Company": "McHenry Distillery",
+    "Country": "Australia",
+    "Rating": 84,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 147.8080088,
+    "lat": -43.1549045
+  },
+  {
+    "index": 661,
+    "Company": "McHenry Distillery",
+    "Country": "Australia",
+    "Rating": 84,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": 147.8080088,
+    "lat": -43.1549045
+  },
+  {
+    "index": 662,
+    "Company": "Meissener Spezialitätenbrennerei",
+    "Country": "Germany",
+    "Rating": 80.17,
+    "Whisky": 2,
+    "Collection": 16,
+    "lon": 13.490837,
+    "lat": 51.1235334
+  },
+  {
+    "index": 664,
+    "Company": "MGP",
+    "Country": "United States",
+    "Rating": 84.51,
+    "Whisky": 58,
+    "Collection": 44,
+    "lon": -95.1147851,
+    "lat": 39.561517
+  },
+  {
+    "index": 665,
+    "Company": "Michelehof",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 9,
+    "lon": 9.6934181,
+    "lat": 47.4881532
+  },
+  {
+    "index": 666,
+    "Company": "Michter's Distillery",
+    "Country": "United States",
+    "Rating": 85.11,
+    "Whisky": 148,
+    "Collection": 1018,
+    "lon": -85.788146,
+    "lat": 38.2149069
+  },
+  {
+    "index": 667,
+    "Company": "Middle West Spirits",
+    "Country": "United States",
+    "Rating": 77.5,
+    "Whisky": 5,
+    "Collection": 8,
+    "lon": -83.0043693,
+    "lat": 39.9875457
+  },
+  {
+    "index": 668,
+    "Company": "Midleton (1975-)",
+    "Country": "Ireland",
+    "Rating": 82.89,
+    "Whisky": 389,
+    "Collection": 15051,
+    "lon": -8.1681261,
+    "lat": 51.9136762
+  },
+  {
+    "index": 669,
+    "Company": "Mile High Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -104.9893604,
+    "lat": 39.7545102
+  },
+  {
+    "index": 670,
+    "Company": "Minhas Distillery",
+    "Country": "United States",
+    "Rating": 67.67,
+    "Whisky": 3,
+    "Collection": 4,
+    "lon": -89.6411157,
+    "lat": 42.5992421
+  },
+  {
+    "index": 671,
+    "Company": "Mississippi River Distilling Company",
+    "Country": "United States",
+    "Rating": 81,
+    "Whisky": 13,
+    "Collection": 13,
+    "lon": -90.343326,
+    "lat": 41.5997739
+  },
+  {
+    "index": 673,
+    "Company": "Miyagikyo",
+    "Country": "Japan",
+    "Rating": 86.08,
+    "Whisky": 229,
+    "Collection": 9864,
+    "lon": 140.8693558,
+    "lat": 38.268215
+  },
+  {
+    "index": 674,
+    "Company": "Miyashita Sake Brewery",
+    "Country": "Japan",
+    "Rating": 77.67,
+    "Whisky": 6,
+    "Collection": 11,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 675,
+    "Company": "Miyashita Sake Brewery",
+    "Country": "Japan",
+    "Rating": 77.67,
+    "Whisky": 6,
+    "Collection": 11,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 676,
+    "Company": "Miyashita Sake Brewery",
+    "Country": "Japan",
+    "Rating": 77.67,
+    "Whisky": 6,
+    "Collection": 11,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 677,
+    "Company": "Miyashita Sake Brewery",
+    "Country": "Japan",
+    "Rating": 77.67,
+    "Whisky": 6,
+    "Collection": 11,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 678,
+    "Company": "Monde Shuzou",
+    "Country": "Japan",
+    "Rating": 66.82,
+    "Whisky": 8,
+    "Collection": 402,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 679,
+    "Company": "Monde Shuzou",
+    "Country": "Japan",
+    "Rating": 66.82,
+    "Whisky": 8,
+    "Collection": 402,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 680,
+    "Company": "Monde Shuzou",
+    "Country": "Japan",
+    "Rating": 66.82,
+    "Whisky": 8,
+    "Collection": 402,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 681,
+    "Company": "Monde Shuzou",
+    "Country": "Japan",
+    "Rating": 66.82,
+    "Whisky": 8,
+    "Collection": 402,
+    "lon": 138.252924,
+    "lat": 36.204824
+  },
+  {
+    "index": 683,
+    "Company": "Moon Harbour",
+    "Country": "France",
+    "Rating": 79.35,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -0.5783652,
+    "lat": 44.8508963
+  },
+  {
+    "index": 684,
+    "Company": "Mosgaard Whisky",
+    "Country": "Denmark",
+    "Rating": 73.75,
+    "Whisky": 3,
+    "Collection": 7,
+    "lon": 10.753183,
+    "lat": 55.117946
+  },
+  {
+    "index": 686,
+    "Company": "Mosterei & Brennerei Kobelt",
+    "Country": "Switzerland",
+    "Rating": 70,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": 9.5687594,
+    "lat": 47.3917115
+  },
+  {
+    "index": 687,
+    "Company": "Mountain Laurel Spirits",
+    "Country": "United States",
+    "Rating": 80.03,
+    "Whisky": 11,
+    "Collection": 59,
+    "lon": -74.8519293,
+    "lat": 40.1039963
+  },
+  {
+    "index": 688,
+    "Company": "Murree Brewery",
+    "Country": "Pakistan",
+    "Rating": 4,
+    "Whisky": 7,
+    "Collection": 2,
+    "lon": 69.345116,
+    "lat": 30.375321
+  },
+  {
+    "index": 689,
+    "Company": "Myer Farm Distillers",
+    "Country": "United States",
+    "Rating": 79.5,
+    "Whisky": 4,
+    "Collection": 5,
+    "lon": -76.7319567,
+    "lat": 42.6689518
+  },
+  {
+    "index": 691,
+    "Company": "Mykulynetsky Brovar",
+    "Country": "Ukraine",
+    "Rating": 16.8,
+    "Whisky": 5,
+    "Collection": 13,
+    "lon": -83.1916937,
+    "lat": 42.3049172
+  },
+  {
+    "index": 692,
+    "Company": "Nagahama",
+    "Country": "Japan",
+    "Rating": 79,
+    "Whisky": 3,
+    "Collection": 12,
+    "lon": 135.8685899,
+    "lat": 35.0045306
+  },
+  {
+    "index": 694,
+    "Company": "Nant Distillery",
+    "Country": "Australia",
+    "Rating": 83,
+    "Whisky": 16,
+    "Collection": 43,
+    "lon": 147.0088638,
+    "lat": -42.3523845
+  },
+  {
+    "index": 695,
+    "Company": "Nantou Distillery",
+    "Country": "Taiwan",
+    "Rating": 84.18,
+    "Whisky": 88,
+    "Collection": 183,
+    "lon": 120.7054532,
+    "lat": 23.9196738
+  },
+  {
+    "index": 696,
+    "Company": "Nelson's Green Brier Distillery",
+    "Country": "United States",
+    "Rating": 86.92,
+    "Whisky": 11,
+    "Collection": 34,
+    "lon": -86.7982093,
+    "lat": 36.1635167
+  },
+  {
+    "index": 698,
+    "Company": "Nestville Distillery",
+    "Country": "Slovakia",
+    "Rating": 74.09,
+    "Whisky": 12,
+    "Collection": 65,
+    "lon": 20.6307616,
+    "lat": 49.303324
+  },
+  {
+    "index": 700,
+    "Company": "New England Distilling",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -70.3151942,
+    "lat": 43.7080615
+  },
+  {
+    "index": 701,
+    "Company": "New Holland Brewing",
+    "Country": "United States",
+    "Rating": 82.98,
+    "Whisky": 11,
+    "Collection": 32,
+    "lon": -86.1042191,
+    "lat": 42.7900534
+  },
+  {
+    "index": 702,
+    "Company": "New Riff Distilling",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 7,
+    "Collection": 6,
+    "lon": -84.488366,
+    "lat": 39.100438
+  },
+  {
+    "index": 703,
+    "Company": "New World Whisky Distillery",
+    "Country": "Australia",
+    "Rating": 85.74,
+    "Whisky": 28,
+    "Collection": 172,
+    "lon": 144.9392182,
+    "lat": -37.8292568
+  },
+  {
+    "index": 704,
+    "Company": "New York Distilling Company",
+    "Country": "United States",
+    "Rating": 82.13,
+    "Whisky": 2,
+    "Collection": 11,
+    "lon": -73.9487971,
+    "lat": 40.7186103
+  },
+  {
+    "index": 706,
+    "Company": "Niederrhein Destille",
+    "Country": "Germany",
+    "Rating": 73,
+    "Whisky": 2,
+    "Collection": 6,
+    "lon": 6.302956,
+    "lat": 51.8136146
+  },
+  {
+    "index": 708,
+    "Company": "Nishinomiya",
+    "Country": "Japan",
+    "Rating": 86.31,
+    "Whisky": 28,
+    "Collection": 625,
+    "lon": 135.3600573,
+    "lat": 34.7364776
+  },
+  {
+    "index": 709,
+    "Company": "NORDIK Edelbrennerei & Spirituosenmanufaktur",
+    "Country": "Germany",
+    "Rating": 60.67,
+    "Whisky": 4,
+    "Collection": 2,
+    "lon": 9.7059659,
+    "lat": 53.5259528
+  },
+  {
+    "index": 710,
+    "Company": "Nordisk Brænderi",
+    "Country": "Denmark",
+    "Rating": 83.71,
+    "Whisky": 11,
+    "Collection": 50,
+    "lon": 9.3832184,
+    "lat": 57.1251846
+  },
+  {
+    "index": 712,
+    "Company": "Norrtelje Brenneri",
+    "Country": "Sweden",
+    "Rating": 75.92,
+    "Whisky": 4,
+    "Collection": 98,
+    "lon": 18.5596418,
+    "lat": 59.8071097
+  },
+  {
+    "index": 713,
+    "Company": "North of 7 Distillery",
+    "Country": "Canada",
+    "Rating": 85,
+    "Whisky": 3,
+    "Collection": 1,
+    "lon": -75.6258963,
+    "lat": 45.4057001
+  },
+  {
+    "index": 715,
+    "Company": "Northmaen",
+    "Country": "France",
+    "Rating": 69.42,
+    "Whisky": 4,
+    "Collection": 31,
+    "lon": 1.43566,
+    "lat": 49.537249
+  },
+  {
+    "index": 716,
+    "Company": "Number Nine Spirituosenmanufaktur GmbH",
+    "Country": "Germany",
+    "Rating": 79.5,
+    "Whisky": 13,
+    "Collection": 66,
+    "lon": 10.35239,
+    "lat": 51.42607
+  },
+  {
+    "index": 718,
+    "Company": "Nyborg Distillery",
+    "Country": "Denmark",
+    "Rating": 81,
+    "Whisky": 6,
+    "Collection": 16,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 719,
+    "Company": "Nyborg Distillery",
+    "Country": "Denmark",
+    "Rating": 81,
+    "Whisky": 6,
+    "Collection": 16,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 720,
+    "Company": "Nyborg Distillery",
+    "Country": "Denmark",
+    "Rating": 81,
+    "Whisky": 6,
+    "Collection": 16,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 727,
+    "Company": "Ohishi Distillery",
+    "Country": "Japan",
+    "Rating": 79.22,
+    "Whisky": 3,
+    "Collection": 13,
+    "lon": 130.9881817,
+    "lat": 32.2965432
+  },
+  {
+    "index": 728,
+    "Company": "Okanagan Spirits",
+    "Country": "Canada",
+    "Rating": 83,
+    "Whisky": 7,
+    "Collection": 6,
+    "lon": -119.264043,
+    "lat": 50.2846155
+  },
+  {
+    "index": 729,
+    "Company": "Old Comber",
+    "Country": "Ireland",
+    "Rating": 87.55,
+    "Whisky": 3,
+    "Collection": 20,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 730,
+    "Company": "Old Comber",
+    "Country": "Ireland",
+    "Rating": 87.55,
+    "Whisky": 3,
+    "Collection": 20,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 731,
+    "Company": "Old Comber",
+    "Country": "Ireland",
+    "Rating": 87.55,
+    "Whisky": 3,
+    "Collection": 20,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 732,
+    "Company": "Old Comber",
+    "Country": "Ireland",
+    "Rating": 87.55,
+    "Whisky": 3,
+    "Collection": 20,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 733,
+    "Company": "Old Crow Distillery",
+    "Country": "United States",
+    "Rating": 80.67,
+    "Whisky": 18,
+    "Collection": 31,
+    "lon": -84.8222929,
+    "lat": 38.1356655
+  },
+  {
+    "index": 735,
+    "Company": "Old Forge Distillery",
+    "Country": "United States",
+    "Rating": 85.33,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -83.5502454,
+    "lat": 35.7898842
+  },
+  {
+    "index": 737,
+    "Company": "Old Grand-Dad Distillery",
+    "Country": "United States",
+    "Rating": 82.7,
+    "Whisky": 37,
+    "Collection": 30,
+    "lon": -84.8635294,
+    "lat": 38.1877885
+  },
+  {
+    "index": 738,
+    "Company": "Old Hobart Distillery",
+    "Country": "Australia",
+    "Rating": 82.34,
+    "Whisky": 25,
+    "Collection": 59,
+    "lon": 147.3271949,
+    "lat": -42.8821377
+  },
+  {
+    "index": 739,
+    "Company": "Old Midleton (1825-1975)",
+    "Country": "Ireland",
+    "Rating": 86.88,
+    "Whisky": 22,
+    "Collection": 33,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 740,
+    "Company": "Old Midleton (1825-1975)",
+    "Country": "Ireland",
+    "Rating": 86.88,
+    "Whisky": 22,
+    "Collection": 33,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 741,
+    "Company": "Old Midleton (1825-1975)",
+    "Country": "Ireland",
+    "Rating": 86.88,
+    "Whisky": 22,
+    "Collection": 33,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 742,
+    "Company": "Old Midleton (1825-1975)",
+    "Country": "Ireland",
+    "Rating": 86.88,
+    "Whisky": 22,
+    "Collection": 33,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 743,
+    "Company": "Old Nick Williams Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -80.471517,
+    "lat": 36.072759
+  },
+  {
+    "index": 744,
+    "Company": "Old Pogue",
+    "Country": "United States",
+    "Rating": 82.86,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -83.7800043,
+    "lat": 38.6622942
+  },
+  {
+    "index": 745,
+    "Company": "Old Raven",
+    "Country": "Austria",
+    "Rating": 82.52,
+    "Whisky": 25,
+    "Collection": 44,
+    "lon": 16.1109143,
+    "lat": 47.3871187
+  },
+  {
+    "index": 746,
+    "Company": "Old Rip van Winkle",
+    "Country": "United States",
+    "Rating": 87.64,
+    "Whisky": 48,
+    "Collection": 1093,
+    "lon": -85.6885253,
+    "lat": 38.2602711
+  },
+  {
+    "index": 747,
+    "Company": "Old Sandhill",
+    "Country": "Germany",
+    "Rating": 77.17,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 12.5867897,
+    "lat": 52.1368898
+  },
+  {
+    "index": 750,
+    "Company": "Old Tahoe Distillery",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -118.7770407,
+    "lat": 39.4748693
+  },
+  {
+    "index": 752,
+    "Company": "Ole Smoky Distillery",
+    "Country": "United States",
+    "Rating": 30.25,
+    "Whisky": 7,
+    "Collection": 138,
+    "lon": -83.5195319,
+    "lat": 35.7109416
+  },
+  {
+    "index": 753,
+    "Company": "Oola Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 6,
+    "lon": -122.3145832,
+    "lat": 47.6131426
+  },
+  {
+    "index": 754,
+    "Company": "Oppidan Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -87.9197672,
+    "lat": 42.1289846
+  },
+  {
+    "index": 755,
+    "Company": "Oregon Spirit Distillers",
+    "Country": "United States",
+    "Rating": 80,
+    "Whisky": 2,
+    "Collection": 5,
+    "lon": -121.2987096,
+    "lat": 44.078196
+  },
+  {
+    "index": 756,
+    "Company": "Öufi-Brauerei",
+    "Country": "Switzerland",
+    "Rating": 82.5,
+    "Whisky": 6,
+    "Collection": 10,
+    "lon": 7.5256837,
+    "lat": 47.2118469
+  },
+  {
+    "index": 757,
+    "Company": "Ozark Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -92.7069032,
+    "lat": 38.1331808
+  },
+  {
+    "index": 759,
+    "Company": "Palmetto Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -82.652193,
+    "lat": 34.502862
+  },
+  {
+    "index": 760,
+    "Company": "Panimoravintola Beer Hunter's",
+    "Country": "Finland",
+    "Rating": 82.63,
+    "Whisky": 10,
+    "Collection": 10,
+    "lon": 21.7951704,
+    "lat": 61.4853441
+  },
+  {
+    "index": 762,
+    "Company": "Panther Distillery",
+    "Country": "United States",
+    "Rating": 68.5,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": -95.1472752,
+    "lat": 45.8644968
+  },
+  {
+    "index": 763,
+    "Company": "Parliament Distillery",
+    "Country": "United States",
+    "Rating": 50.5,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -122.2457054,
+    "lat": 47.2345277
+  },
+  {
+    "index": 764,
+    "Company": "Patrick Breindl",
+    "Country": "Switzerland",
+    "Rating": 65,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 8.227512,
+    "lat": 46.818188
+  },
+  {
+    "index": 765,
+    "Company": "Peach Street Distillers",
+    "Country": "United States",
+    "Rating": 78.25,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": -108.3529393,
+    "lat": 39.1112417
+  },
+  {
+    "index": 766,
+    "Company": "Pearse Lyons Distillery",
+    "Country": "Ireland",
+    "Rating": 79.29,
+    "Whisky": 9,
+    "Collection": 26,
+    "lon": -6.2896018,
+    "lat": 53.3436846
+  },
+  {
+    "index": 767,
+    "Company": "Peloni",
+    "Country": "Italy",
+    "Rating": 75.67,
+    "Whisky": 2,
+    "Collection": 5,
+    "lon": 10.3762361,
+    "lat": 46.4670971
+  },
+  {
+    "index": 768,
+    "Company": "Pelter Distillery",
+    "Country": "Israel",
+    "Rating": 78.5,
+    "Whisky": 1,
+    "Collection": 7,
+    "lon": 34.851612,
+    "lat": 31.046051
+  },
+  {
+    "index": 769,
+    "Company": "Pemberton Distillery",
+    "Country": "Canada",
+    "Rating": 82,
+    "Whisky": 5,
+    "Collection": 9,
+    "lon": -122.7259409,
+    "lat": 50.315674
+  },
+  {
+    "index": 770,
+    "Company": "Penderyn",
+    "Country": "United Kingdom",
+    "Rating": 82.78,
+    "Whisky": 108,
+    "Collection": 1856,
+    "lon": -3.5214459,
+    "lat": 51.7637393
+  },
+  {
+    "index": 772,
+    "Company": "Peter Affenzeller",
+    "Country": "Austria",
+    "Rating": 68.97,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": 14.4398836,
+    "lat": 48.3994628
+  },
+  {
+    "index": 773,
+    "Company": "Pfanner",
+    "Country": "Austria",
+    "Rating": 75.66,
+    "Whisky": 9,
+    "Collection": 37,
+    "lon": 9.7312128,
+    "lat": 47.4736659
+  },
+  {
+    "index": 774,
+    "Company": "Pfau Brennerei",
+    "Country": "Austria",
+    "Rating": 59.5,
+    "Whisky": 4,
+    "Collection": 8,
+    "lon": 14.2867989,
+    "lat": 46.6443667
+  },
+  {
+    "index": 776,
+    "Company": "Piedmont Distillers",
+    "Country": "United States",
+    "Rating": 78.25,
+    "Whisky": 6,
+    "Collection": 24,
+    "lon": -79.9571503,
+    "lat": 36.3879135
+  },
+  {
+    "index": 777,
+    "Company": "Pittsburgh Distilling Company",
+    "Country": "United States",
+    "Rating": 79,
+    "Whisky": 20,
+    "Collection": 8,
+    "lon": -79.981579,
+    "lat": 40.4542766
+  },
+  {
+    "index": 778,
+    "Company": "Popcorn Sutton Distillery",
+    "Country": "United States",
+    "Rating": 60,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": -83.2253375,
+    "lat": 35.9755334
+  },
+  {
+    "index": 779,
+    "Company": "Port Chilkoot Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -135.4419165,
+    "lat": 59.2282797
+  },
+  {
+    "index": 780,
+    "Company": "Potter",
+    "Country": "Canada",
+    "Rating": 83.18,
+    "Whisky": 8,
+    "Collection": 41,
+    "lon": -119.4879215,
+    "lat": 49.8948064
+  },
+  {
+    "index": 781,
+    "Company": "Pradlo Distillery",
+    "Country": "Czech Republic",
+    "Rating": 77.46,
+    "Whisky": 5,
+    "Collection": 449,
+    "lon": 15.472962,
+    "lat": 49.817492
+  },
+  {
+    "index": 782,
+    "Company": "Praskoveya Winery",
+    "Country": "Russian Federation",
+    "Rating": 58.17,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": 43.520214,
+    "lat": 44.6680993
+  },
+  {
+    "index": 783,
+    "Company": "Preussische Whisky Destillerie",
+    "Country": "Germany",
+    "Rating": 69.96,
+    "Whisky": 35,
+    "Collection": 59,
+    "lon": 14.07391,
+    "lat": 53.10507
+  },
+  {
+    "index": 784,
+    "Company": "Prichard's",
+    "Country": "United States",
+    "Rating": 80.28,
+    "Whisky": 13,
+    "Collection": 58,
+    "lon": -86.4619207,
+    "lat": 35.1273
+  },
+  {
+    "index": 786,
+    "Company": "Privatbrauerei Friedrich Düll",
+    "Country": "Germany",
+    "Rating": 76.94,
+    "Whisky": 4,
+    "Collection": 7,
+    "lon": 10.28888,
+    "lat": 49.88567
+  },
+  {
+    "index": 787,
+    "Company": "Puni",
+    "Country": "Italy",
+    "Rating": 78.26,
+    "Whisky": 20,
+    "Collection": 454,
+    "lon": 10.560908,
+    "lat": 46.6707203
+  },
+  {
+    "index": 788,
+    "Company": "R. Jelínek",
+    "Country": "Czech Republic",
+    "Rating": 85.57,
+    "Whisky": 31,
+    "Collection": 614,
+    "lon": 17.8356582,
+    "lat": 49.2142413
+  },
+  {
+    "index": 789,
+    "Company": "Rabbit Hole Distilling",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 7,
+    "lon": -85.739438,
+    "lat": 38.252324
+  },
+  {
+    "index": 790,
+    "Company": "Rabel",
+    "Country": "Germany",
+    "Rating": 55.55,
+    "Whisky": 6,
+    "Collection": 53,
+    "lon": 9.4256542,
+    "lat": 48.5771308
+  },
+  {
+    "index": 791,
+    "Company": "Radermacher",
+    "Country": "Belgium",
+    "Rating": 74.65,
+    "Whisky": 7,
+    "Collection": 161,
+    "lon": 6.1218615,
+    "lat": 50.6715756
+  },
+  {
+    "index": 792,
+    "Company": "Radico Khaitan Ltd",
+    "Country": "India",
+    "Rating": 73.07,
+    "Whisky": 7,
+    "Collection": 49,
+    "lon": 79.0288569,
+    "lat": 28.7934877
+  },
+  {
+    "index": 794,
+    "Company": "Ranger Creek",
+    "Country": "United States",
+    "Rating": 78.25,
+    "Whisky": 8,
+    "Collection": 27,
+    "lon": -98.3970505,
+    "lat": 29.5293802
+  },
+  {
+    "index": 795,
+    "Company": "Ransom",
+    "Country": "United States",
+    "Rating": 84.11,
+    "Whisky": 6,
+    "Collection": 17,
+    "lon": -123.4643519,
+    "lat": 45.093813
+  },
+  {
+    "index": 796,
+    "Company": "Re:Find",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -120.7413262,
+    "lat": 35.6509034
+  },
+  {
+    "index": 797,
+    "Company": "Rebecca Creek Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -98.4546271,
+    "lat": 29.6943675
+  },
+  {
+    "index": 799,
+    "Company": "Reisetbauer",
+    "Country": "Austria",
+    "Rating": 66.43,
+    "Whisky": 13,
+    "Collection": 81,
+    "lon": 14.1166488,
+    "lat": 48.2551159
+  },
+  {
+    "index": 800,
+    "Company": "Reservoir Distillery",
+    "Country": "United States",
+    "Rating": 82,
+    "Whisky": 12,
+    "Collection": 10,
+    "lon": -77.468267,
+    "lat": 37.5695319
+  },
+  {
+    "index": 801,
+    "Company": "Rich Grain Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -90.0388881,
+    "lat": 32.6123279
+  },
+  {
+    "index": 803,
+    "Company": "Rittmeister Destille",
+    "Country": "Germany",
+    "Rating": 72,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 12.1039917,
+    "lat": 54.0630306
+  },
+  {
+    "index": 804,
+    "Company": "Robert Meisner GmbH & Co. KG",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": 9.0979488,
+    "lat": 54.1974287
+  },
+  {
+    "index": 805,
+    "Company": "Rock Town",
+    "Country": "United States",
+    "Rating": 80.67,
+    "Whisky": 28,
+    "Collection": 91,
+    "lon": -92.2569733,
+    "lat": 34.742291
+  },
+  {
+    "index": 806,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 807,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 808,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 809,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 810,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 811,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 812,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 813,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 814,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 815,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 816,
+    "Company": "Rogue Spirits",
+    "Country": "United States",
+    "Rating": 69.13,
+    "Whisky": 2,
+    "Collection": 29,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 819,
+    "Company": "Rothaus",
+    "Country": "Germany",
+    "Rating": 76.53,
+    "Whisky": 22,
+    "Collection": 277,
+    "lon": 8.24493,
+    "lat": 47.7955
+  },
+  {
+    "index": 820,
+    "Company": "RoughStock",
+    "Country": "United States",
+    "Rating": 74.59,
+    "Whisky": 15,
+    "Collection": 49,
+    "lon": -111.1865657,
+    "lat": 45.6621686
+  },
+  {
+    "index": 821,
+    "Company": "Royal Brewhouse",
+    "Country": "Indonesia",
+    "Rating": 75.5,
+    "Whisky": 4,
+    "Collection": 2,
+    "lon": 106.7353655,
+    "lat": -6.1348636
+  },
+  {
+    "index": 822,
+    "Company": "Rugenbräu",
+    "Country": "Switzerland",
+    "Rating": 82.89,
+    "Whisky": 44,
+    "Collection": 197,
+    "lon": 7.8550596,
+    "lat": 46.6706144
+  },
+  {
+    "index": 824,
+    "Company": "Sächsische Spirituosenmanufaktur",
+    "Country": "Germany",
+    "Rating": 74.5,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 14.4197603,
+    "lat": 51.0906526
+  },
+  {
+    "index": 826,
+    "Company": "Sagamore Spirit Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -76.6161796,
+    "lat": 39.2634099
+  },
+  {
+    "index": 829,
+    "Company": "Salm Bräu",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 16.380861,
+    "lat": 48.196667
+  },
+  {
+    "index": 830,
+    "Company": "Sammerhof",
+    "Country": "Austria",
+    "Rating": 88,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 13.9194478,
+    "lat": 47.9646773
+  },
+  {
+    "index": 831,
+    "Company": "Samuel Smith & Son",
+    "Country": "Australia",
+    "Rating": 84,
+    "Whisky": 7,
+    "Collection": 30,
+    "lon": 151.1952468,
+    "lat": -33.9111024
+  },
+  {
+    "index": 832,
+    "Company": "San Diego Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -116.9684552,
+    "lat": 32.7285919
+  },
+  {
+    "index": 833,
+    "Company": "Santa Fe Spirits",
+    "Country": "United States",
+    "Rating": 82.45,
+    "Whisky": 5,
+    "Collection": 19,
+    "lon": -106.065426,
+    "lat": 35.6360914
+  },
+  {
+    "index": 834,
+    "Company": "Säntisblick Destillerie Ltd.",
+    "Country": "Switzerland",
+    "Rating": 56.46,
+    "Whisky": 6,
+    "Collection": 20,
+    "lon": 9.2202572,
+    "lat": 47.4799965
+  },
+  {
+    "index": 835,
+    "Company": "Sasanokawa Shuzo",
+    "Country": "Japan",
+    "Rating": 83.7,
+    "Whisky": 20,
+    "Collection": 327,
+    "lon": 136.5783003,
+    "lat": 34.9511957
+  },
+  {
+    "index": 836,
+    "Company": "Sauerländer Edelbrand GmbH",
+    "Country": "Germany",
+    "Rating": 83.84,
+    "Whisky": 8,
+    "Collection": 44,
+    "lon": 8.4186808,
+    "lat": 51.4533698
+  },
+  {
+    "index": 837,
+    "Company": "Savage & Cooke",
+    "Country": "United States",
+    "Rating": 84,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -122.2724704,
+    "lat": 38.0954755
+  },
+  {
+    "index": 838,
+    "Company": "Schäffler Bräu",
+    "Country": "Germany",
+    "Rating": 79.5,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 10.127268,
+    "lat": 47.597332
+  },
+  {
+    "index": 839,
+    "Company": "Schlitzer Korn- & Edelobstbrennerei GmbH",
+    "Country": "Germany",
+    "Rating": 69.18,
+    "Whisky": 12,
+    "Collection": 71,
+    "lon": 9.5577412,
+    "lat": 50.6752309
+  },
+  {
+    "index": 840,
+    "Company": "Schloss Marienburg - Spirituosenwerke - Heinrich Nagel KG",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 9.7381294,
+    "lat": 52.1211249
+  },
+  {
+    "index": 841,
+    "Company": "Schlossbrauerei Autenried GmbH",
+    "Country": "Germany",
+    "Rating": 76,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 10.25353,
+    "lat": 48.36416
+  },
+  {
+    "index": 842,
+    "Company": "Schwane Destillerie",
+    "Country": "Germany",
+    "Rating": 83.67,
+    "Whisky": 6,
+    "Collection": 14,
+    "lon": 10.2309327,
+    "lat": 49.8639895
+  },
+  {
+    "index": 843,
+    "Company": "Scissortail Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -97.4977942,
+    "lat": 35.3583474
+  },
+  {
+    "index": 844,
+    "Company": "Scriptor Brennerei",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 5,
+    "Collection": 13,
+    "lon": 8.3820478,
+    "lat": 48.9887823
+  },
+  {
+    "index": 847,
+    "Company": "Sempione Distillery",
+    "Country": "Switzerland",
+    "Rating": 80,
+    "Whisky": 4,
+    "Collection": 6,
+    "lon": 7.9668521,
+    "lat": 46.3089614
+  },
+  {
+    "index": 848,
+    "Company": "Seppelbauer",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 14.90198,
+    "lat": 48.093125
+  },
+  {
+    "index": 850,
+    "Company": "Shelter Distilling",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -118.9857478,
+    "lat": 37.6504559
+  },
+  {
+    "index": 851,
+    "Company": "Shelter Point Distillery",
+    "Country": "Canada",
+    "Rating": 86.89,
+    "Whisky": 7,
+    "Collection": 24,
+    "lon": -125.128805,
+    "lat": 49.8783492
+  },
+  {
+    "index": 852,
+    "Company": "Shinshu Mars",
+    "Country": "Japan",
+    "Rating": 86.05,
+    "Whisky": 136,
+    "Collection": 1830,
+    "lon": 137.9443071,
+    "lat": 35.7689044
+  },
+  {
+    "index": 859,
+    "Company": "Sibling Distillery",
+    "Country": "United Kingdom",
+    "Rating": 54,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": -2.0274959,
+    "lat": 51.877111
+  },
+  {
+    "index": 872,
+    "Company": "Sinnesfreuden Neber-Hagemann",
+    "Country": "Austria",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 15.3597622,
+    "lat": 47.4751598
+  },
+  {
+    "index": 873,
+    "Company": "Six & Twenty Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 875,
+    "Company": "Slane",
+    "Country": "Ireland",
+    "Rating": 76.83,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": -6.5436512,
+    "lat": 53.7086474
+  },
+  {
+    "index": 876,
+    "Company": "Sliabh Liag Distillery",
+    "Country": "Ireland",
+    "Rating": 61.67,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -8.633826,
+    "lat": 54.654363
+  },
+  {
+    "index": 877,
+    "Company": "Slyrs",
+    "Country": "Germany",
+    "Rating": 77.33,
+    "Whisky": 118,
+    "Collection": 2210,
+    "lon": 11.8853022,
+    "lat": 47.7025799
+  },
+  {
+    "index": 878,
+    "Company": "Small-Brook",
+    "Country": "Luxembourg",
+    "Rating": 81.22,
+    "Whisky": 6,
+    "Collection": 26,
+    "lon": 6.35335,
+    "lat": 49.7174
+  },
+  {
+    "index": 879,
+    "Company": "Smögen Whisky",
+    "Country": "Sweden",
+    "Rating": 85.77,
+    "Whisky": 34,
+    "Collection": 1904,
+    "lon": 11.312052,
+    "lat": 58.4253962
+  },
+  {
+    "index": 880,
+    "Company": "Smooth Ambler Spirits",
+    "Country": "United States",
+    "Rating": 83.96,
+    "Whisky": 142,
+    "Collection": 319,
+    "lon": -80.4004218,
+    "lat": 37.864714
+  },
+  {
+    "index": 882,
+    "Company": "Sonnenbräu",
+    "Country": "Switzerland",
+    "Rating": 78.38,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": 9.5852299,
+    "lat": 47.3996303
+  },
+  {
+    "index": 883,
+    "Company": "Sonnenscheiner",
+    "Country": "Germany",
+    "Rating": 73.08,
+    "Whisky": 5,
+    "Collection": 50,
+    "lon": 7.291552,
+    "lat": 51.4259728
+  },
+  {
+    "index": 884,
+    "Company": "Sonoma County Distilling Co.",
+    "Country": "United States",
+    "Rating": 83.77,
+    "Whisky": 26,
+    "Collection": 72,
+    "lon": -122.709799,
+    "lat": 38.3564602
+  },
+  {
+    "index": 885,
+    "Company": "Sons of Liberty",
+    "Country": "United States",
+    "Rating": 78.5,
+    "Whisky": 6,
+    "Collection": 12,
+    "lon": -71.5048907,
+    "lat": 41.4546264
+  },
+  {
+    "index": 887,
+    "Company": "Southern Coast Distillers",
+    "Country": "Australia",
+    "Rating": 83.5,
+    "Whisky": 8,
+    "Collection": 3,
+    "lon": 133.775136,
+    "lat": -25.274398
+  },
+  {
+    "index": 888,
+    "Company": "Southern Coast Distillers",
+    "Country": "Australia",
+    "Rating": 83.5,
+    "Whisky": 8,
+    "Collection": 3,
+    "lon": 133.775136,
+    "lat": -25.274398
+  },
+  {
+    "index": 889,
+    "Company": "Southern Distilleries Ltd.",
+    "Country": "New Zealand",
+    "Rating": 40.5,
+    "Whisky": 6,
+    "Collection": 5,
+    "lon": 171.2541481,
+    "lat": -44.3965631
+  },
+  {
+    "index": 892,
+    "Company": "Southern Grain Spirits",
+    "Country": "New Zealand",
+    "Rating": 65.33,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 172.6508828,
+    "lat": -43.3865594
+  },
+  {
+    "index": 893,
+    "Company": "Southern Tier Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -79.3482492,
+    "lat": 42.0889242
+  },
+  {
+    "index": 894,
+    "Company": "Sperbers Destillerie",
+    "Country": "Germany",
+    "Rating": 84,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": 10.7987892,
+    "lat": 50.0649046
+  },
+  {
+    "index": 895,
+    "Company": "Sperling Silver Distillery",
+    "Country": "Canada",
+    "Rating": 60,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -104.6187166,
+    "lat": 50.4447316
+  },
+  {
+    "index": 898,
+    "Company": "Spezialitätenbrennerei Weidhof",
+    "Country": "Switzerland",
+    "Rating": 74,
+    "Whisky": 4,
+    "Collection": 13,
+    "lon": 7.8793076,
+    "lat": 47.463724
+  },
+  {
+    "index": 899,
+    "Company": "Spirit Hound Distillers",
+    "Country": "United States",
+    "Rating": 81,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -105.2560975,
+    "lat": 40.2156306
+  },
+  {
+    "index": 900,
+    "Company": "Spirit of Yorkshire Distillery",
+    "Country": "United Kingdom",
+    "Rating": 89,
+    "Whisky": 3,
+    "Collection": 10,
+    "lon": -0.3093221,
+    "lat": 54.1726381
+  },
+  {
+    "index": 901,
+    "Company": "Spirit Works Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -122.8219096,
+    "lat": 38.4043269
+  },
+  {
+    "index": 902,
+    "Company": "Split Rock Distillery",
+    "Country": "United States",
+    "Rating": 81.33,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -69.6030195,
+    "lat": 44.0111792
+  },
+  {
+    "index": 903,
+    "Company": "Spreewald Brennerei",
+    "Country": "Germany",
+    "Rating": 73.75,
+    "Whisky": 13,
+    "Collection": 98,
+    "lon": 13.8905428,
+    "lat": 52.0284898
+  },
+  {
+    "index": 904,
+    "Company": "Spreewood Distillers",
+    "Country": "Germany",
+    "Rating": 77.56,
+    "Whisky": 6,
+    "Collection": 41,
+    "lon": 13.8905428,
+    "lat": 52.0284898
+  },
+  {
+    "index": 917,
+    "Company": "St. George Spirits",
+    "Country": "United States",
+    "Rating": 78.63,
+    "Whisky": 16,
+    "Collection": 66,
+    "lon": -122.3091572,
+    "lat": 37.7876159
+  },
+  {
+    "index": 918,
+    "Company": "St. George's Distillery",
+    "Country": "United Kingdom",
+    "Rating": 79.77,
+    "Whisky": 242,
+    "Collection": 1098,
+    "lon": 0.9127486,
+    "lat": 52.4521246
+  },
+  {
+    "index": 919,
+    "Company": "St. Kilian Distillers",
+    "Country": "Germany",
+    "Rating": 81.31,
+    "Whisky": 12,
+    "Collection": 349,
+    "lon": 9.1852768,
+    "lat": 49.7108799
+  },
+  {
+    "index": 920,
+    "Company": "St. Patrick's Distillery",
+    "Country": "Ireland",
+    "Rating": 80.78,
+    "Whisky": 5,
+    "Collection": 43,
+    "lon": -8.4863157,
+    "lat": 51.8968917
+  },
+  {
+    "index": 923,
+    "Company": "Stadsbrouwerij De Hemel",
+    "Country": "Netherlands",
+    "Rating": 52.33,
+    "Whisky": 4,
+    "Collection": 20,
+    "lon": 5.8642185,
+    "lat": 51.8484584
+  },
+  {
+    "index": 924,
+    "Company": "Stammheimer",
+    "Country": "Switzerland",
+    "Rating": 72.67,
+    "Whisky": 3,
+    "Collection": 11,
+    "lon": 8.7803448,
+    "lat": 47.6339247
+  },
+  {
+    "index": 926,
+    "Company": "Stark Spirits Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 5,
+    "Collection": 2,
+    "lon": -118.158605,
+    "lat": 34.1688006
+  },
+  {
+    "index": 927,
+    "Company": "Starkenberg",
+    "Country": "Austria",
+    "Rating": 71.91,
+    "Whisky": 4,
+    "Collection": 46,
+    "lon": 10.7542345,
+    "lat": 47.2616116
+  },
+  {
+    "index": 928,
+    "Company": "Starlight Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 4,
+    "Collection": 3,
+    "lon": -85.9287525,
+    "lat": 38.422711
+  },
+  {
+    "index": 929,
+    "Company": "Stauning",
+    "Country": "Denmark",
+    "Rating": 78.18,
+    "Whisky": 56,
+    "Collection": 1051,
+    "lon": 8.4240733,
+    "lat": 55.9478268
+  },
+  {
+    "index": 931,
+    "Company": "Steigmiller-Lutz",
+    "Country": "Germany",
+    "Rating": 70,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 9.8295884,
+    "lat": 48.0613322
+  },
+  {
+    "index": 932,
+    "Company": "Stein Distillery Inc.",
+    "Country": "United States",
+    "Rating": 87.17,
+    "Whisky": 7,
+    "Collection": 36,
+    "lon": -117.2296119,
+    "lat": 45.3577706
+  },
+  {
+    "index": 933,
+    "Company": "Steinhauser",
+    "Country": "Germany",
+    "Rating": 79.91,
+    "Whisky": 10,
+    "Collection": 58,
+    "lon": 9.5972366,
+    "lat": 47.604729
+  },
+  {
+    "index": 934,
+    "Company": "Steinwälder Hausbrennerei Schraml",
+    "Country": "Germany",
+    "Rating": 59.75,
+    "Whisky": 12,
+    "Collection": 41,
+    "lon": 12.0481118,
+    "lat": 49.8403989
+  },
+  {
+    "index": 935,
+    "Company": "Still Waters Distillery",
+    "Country": "Canada",
+    "Rating": 79.75,
+    "Whisky": 23,
+    "Collection": 47,
+    "lon": -79.4891275,
+    "lat": 43.8168324
+  },
+  {
+    "index": 936,
+    "Company": "StilltheOne",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -73.6598294,
+    "lat": 40.9977427
+  },
+  {
+    "index": 937,
+    "Company": "Stillwater Spirits / Moylan's Distilling Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 5,
+    "Collection": 5,
+    "lon": -122.6309168,
+    "lat": 38.2311491
+  },
+  {
+    "index": 938,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 939,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 940,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 941,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 942,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 943,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 944,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 945,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 946,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 947,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 948,
+    "Company": "Stitzel-Weller",
+    "Country": "United States",
+    "Rating": 85.34,
+    "Whisky": 250,
+    "Collection": 286,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 949,
+    "Company": "Stoaninger",
+    "Country": "Austria",
+    "Rating": 77.5,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 13.9254432,
+    "lat": 48.4757829
+  },
+  {
+    "index": 950,
+    "Company": "Stock Plzeň",
+    "Country": "Czech Republic",
+    "Rating": 57.25,
+    "Whisky": 4,
+    "Collection": 14,
+    "lon": 13.4194268,
+    "lat": 49.7319492
+  },
+  {
+    "index": 951,
+    "Company": "Stöfflbräu",
+    "Country": "Austria",
+    "Rating": 72.5,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 12.1417626,
+    "lat": 47.5357209
+  },
+  {
+    "index": 952,
+    "Company": "Stokerij De Molenberg",
+    "Country": "Belgium",
+    "Rating": 79.22,
+    "Whisky": 13,
+    "Collection": 1129,
+    "lon": 4.3822816,
+    "lat": 51.0463896
+  },
+  {
+    "index": 953,
+    "Company": "Stokerij De Onrust",
+    "Country": "Netherlands",
+    "Rating": 60.34,
+    "Whisky": 3,
+    "Collection": 12,
+    "lon": 5.6547785,
+    "lat": 51.9711124
+  },
+  {
+    "index": 954,
+    "Company": "Stokerij Erve Sculte",
+    "Country": "Netherlands",
+    "Rating": 85.21,
+    "Whisky": 8,
+    "Collection": 69,
+    "lon": 78.2248291,
+    "lat": 29.5181
+  },
+  {
+    "index": 956,
+    "Company": "Stone Barn Brandyworks",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -122.6427372,
+    "lat": 45.4807521
+  },
+  {
+    "index": 957,
+    "Company": "Stonecutter Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -73.1689033,
+    "lat": 44.0355565
+  },
+  {
+    "index": 958,
+    "Company": "Stranahan's Colorado Whiskey",
+    "Country": "United States",
+    "Rating": 85.74,
+    "Whisky": 21,
+    "Collection": 107,
+    "lon": -104.9986335,
+    "lat": 39.712428
+  },
+  {
+    "index": 959,
+    "Company": "Stratheden",
+    "Country": "Scotland",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -3.236092,
+    "lat": 56.292291
+  },
+  {
+    "index": 960,
+    "Company": "Strong Spirits",
+    "Country": "United States",
+    "Rating": 81.67,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -85.4669025,
+    "lat": 37.8092279
+  },
+  {
+    "index": 961,
+    "Company": "Sugarlands Distilling Co.",
+    "Country": "United States",
+    "Rating": 76.5,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": -83.5187231,
+    "lat": 35.7116743
+  },
+  {
+    "index": 962,
+    "Company": "Sullivans Cove",
+    "Country": "Australia",
+    "Rating": 84.18,
+    "Whisky": 91,
+    "Collection": 383,
+    "lon": 147.4471005,
+    "lat": -42.8359899
+  },
+  {
+    "index": 963,
+    "Company": "Surselva Bräu",
+    "Country": "Switzerland",
+    "Rating": 66.25,
+    "Whisky": 5,
+    "Collection": 10,
+    "lon": 9.2890395,
+    "lat": 46.8267783
+  },
+  {
+    "index": 964,
+    "Company": "Sweet Potato Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -120.6243305,
+    "lat": 37.334614
+  },
+  {
+    "index": 965,
+    "Company": "Swhisky",
+    "Country": "Switzerland",
+    "Rating": 59.42,
+    "Whisky": 10,
+    "Collection": 10,
+    "lon": 7.2516928,
+    "lat": 46.207822
+  },
+  {
+    "index": 966,
+    "Company": "Taconic Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 6,
+    "Collection": 2,
+    "lon": -73.7284384,
+    "lat": 41.8870699
+  },
+  {
+    "index": 969,
+    "Company": "Tatoosh",
+    "Country": "United States",
+    "Rating": 75.5,
+    "Whisky": 3,
+    "Collection": 5,
+    "lon": -122.3566566,
+    "lat": 47.5325643
+  },
+  {
+    "index": 970,
+    "Company": "Tattersall Distilling",
+    "Country": "United States",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -93.2489399,
+    "lat": 45.0053825
+  },
+  {
+    "index": 972,
+    "Company": "Teeling Whiskey Company",
+    "Country": "Ireland",
+    "Rating": 81.86,
+    "Whisky": 1,
+    "Collection": 27,
+    "lon": -6.2757829,
+    "lat": 53.3391648
+  },
+  {
+    "index": 973,
+    "Company": "Teeling Whiskey Distillery",
+    "Country": "Ireland",
+    "Rating": 71.29,
+    "Whisky": 6,
+    "Collection": 98,
+    "lon": -6.2757829,
+    "lat": 53.3391648
+  },
+  {
+    "index": 974,
+    "Company": "Teerenpeli",
+    "Country": "Finland",
+    "Rating": 80.74,
+    "Whisky": 29,
+    "Collection": 553,
+    "lon": 25.6967319,
+    "lat": 60.9635599
+  },
+  {
+    "index": 975,
+    "Company": "Tekel",
+    "Country": "Turkey",
+    "Rating": 67.67,
+    "Whisky": 4,
+    "Collection": 18,
+    "lon": 35.243322,
+    "lat": 38.963745
+  },
+  {
+    "index": 976,
+    "Company": "Telser Distillery",
+    "Country": "Liechtenstein",
+    "Rating": 77.7,
+    "Whisky": 17,
+    "Collection": 36,
+    "lon": 9.527995,
+    "lat": 47.1073165
+  },
+  {
+    "index": 979,
+    "Company": "Tesetice Distillery",
+    "Country": "Czech Republic",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 17.2988946,
+    "lat": 49.7304416
+  },
+  {
+    "index": 980,
+    "Company": "Tevsjö Destilleri",
+    "Country": "Sweden",
+    "Rating": 49,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": 16.2112466,
+    "lat": 61.6462241
+  },
+  {
+    "index": 981,
+    "Company": "The Belgian Owl",
+    "Country": "Belgium",
+    "Rating": 78.14,
+    "Whisky": 69,
+    "Collection": 730,
+    "lon": 4.469936,
+    "lat": 50.503887
+  },
+  {
+    "index": 982,
+    "Company": "The Belgian Owl",
+    "Country": "Belgium",
+    "Rating": 78.14,
+    "Whisky": 69,
+    "Collection": 730,
+    "lon": 4.469936,
+    "lat": 50.503887
+  },
+  {
+    "index": 983,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 984,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 985,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 986,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 987,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 988,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 989,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 990,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 991,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 992,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 993,
+    "Company": "The Cooper Spirits Co.",
+    "Country": "United States",
+    "Rating": 84.73,
+    "Whisky": 3,
+    "Collection": 43,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 994,
+    "Company": "The Dingle Whiskey Distillery",
+    "Country": "Ireland",
+    "Rating": 83.25,
+    "Whisky": 9,
+    "Collection": 164,
+    "lon": -10.2889296,
+    "lat": 52.1400609
+  },
+  {
+    "index": 995,
+    "Company": "The Dublin Liberties Distillery",
+    "Country": "Ireland",
+    "Rating": 79.85,
+    "Whisky": 5,
+    "Collection": 61,
+    "lon": -6.2764335,
+    "lat": 53.3372753
+  },
+  {
+    "index": 997,
+    "Company": "The Golan Heights Distillery",
+    "Country": "Israel",
+    "Rating": 80.46,
+    "Whisky": 10,
+    "Collection": 32,
+    "lon": 35.7090086,
+    "lat": 32.9901687
+  },
+  {
+    "index": 999,
+    "Company": "The Helsinki Distilling Co.",
+    "Country": "Finland",
+    "Rating": 75.4,
+    "Whisky": 7,
+    "Collection": 21,
+    "lon": 24.9698642,
+    "lat": 60.1901276
+  },
+  {
+    "index": 1000,
+    "Company": "The Lakes Distillery",
+    "Country": "United Kingdom",
+    "Rating": 78.27,
+    "Whisky": 18,
+    "Collection": 160,
+    "lon": -3.2479334,
+    "lat": 54.6758974
+  },
+  {
+    "index": 1002,
+    "Company": "The London Distillery Company",
+    "Country": "United Kingdom",
+    "Rating": 80.5,
+    "Whisky": 2,
+    "Collection": 4,
+    "lon": -0.1681011,
+    "lat": 51.4790467
+  },
+  {
+    "index": 1003,
+    "Company": "The Lübbehusen Malt Distillery",
+    "Country": "Germany",
+    "Rating": 82.86,
+    "Whisky": 1,
+    "Collection": 37,
+    "lon": 8.19342,
+    "lat": 52.81376
+  },
+  {
+    "index": 1004,
+    "Company": "The Milk & Honey Distillery",
+    "Country": "Israel",
+    "Rating": 86.58,
+    "Whisky": 9,
+    "Collection": 48,
+    "lon": 34.7817676,
+    "lat": 32.0852999
+  },
+  {
+    "index": 1005,
+    "Company": "The Original Texas Legend Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 2,
+    "lon": -93.7275431,
+    "lat": 30.1047849
+  },
+  {
+    "index": 1006,
+    "Company": "The Oxford Artisan Distillery",
+    "Country": "United Kingdom",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -1.223741,
+    "lat": 51.752222
+  },
+  {
+    "index": 1008,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1009,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1010,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1011,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1012,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1013,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1014,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1015,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1016,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1017,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1018,
+    "Company": "The Splinter Group Spirits",
+    "Country": "United States",
+    "Rating": 84.02,
+    "Whisky": 3,
+    "Collection": 19,
+    "lon": -95.712891,
+    "lat": 37.09024
+  },
+  {
+    "index": 1019,
+    "Company": "The Vogel",
+    "Country": "Germany",
+    "Rating": 78.2,
+    "Whisky": 2,
+    "Collection": 8,
+    "lon": 8.4650563,
+    "lat": 48.9973997
+  },
+  {
+    "index": 1020,
+    "Company": "The Waters Distillery",
+    "Country": "Germany",
+    "Rating": 83,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 8.7380759,
+    "lat": 48.8545915
+  },
+  {
+    "index": 1021,
+    "Company": "The Westfalian",
+    "Country": "Germany",
+    "Rating": 85.17,
+    "Whisky": 14,
+    "Collection": 200,
+    "lon": 8.7867387,
+    "lat": 51.7350661
+  },
+  {
+    "index": 1022,
+    "Company": "Thirteenth Colony Distilleries",
+    "Country": "United States",
+    "Rating": 81,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": -84.2372806,
+    "lat": 32.0747344
+  },
+  {
+    "index": 1023,
+    "Company": "Thomas Sippel",
+    "Country": "Germany",
+    "Rating": 60.11,
+    "Whisky": 8,
+    "Collection": 26,
+    "lon": 8.15502,
+    "lat": 49.51427
+  },
+  {
+    "index": 1027,
+    "Company": "Thomas Wilhelm",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 9.4043534,
+    "lat": 49.1369262
+  },
+  {
+    "index": 1028,
+    "Company": "Thomson Whisky New Zealand Ltd",
+    "Country": "New Zealand",
+    "Rating": 78.31,
+    "Whisky": 9,
+    "Collection": 16,
+    "lon": 174.5878655,
+    "lat": -36.7668565
+  },
+  {
+    "index": 1031,
+    "Company": "Thuisbrunner Elch-Bräu",
+    "Country": "Germany",
+    "Rating": 84.28,
+    "Whisky": 5,
+    "Collection": 22,
+    "lon": 11.247743,
+    "lat": 49.6869452
+  },
+  {
+    "index": 1032,
+    "Company": "Thumb Butte Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 4,
+    "Collection": 3,
+    "lon": -112.4609909,
+    "lat": 34.5472548
+  },
+  {
+    "index": 1033,
+    "Company": "Thunder Road Distillery",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": -83.6095484,
+    "lat": 35.9858623
+  },
+  {
+    "index": 1035,
+    "Company": "Timboon Railway Shed Distillery",
+    "Country": "Australia",
+    "Rating": 81.5,
+    "Whisky": 3,
+    "Collection": 9,
+    "lon": 142.9778696,
+    "lat": -38.4843484
+  },
+  {
+    "index": 1036,
+    "Company": "Tin Shed Distilling Co.",
+    "Country": "Australia",
+    "Rating": 0,
+    "Whisky": 8,
+    "Collection": 9,
+    "lon": 138.5575791,
+    "lat": -34.9098907
+  },
+  {
+    "index": 1037,
+    "Company": "Tipperary Boutique Distillery",
+    "Country": "Ireland",
+    "Rating": 83.29,
+    "Whisky": 11,
+    "Collection": 128,
+    "lon": -7.8818405,
+    "lat": 52.3582046
+  },
+  {
+    "index": 1038,
+    "Company": "Tirado Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -73.8984359,
+    "lat": 40.8207725
+  },
+  {
+    "index": 1039,
+    "Company": "To Tårn Bryggeri AS",
+    "Country": "Norway",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 10.3855166,
+    "lat": 63.4063933
+  },
+  {
+    "index": 1041,
+    "Company": "Tom's Foolery Distillery",
+    "Country": "United States",
+    "Rating": 79.67,
+    "Whisky": 7,
+    "Collection": 8,
+    "lon": -81.3862947,
+    "lat": 41.4060853
+  },
+  {
+    "index": 1043,
+    "Company": "Toronto Distillery Co.",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -79.4646226,
+    "lat": 43.6707166
+  },
+  {
+    "index": 1047,
+    "Company": "Traverse City Whiskey Co.",
+    "Country": "United States",
+    "Rating": 75,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -85.6205401,
+    "lat": 44.7518514
+  },
+  {
+    "index": 1048,
+    "Company": "Trebitsch Old Town Distillery",
+    "Country": "Czech Republic",
+    "Rating": 67,
+    "Whisky": 9,
+    "Collection": 7,
+    "lon": 15.8772969,
+    "lat": 49.2172206
+  },
+  {
+    "index": 1049,
+    "Company": "Triple Eight Distillery",
+    "Country": "United States",
+    "Rating": 89,
+    "Whisky": 4,
+    "Collection": 3,
+    "lon": -70.1311662,
+    "lat": 41.2633412
+  },
+  {
+    "index": 1050,
+    "Company": "Trolden Distillery",
+    "Country": "Denmark",
+    "Rating": 70.75,
+    "Whisky": 4,
+    "Collection": 30,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 1051,
+    "Company": "Trolden Distillery",
+    "Country": "Denmark",
+    "Rating": 70.75,
+    "Whisky": 4,
+    "Collection": 30,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 1052,
+    "Company": "Trolden Distillery",
+    "Country": "Denmark",
+    "Rating": 70.75,
+    "Whisky": 4,
+    "Collection": 30,
+    "lon": 9.501785,
+    "lat": 56.26392
+  },
+  {
+    "index": 1053,
+    "Company": "Tsunuki",
+    "Country": "Japan",
+    "Rating": 77.61,
+    "Whisky": 5,
+    "Collection": 29,
+    "lon": 130.2866674,
+    "lat": 31.3592933
+  },
+  {
+    "index": 1054,
+    "Company": "Tullamore Dew (1829 - 1954)",
+    "Country": "Ireland",
+    "Rating": 90.74,
+    "Whisky": 15,
+    "Collection": 32,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1055,
+    "Company": "Tullamore Dew (1829 - 1954)",
+    "Country": "Ireland",
+    "Rating": 90.74,
+    "Whisky": 15,
+    "Collection": 32,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1056,
+    "Company": "Tullamore Dew (1829 - 1954)",
+    "Country": "Ireland",
+    "Rating": 90.74,
+    "Whisky": 15,
+    "Collection": 32,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1057,
+    "Company": "Tullamore Dew (1829 - 1954)",
+    "Country": "Ireland",
+    "Rating": 90.74,
+    "Whisky": 15,
+    "Collection": 32,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1058,
+    "Company": "Tullamore Dew (2014 - present)",
+    "Country": "Ireland",
+    "Rating": 76.78,
+    "Whisky": 6,
+    "Collection": 90,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1059,
+    "Company": "Tullamore Dew (2014 - present)",
+    "Country": "Ireland",
+    "Rating": 76.78,
+    "Whisky": 6,
+    "Collection": 90,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1060,
+    "Company": "Tullamore Dew (2014 - present)",
+    "Country": "Ireland",
+    "Rating": 76.78,
+    "Whisky": 6,
+    "Collection": 90,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1061,
+    "Company": "Tullamore Dew (2014 - present)",
+    "Country": "Ireland",
+    "Rating": 76.78,
+    "Whisky": 6,
+    "Collection": 90,
+    "lon": -8.24389,
+    "lat": 53.41291
+  },
+  {
+    "index": 1062,
+    "Company": "Turv Exloo Distillery",
+    "Country": "Netherlands",
+    "Rating": 63.87,
+    "Whisky": 1,
+    "Collection": 78,
+    "lon": 6.8650067,
+    "lat": 52.8816733
+  },
+  {
+    "index": 1063,
+    "Company": "Tuthilltown Spirits",
+    "Country": "United States",
+    "Rating": 72.41,
+    "Whisky": 45,
+    "Collection": 400,
+    "lon": -74.176669,
+    "lat": 41.686314
+  },
+  {
+    "index": 1066,
+    "Company": "Two Doves Destilerija",
+    "Country": "Serbia And Montenegro",
+    "Rating": 61.67,
+    "Whisky": 2,
+    "Collection": 5,
+    "lon": 19.37439,
+    "lat": 42.708678
+  },
+  {
+    "index": 1068,
+    "Company": "Uerige",
+    "Country": "Germany",
+    "Rating": 74.46,
+    "Whisky": 4,
+    "Collection": 20,
+    "lon": 6.7721116,
+    "lat": 51.2249542
+  },
+  {
+    "index": 1071,
+    "Company": "United Distillery Group",
+    "Country": "Egypt",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 30.802498,
+    "lat": 26.820553
+  },
+  {
+    "index": 1072,
+    "Company": "United Distillery Group",
+    "Country": "Egypt",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 30.802498,
+    "lat": 26.820553
+  },
+  {
+    "index": 1073,
+    "Company": "Urban Distilleries",
+    "Country": "Canada",
+    "Rating": 72,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": -119.4957897,
+    "lat": 49.8988072
+  },
+  {
+    "index": 1074,
+    "Company": "Us Heit Distillery",
+    "Country": "Netherlands",
+    "Rating": 73.78,
+    "Whisky": 111,
+    "Collection": 504,
+    "lon": 5.5322229,
+    "lat": 53.0608684
+  },
+  {
+    "index": 1075,
+    "Company": "Valamo Monastery Distillery",
+    "Country": "Finland",
+    "Rating": 78.69,
+    "Whisky": 11,
+    "Collection": 17,
+    "lon": 28.7905196,
+    "lat": 62.5629556
+  },
+  {
+    "index": 1076,
+    "Company": "Valentine Distilling",
+    "Country": "United States",
+    "Rating": 84.22,
+    "Whisky": 6,
+    "Collection": 10,
+    "lon": -83.133613,
+    "lat": 42.4617634
+  },
+  {
+    "index": 1077,
+    "Company": "Vallei Distilleerderij",
+    "Country": "Netherlands",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 5.4613502,
+    "lat": 52.1305809
+  },
+  {
+    "index": 1078,
+    "Company": "Van Brunt Stillhouse",
+    "Country": "United States",
+    "Rating": 72.88,
+    "Whisky": 12,
+    "Collection": 10,
+    "lon": -74.0100937,
+    "lat": 40.6734904
+  },
+  {
+    "index": 1079,
+    "Company": "van Kleef",
+    "Country": "Netherlands",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 7,
+    "lon": 4.3083871,
+    "lat": 52.0732221
+  },
+  {
+    "index": 1080,
+    "Company": "Venus Spirits",
+    "Country": "United States",
+    "Rating": 80.75,
+    "Whisky": 2,
+    "Collection": 4,
+    "lon": -122.0487375,
+    "lat": 36.9561221
+  },
+  {
+    "index": 1081,
+    "Company": "Victoria Distillers",
+    "Country": "Canada",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -123.394368,
+    "lat": 48.650103
+  },
+  {
+    "index": 1082,
+    "Company": "Vielanker Brauhaus",
+    "Country": "Germany",
+    "Rating": 51.63,
+    "Whisky": 2,
+    "Collection": 6,
+    "lon": 11.1399955,
+    "lat": 53.2345373
+  },
+  {
+    "index": 1083,
+    "Company": "Viktor Senn",
+    "Country": "Switzerland",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": 8.1357169,
+    "lat": 47.5394015
+  },
+  {
+    "index": 1084,
+    "Company": "Vingården Lille Gadegård",
+    "Country": "Denmark",
+    "Rating": 64.75,
+    "Whisky": 6,
+    "Collection": 29,
+    "lon": 14.9682259,
+    "lat": 55.0288565
+  },
+  {
+    "index": 1085,
+    "Company": "Vinn",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -122.6569403,
+    "lat": 45.5137807
+  },
+  {
+    "index": 1086,
+    "Company": "Virgil Kaine Lowcountry Whiskey Co.",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -79.9748103,
+    "lat": 32.8546197
+  },
+  {
+    "index": 1087,
+    "Company": "Virginia Distillery Company",
+    "Country": "United States",
+    "Rating": 82,
+    "Whisky": 8,
+    "Collection": 16,
+    "lon": -78.8569403,
+    "lat": 37.7835886
+  },
+  {
+    "index": 1088,
+    "Company": "Virginia Sweetwater Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -81.5488928,
+    "lat": 36.8664521
+  },
+  {
+    "index": 1089,
+    "Company": "Wädi-Brau-Huus",
+    "Country": "Switzerland",
+    "Rating": 57.67,
+    "Whisky": 8,
+    "Collection": 8,
+    "lon": 8.6703731,
+    "lat": 47.2311995
+  },
+  {
+    "index": 1090,
+    "Company": "Wakatsuru Distillery",
+    "Country": "Japan",
+    "Rating": 88.32,
+    "Whisky": 10,
+    "Collection": 133,
+    "lon": 136.9703023,
+    "lat": 36.6557934
+  },
+  {
+    "index": 1091,
+    "Company": "Waldviertler Roggenhof",
+    "Country": "Austria",
+    "Rating": 60.48,
+    "Whisky": 31,
+    "Collection": 136,
+    "lon": 15.2224016,
+    "lat": 48.3936342
+  },
+  {
+    "index": 1092,
+    "Company": "Wallner",
+    "Country": "Austria",
+    "Rating": 80,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 16.9126533,
+    "lat": 47.8963233
+  },
+  {
+    "index": 1093,
+    "Company": "Walsh Whiskey Distillery",
+    "Country": "Ireland",
+    "Rating": 82.5,
+    "Whisky": 3,
+    "Collection": 68,
+    "lon": -6.8839185,
+    "lat": 52.8533763
+  },
+  {
+    "index": 1094,
+    "Company": "Walter Seeger",
+    "Country": "Germany",
+    "Rating": 68,
+    "Whisky": 2,
+    "Collection": 6,
+    "lon": 8.7421838,
+    "lat": 48.6575921
+  },
+  {
+    "index": 1095,
+    "Company": "Wannborga Bränneri & Vingård",
+    "Country": "Sweden",
+    "Rating": 71.34,
+    "Whisky": 7,
+    "Collection": 112,
+    "lon": 16.8416537,
+    "lat": 56.949066
+  },
+  {
+    "index": 1096,
+    "Company": "Warenghem",
+    "Country": "France",
+    "Rating": 80.64,
+    "Whisky": 62,
+    "Collection": 1371,
+    "lon": -3.4391825,
+    "lat": 48.7243633
+  },
+  {
+    "index": 1098,
+    "Company": "Watershed Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 2,
+    "Collection": 1,
+    "lon": -83.037348,
+    "lat": 39.992103
+  },
+  {
+    "index": 1099,
+    "Company": "Wayne Gretzky Estate",
+    "Country": "Canada",
+    "Rating": 82.54,
+    "Whisky": 5,
+    "Collection": 26,
+    "lon": -79.1338528,
+    "lat": 43.2119089
+  },
+  {
+    "index": 1100,
+    "Company": "Weidenauer",
+    "Country": "Austria",
+    "Rating": 80.83,
+    "Whisky": 7,
+    "Collection": 22,
+    "lon": 15.3048449,
+    "lat": 48.425259
+  },
+  {
+    "index": 1101,
+    "Company": "Weinbau zur Krone",
+    "Country": "Switzerland",
+    "Rating": 81.67,
+    "Whisky": 1,
+    "Collection": 5,
+    "lon": 16.3654703,
+    "lat": 48.2100644
+  },
+  {
+    "index": 1102,
+    "Company": "Weinbrennerei und Likörfabrik H. A. Wagner",
+    "Country": "Germany",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 8.6628091,
+    "lat": 49.9886686
+  },
+  {
+    "index": 1103,
+    "Company": "Weingut Dotzauer",
+    "Country": "Germany",
+    "Rating": 86,
+    "Whisky": 1,
+    "Collection": 3,
+    "lon": 7.6961152,
+    "lat": 49.7967168
+  },
+  {
+    "index": 1104,
+    "Company": "Weingut Etl",
+    "Country": "Austria",
+    "Rating": 43,
+    "Whisky": 1,
+    "Collection": 4,
+    "lon": 16.9714898,
+    "lat": 47.8685696
+  },
+  {
+    "index": 1105,
+    "Company": "Weingut Mößlein",
+    "Country": "Germany",
+    "Rating": 78.46,
+    "Whisky": 3,
+    "Collection": 21,
+    "lon": 10.26801,
+    "lat": 49.89975
+  },
+  {
+    "index": 1106,
+    "Company": "West Cork Distillers",
+    "Country": "Ireland",
+    "Rating": 78.7,
+    "Whisky": 30,
+    "Collection": 609,
+    "lon": -9.2642294,
+    "lat": 51.5470425
+  },
+  {
+    "index": 1108,
+    "Company": "Western Son Distillery",
+    "Country": "United States",
+    "Rating": 4,
+    "Whisky": 3,
+    "Collection": 8,
+    "lon": -96.9623288,
+    "lat": 33.3940319
+  },
+  {
+    "index": 1109,
+    "Company": "Western Spirits Beverage Company",
+    "Country": "United States",
+    "Rating": 74.11,
+    "Whisky": 19,
+    "Collection": 49,
+    "lon": -86.4226955,
+    "lat": 36.9573499
+  },
+  {
+    "index": 1110,
+    "Company": "Westland Distillery",
+    "Country": "United States",
+    "Rating": 84.44,
+    "Whisky": 72,
+    "Collection": 386,
+    "lon": -122.3347132,
+    "lat": 47.5765219
+  },
+  {
+    "index": 1111,
+    "Company": "Weutz",
+    "Country": "Austria",
+    "Rating": 68.01,
+    "Whisky": 21,
+    "Collection": 36,
+    "lon": 15.448402,
+    "lat": 46.8193548
+  },
+  {
+    "index": 1112,
+    "Company": "Wharf Distillery",
+    "Country": "United Kingdom",
+    "Rating": 87,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -0.9105607,
+    "lat": 52.0852932
+  },
+  {
+    "index": 1113,
+    "Company": "Whipper Snapper Distillery",
+    "Country": "Australia",
+    "Rating": 81,
+    "Whisky": 3,
+    "Collection": 3,
+    "lon": 115.87466,
+    "lat": -31.95031
+  },
+  {
+    "index": 1114,
+    "Company": "Whisky Castle",
+    "Country": "Switzerland",
+    "Rating": 64.05,
+    "Whisky": 69,
+    "Collection": 98,
+    "lon": 8.1000634,
+    "lat": 47.5076534
+  },
+  {
+    "index": 1115,
+    "Company": "Whisky oet Grunn",
+    "Country": "Netherlands",
+    "Rating": 72.61,
+    "Whisky": 4,
+    "Collection": 45,
+    "lon": 6.569007,
+    "lat": 53.2216676
+  },
+  {
+    "index": 1116,
+    "Company": "WhistlePig",
+    "Country": "United States",
+    "Rating": 86.24,
+    "Whisky": 26,
+    "Collection": 97,
+    "lon": -73.275932,
+    "lat": 43.912071
+  },
+  {
+    "index": 1119,
+    "Company": "Whitmeyer's",
+    "Country": "United States",
+    "Rating": 89,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -95.5220692,
+    "lat": 29.9722243
+  },
+  {
+    "index": 1120,
+    "Company": "Widow Jane Distillery",
+    "Country": "United States",
+    "Rating": 85.81,
+    "Whisky": 34,
+    "Collection": 97,
+    "lon": -74.0153869,
+    "lat": 40.6773529
+  },
+  {
+    "index": 1121,
+    "Company": "Wieser",
+    "Country": "Austria",
+    "Rating": 72.26,
+    "Whisky": 11,
+    "Collection": 77,
+    "lon": 15.4748897,
+    "lat": 48.3896089
+  },
+  {
+    "index": 1122,
+    "Company": "Wijnhuis Texel",
+    "Country": "Netherlands",
+    "Rating": 73.75,
+    "Whisky": 1,
+    "Collection": 7,
+    "lon": 4.873904,
+    "lat": 53.084134
+  },
+  {
+    "index": 1123,
+    "Company": "Wild Turkey Distillery",
+    "Country": "United States",
+    "Rating": 84.31,
+    "Whisky": 227,
+    "Collection": 2660,
+    "lon": -84.8519506,
+    "lat": 38.0395235
+  },
+  {
+    "index": 1125,
+    "Company": "Willett Distillery",
+    "Country": "United States",
+    "Rating": 86.87,
+    "Whisky": 167,
+    "Collection": 236,
+    "lon": -85.4593812,
+    "lat": 37.7872778
+  },
+  {
+    "index": 1126,
+    "Company": "Willie's",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -111.7259855,
+    "lat": 45.349074
+  },
+  {
+    "index": 1127,
+    "Company": "Willowbank",
+    "Country": "New Zealand",
+    "Rating": 82.83,
+    "Whisky": 112,
+    "Collection": 671,
+    "lon": 170.5147146,
+    "lat": -45.855674
+  },
+  {
+    "index": 1131,
+    "Company": "Wishkah River Distillery",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 3,
+    "Collection": 2,
+    "lon": -123.8438707,
+    "lat": 46.9669685
+  },
+  {
+    "index": 1132,
+    "Company": "Witherspoon Distillery",
+    "Country": "United States",
+    "Rating": 83,
+    "Whisky": 1,
+    "Collection": 2,
+    "lon": -96.9971607,
+    "lat": 33.0447214
+  },
+  {
+    "index": 1133,
+    "Company": "Wood Hat Spirits",
+    "Country": "United States",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": -91.4481836,
+    "lat": 38.8979354
+  },
+  {
+    "index": 1134,
+    "Company": "Wood’s High Mountain Distillery",
+    "Country": "United States",
+    "Rating": 77,
+    "Whisky": 4,
+    "Collection": 2,
+    "lon": -105.992504,
+    "lat": 38.536937
+  },
+  {
+    "index": 1135,
+    "Company": "Woodford Reserve",
+    "Country": "United States",
+    "Rating": 82.12,
+    "Whisky": 167,
+    "Collection": 1549,
+    "lon": -84.8109851,
+    "lat": 38.1130266
+  },
+  {
+    "index": 1136,
+    "Company": "Woodinville Whiskey Co.",
+    "Country": "United States",
+    "Rating": 58,
+    "Whisky": 10,
+    "Collection": 14,
+    "lon": -122.159634,
+    "lat": 47.7448092
+  },
+  {
+    "index": 1138,
+    "Company": "Workshops Distillery",
+    "Country": "New Zealand",
+    "Rating": 75,
+    "Whisky": 3,
+    "Collection": 7,
+    "lon": 11.7214979,
+    "lat": 55.4632518
+  },
+  {
+    "index": 1140,
+    "Company": "Wyoming Whiskey",
+    "Country": "United States",
+    "Rating": 86.09,
+    "Whisky": 17,
+    "Collection": 38,
+    "lon": -108.1770301,
+    "lat": 43.8050952
+  },
+  {
+    "index": 1143,
+    "Company": "Yamazaki",
+    "Country": "Japan",
+    "Rating": 87.99,
+    "Whisky": 379,
+    "Collection": 13732,
+    "lon": 135.6744151,
+    "lat": 34.8923552
+  },
+  {
+    "index": 1144,
+    "Company": "Yellow Rose Distilling",
+    "Country": "United States",
+    "Rating": 71.67,
+    "Whisky": 10,
+    "Collection": 18,
+    "lon": -95.4555849,
+    "lat": 29.7884887
+  },
+  {
+    "index": 1145,
+    "Company": "Yeti Distillery",
+    "Country": "Nepal",
+    "Rating": 0,
+    "Whisky": 1,
+    "Collection": 1,
+    "lon": 84.4172666,
+    "lat": 27.6486636
+  },
+  {
+    "index": 1146,
+    "Company": "Yoichi",
+    "Country": "Japan",
+    "Rating": 86.4,
+    "Whisky": 393,
+    "Collection": 12094,
+    "lon": 140.7913728,
+    "lat": 43.1895606
+  },
+  {
+    "index": 1147,
+    "Company": "Yukon Brewing & Distilling",
+    "Country": "Canada",
+    "Rating": 86,
+    "Whisky": 7,
+    "Collection": 11,
+    "lon": -135.0787731,
+    "lat": 60.738068
+  },
+  {
+    "index": 1148,
+    "Company": "Z.Kozuba i Synowie",
+    "Country": "Poland",
+    "Rating": 45.98,
+    "Whisky": 2,
+    "Collection": 45,
+    "lon": 19.6938032,
+    "lat": 49.4793014
+  },
+  {
+    "index": 1149,
+    "Company": "Z'Graggen",
+    "Country": "Switzerland",
+    "Rating": 78.22,
+    "Whisky": 8,
+    "Collection": 36,
+    "lon": 8.5885995,
+    "lat": 47.0312554
+  },
+  {
+    "index": 1153,
+    "Company": "Zeitzer Whisky Manufactur",
+    "Country": "Germany",
+    "Rating": 77.67,
+    "Whisky": 1,
+    "Collection": 7,
+    "lon": 12.1524913,
+    "lat": 51.0340831
+  },
+  {
+    "index": 1154,
+    "Company": "Zuidam Distillery",
+    "Country": "Netherlands",
+    "Rating": 81.47,
+    "Whisky": 142,
+    "Collection": 1990,
+    "lon": 4.9389637,
+    "lat": 51.4444925
+  },
+  {
+    "index": 1155,
+    "Company": "Zur Strandburg",
+    "Country": "Germany",
+    "Rating": 72.6,
+    "Whisky": 11,
+    "Collection": 65,
+    "lon": 13.6732201,
+    "lat": 54.33107
+  },
+  {
+    "index": 1156,
+    "Company": "Zweiger",
+    "Country": "Austria",
+    "Rating": 66,
+    "Whisky": 2,
+    "Collection": 3,
+    "lon": 15.2992145,
+    "lat": 46.9591457
+  }
+]
