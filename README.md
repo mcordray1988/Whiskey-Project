@@ -21,3 +21,4 @@ WE used HTML5, CSS3, JavaScript, Leaflet JS, Python, Postgres
 ![globe](https://i.postimg.cc/rs1j6WsX/globe.png)
 ![graph](https://i.postimg.cc/qRtDFz24/graph.png)
 ![map](https://i.postimg.cc/P534kdXx/map.png)
+map created with leaflet JS
