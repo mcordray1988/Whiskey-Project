@@ -22,3 +22,5 @@ WE used HTML5, CSS3, JavaScript, Leaflet JS, Python, Postgres
 ![graph](https://i.postimg.cc/qRtDFz24/graph.png)
 ![map](https://i.postimg.cc/P534kdXx/map.png)
 
+## conclusion
+
