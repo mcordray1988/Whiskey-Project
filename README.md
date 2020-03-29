@@ -5,7 +5,7 @@
 - [Website](#web)
 - [Description](#desc)
 - [Tools](#tool)
-- [Demos](#demo)
+- [Demo](#demo)
 
 ## <a name="web"></a> Websites
 https://serene-reef-98871.herokuapp.com/
